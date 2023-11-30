@@ -1,0 +1,4977 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-11-10",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bengaluru",
+    "dates": [
+      "2023-11-09"
+    ],
+    "event": {
+      "name": "ICC Cricket World Cup",
+      "match_number": 41
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 4698,
+    "officials": {
+      "match_referees": [
+        "J Srinath"
+      ],
+      "reserve_umpires": [
+        "PR Reiffel"
+      ],
+      "tv_umpires": [
+        "RA Kettleborough"
+      ],
+      "umpires": [
+        "AT Holdstock",
+        "JS Wilson"
+      ]
+    },
+    "outcome": {
+      "winner": "New Zealand",
+      "by": {
+        "wickets": 5
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "TA Boult"
+    ],
+    "players": {
+      "Sri Lanka": [
+        "P Nissanka",
+        "MDKJ Perera",
+        "BKG Mendis",
+        "S Samarawickrama",
+        "KIC Asalanka",
+        "AD Mathews",
+        "DM de Silva",
+        "C Karunaratne",
+        "M Theekshana",
+        "PVD Chameera",
+        "D Madushanka"
+      ],
+      "New Zealand": [
+        "DP Conway",
+        "R Ravindra",
+        "KS Williamson",
+        "DJ Mitchell",
+        "MS Chapman",
+        "GD Phillips",
+        "TWM Latham",
+        "MJ Santner",
+        "LH Ferguson",
+        "TG Southee",
+        "TA Boult"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Mathews": "896d78ad",
+        "AT Holdstock": "6fa3258c",
+        "BKG Mendis": "5d1e7582",
+        "C Karunaratne": "fb3e0d39",
+        "D Madushanka": "de7d833e",
+        "DJ Mitchell": "eade4650",
+        "DM de Silva": "7d608e12",
+        "DP Conway": "df5a6881",
+        "GD Phillips": "9a46c4e5",
+        "J Srinath": "bad31fac",
+        "JS Wilson": "d7f3b72f",
+        "KIC Asalanka": "732c038e",
+        "KS Williamson": "d027ba9f",
+        "LH Ferguson": "2f9d0389",
+        "M Theekshana": "f24c6701",
+        "MDKJ Perera": "f21043a5",
+        "MJ Santner": "e4a0deae",
+        "MS Chapman": "7fa12533",
+        "P Nissanka": "8ee36b18",
+        "PR Reiffel": "c9354f29",
+        "PVD Chameera": "327b58d3",
+        "R Ravindra": "ba5e1069",
+        "RA Kettleborough": "4017868f",
+        "S Samarawickrama": "9ab2914d",
+        "TA Boult": "a818c1be",
+        "TG Southee": "13c35c9e",
+        "TWM Latham": "e824e6ee"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "international",
+    "teams": [
+      "Sri Lanka",
+      "New Zealand"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "New Zealand"
+    },
+    "venue": "M Chinnaswamy Stadium, Bengaluru"
+  },
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "TG Southee",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TG Southee",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TG Southee",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TG Southee",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "TG Southee",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Nissanka",
+                  "fielders": [
+                    {
+                      "name": "TWM Latham"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "TG Southee",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TA Boult",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TA Boult",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TA Boult",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TA Boult",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TA Boult",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "TA Boult",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "TG Southee",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "TG Southee",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "TG Southee",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TG Southee",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TG Southee",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TG Southee",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BKG Mendis",
+                  "fielders": [
+                    {
+                      "name": "R Ravindra"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TA Boult",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Samarawickrama",
+                  "fielders": [
+                    {
+                      "name": "DJ Mitchell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TG Southee",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TG Southee",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TG Southee",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TG Southee",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TG Southee",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TG Southee",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TA Boult",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TA Boult",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TA Boult",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "TA Boult",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "LH Ferguson",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "LH Ferguson",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "LH Ferguson",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "LH Ferguson",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "LH Ferguson",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "LH Ferguson",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "review": {
+                "by": "New Zealand",
+                "umpire": "AT Holdstock",
+                "batter": "KIC Asalanka",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KIC Asalanka",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "TA Boult",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "LH Ferguson",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "LH Ferguson",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "LH Ferguson",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MDKJ Perera",
+                  "fielders": [
+                    {
+                      "name": "MJ Santner"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "LH Ferguson",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "LH Ferguson",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "LH Ferguson",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AD Mathews",
+              "bowler": "TA Boult",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "TA Boult",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "TA Boult",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "TA Boult",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "TA Boult",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "TA Boult",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "DM de Silva",
+              "bowler": "LH Ferguson",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "LH Ferguson",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "LH Ferguson",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "LH Ferguson",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "LH Ferguson",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "LH Ferguson",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AD Mathews",
+              "bowler": "MJ Santner",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "MJ Santner",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "MJ Santner",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "MJ Santner",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "MJ Santner",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "MJ Santner",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "AD Mathews",
+              "bowler": "LH Ferguson",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "LH Ferguson",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "LH Ferguson",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "LH Ferguson",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "LH Ferguson",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "LH Ferguson",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "DM de Silva",
+              "bowler": "MJ Santner",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "MJ Santner",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "MJ Santner",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "MJ Santner",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "MJ Santner",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "MJ Santner",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "AD Mathews",
+              "bowler": "TG Southee",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "TG Southee",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "TG Southee",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "TG Southee",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "TG Southee",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "TG Southee",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AD Mathews",
+              "bowler": "MJ Santner",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "MJ Santner",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "MJ Santner",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "MJ Santner",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Mathews",
+                  "fielders": [
+                    {
+                      "name": "DJ Mitchell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "MJ Santner",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "MJ Santner",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "DM de Silva",
+              "bowler": "TG Southee",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "TG Southee",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "TG Southee",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "TG Southee",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "TG Southee",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "TG Southee",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "DM de Silva",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DM de Silva",
+                  "fielders": [
+                    {
+                      "name": "DJ Mitchell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "C Karunaratne",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "R Ravindra",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "MJ Santner",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "C Karunaratne",
+              "bowler": "MJ Santner",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "C Karunaratne",
+              "bowler": "LH Ferguson",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "LH Ferguson",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "LH Ferguson",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Karunaratne",
+                  "fielders": [
+                    {
+                      "name": "TWM Latham"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "LH Ferguson",
+              "non_striker": "M Theekshana",
+              "review": {
+                "by": "New Zealand",
+                "umpire": "JS Wilson",
+                "batter": "PVD Chameera",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "LH Ferguson",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "LH Ferguson",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "MJ Santner",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "MJ Santner",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "MJ Santner",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "LH Ferguson",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "LH Ferguson",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "LH Ferguson",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "MJ Santner",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "LH Ferguson",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "PVD Chameera",
+              "bowler": "TA Boult",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "TA Boult",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "TA Boult",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "TA Boult",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "TA Boult",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "TA Boult",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "MJ Santner",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "MJ Santner",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "MJ Santner",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "non_striker": "PVD Chameera",
+              "review": {
+                "by": "New Zealand",
+                "umpire": "JS Wilson",
+                "batter": "M Theekshana",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "PVD Chameera",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PVD Chameera",
+                  "fielders": [
+                    {
+                      "name": "TA Boult"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "R Ravindra",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "R Ravindra",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "TA Boult",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "R Ravindra",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "R Ravindra",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TA Boult",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "TA Boult",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "TA Boult",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "R Ravindra",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "D Madushanka",
+              "bowler": "LH Ferguson",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "LH Ferguson",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "LH Ferguson",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "LH Ferguson",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "R Ravindra",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "R Ravindra",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "R Ravindra",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "R Ravindra",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "R Ravindra",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "LH Ferguson",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "LH Ferguson",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "D Madushanka",
+              "bowler": "TG Southee",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "TG Southee",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "TG Southee",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "TG Southee",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "TG Southee",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "TG Southee",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "GD Phillips",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "GD Phillips",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "GD Phillips",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "GD Phillips",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "GD Phillips",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "GD Phillips",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "R Ravindra",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "TG Southee",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TG Southee",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "TG Southee",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "TG Southee",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "TG Southee",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TG Southee",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "R Ravindra",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "TG Southee",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TG Southee",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "TG Southee",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "TG Southee",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "TG Southee",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "TG Southee",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "R Ravindra",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "R Ravindra",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "R Ravindra",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Madushanka",
+                  "fielders": [
+                    {
+                      "name": "TWM Latham"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 46.4,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "AT Holdstock",
+                "batter": "DP Conway",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "M Theekshana",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "DM de Silva",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "DM de Silva",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "DM de Silva",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "DM de Silva",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "DM de Silva",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "DM de Silva",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "D Madushanka",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "D Madushanka",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "DM de Silva",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "DM de Silva",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "DM de Silva",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "DM de Silva",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "DM de Silva",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "DM de Silva",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "PVD Chameera",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "PVD Chameera",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "PVD Chameera",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "PVD Chameera",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "PVD Chameera",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "PVD Chameera",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "M Theekshana",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "M Theekshana",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "M Theekshana",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "M Theekshana",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "M Theekshana",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "M Theekshana",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "PVD Chameera",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "PVD Chameera",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "PVD Chameera",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "PVD Chameera",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "PVD Chameera",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "PVD Chameera",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "M Theekshana",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "PVD Chameera",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "PVD Chameera",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DP Conway",
+                  "fielders": [
+                    {
+                      "name": "DM de Silva"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "PVD Chameera",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "PVD Chameera",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "PVD Chameera",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "PVD Chameera",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "M Theekshana",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Ravindra",
+                  "fielders": [
+                    {
+                      "name": "DM de Silva"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "PVD Chameera",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PVD Chameera",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PVD Chameera",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PVD Chameera",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PVD Chameera",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PVD Chameera",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "M Theekshana",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "M Theekshana",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "M Theekshana",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "AD Mathews",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "AD Mathews",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "AD Mathews",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "AD Mathews",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "AD Mathews",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "AD Mathews",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "M Theekshana",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "AD Mathews",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "AD Mathews",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KS Williamson",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "AD Mathews",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "AD Mathews",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "AD Mathews",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "AD Mathews",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "AD Mathews",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "D Madushanka",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "D Madushanka",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "D Madushanka",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "D Madushanka",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "D Madushanka",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "D Madushanka",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "AD Mathews",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "AD Mathews",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "AD Mathews",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Chapman",
+                  "fielders": [
+                    {
+                      "name": "S Samarawickrama"
+                    },
+                    {
+                      "name": "AD Mathews"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "AD Mathews",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "AD Mathews",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "AD Mathews",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "D Madushanka",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "D Madushanka",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "D Madushanka",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "D Madushanka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "D Madushanka",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "D Madushanka",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "D Madushanka",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "GD Phillips",
+              "bowler": "AD Mathews",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "AD Mathews",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "AD Mathews",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "AD Mathews",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJ Mitchell",
+                  "fielders": [
+                    {
+                      "name": "KIC Asalanka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "AD Mathews",
+              "non_striker": "GD Phillips",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "JS Wilson",
+                "batter": "TWM Latham",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "AD Mathews",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "GD Phillips",
+              "bowler": "D Madushanka",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "D Madushanka",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 23.2,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 172
+      }
+    }
+  ]
+}

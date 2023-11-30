@@ -1,0 +1,6337 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-11-08",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Pune",
+    "dates": [
+      "2023-11-08"
+    ],
+    "event": {
+      "name": "ICC Cricket World Cup",
+      "match_number": 40
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 4697,
+    "officials": {
+      "match_referees": [
+        "AJ Pycroft"
+      ],
+      "reserve_umpires": [
+        "P Wilson"
+      ],
+      "tv_umpires": [
+        "M Erasmus"
+      ],
+      "umpires": [
+        "Ahsan Raza",
+        "RJ Tucker"
+      ]
+    },
+    "outcome": {
+      "winner": "England",
+      "by": {
+        "runs": 160
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "BA Stokes"
+    ],
+    "players": {
+      "England": [
+        "JM Bairstow",
+        "DJ Malan",
+        "JE Root",
+        "BA Stokes",
+        "HC Brook",
+        "JC Buttler",
+        "MM Ali",
+        "CR Woakes",
+        "DJ Willey",
+        "AAP Atkinson",
+        "AU Rashid"
+      ],
+      "Netherlands": [
+        "W Barresi",
+        "MP O'Dowd",
+        "CN Ackermann",
+        "SA Engelbrecht",
+        "SA Edwards",
+        "BFW de Leede",
+        "AT Nidamanuru",
+        "LV van Beek",
+        "RE van der Merwe",
+        "A Dutt",
+        "PA van Meekeren"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dutt": "803dbf1d",
+        "AAP Atkinson": "70d57519",
+        "AJ Pycroft": "685d3f80",
+        "AT Nidamanuru": "a319edf8",
+        "AU Rashid": "249d60c9",
+        "Ahsan Raza": "e0e5b209",
+        "BA Stokes": "e087956b",
+        "BFW de Leede": "fc4375ef",
+        "CN Ackermann": "e734d090",
+        "CR Woakes": "4c5d73db",
+        "DJ Malan": "ad9c32a2",
+        "DJ Willey": "7f048519",
+        "HC Brook": "4ae1755b",
+        "JC Buttler": "99b75528",
+        "JE Root": "a343262c",
+        "JM Bairstow": "abb83e27",
+        "LV van Beek": "782fb776",
+        "M Erasmus": "15d3c895",
+        "MM Ali": "bb351c23",
+        "MP O'Dowd": "b699df47",
+        "P Wilson": "68304a36",
+        "PA van Meekeren": "4557dc54",
+        "RE van der Merwe": "05c2ca46",
+        "RJ Tucker": "38810cfc",
+        "SA Edwards": "b59db04f",
+        "SA Engelbrecht": "81a0e294",
+        "W Barresi": "0d677597"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "international",
+    "teams": [
+      "England",
+      "Netherlands"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "England"
+    },
+    "venue": "Maharashtra Cricket Association Stadium, Pune"
+  },
+  "innings": [
+    {
+      "team": "England",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "JM Bairstow",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JM Bairstow",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JM Bairstow",
+              "bowler": "LV van Beek",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "LV van Beek",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "LV van Beek",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "LV van Beek",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "LV van Beek",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "LV van Beek",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JM Bairstow",
+                  "fielders": [
+                    {
+                      "name": "PA van Meekeren"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "DJ Malan",
+              "bowler": "PA van Meekeren",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "DJ Malan",
+              "bowler": "BFW de Leede",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "BFW de Leede",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "BFW de Leede",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "BFW de Leede",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "BFW de Leede",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "DJ Malan",
+              "bowler": "PA van Meekeren",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "PA van Meekeren",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "PA van Meekeren",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "DJ Malan",
+              "bowler": "BFW de Leede",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "BFW de Leede",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "PA van Meekeren",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "PA van Meekeren",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "DJ Malan",
+              "bowler": "CN Ackermann",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "CN Ackermann",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "CN Ackermann",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "CN Ackermann",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "CN Ackermann",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "CN Ackermann",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "DJ Malan",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "CN Ackermann",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "CN Ackermann",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "CN Ackermann",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "CN Ackermann",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "CN Ackermann",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "CN Ackermann",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "DJ Malan",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "LV van Beek",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JE Root",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "A Dutt",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "A Dutt",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJ Malan",
+                  "fielders": [
+                    {
+                      "name": "SA Edwards"
+                    },
+                    {
+                      "name": "LV van Beek"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "HC Brook",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "HC Brook",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HC Brook",
+                  "fielders": [
+                    {
+                      "name": "CN Ackermann"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "CN Ackermann",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "CN Ackermann",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "CN Ackermann",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "CN Ackermann",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "JC Buttler",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JC Buttler",
+                  "fielders": [
+                    {
+                      "name": "AT Nidamanuru"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "CN Ackermann",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "CN Ackermann",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "CN Ackermann",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "MM Ali",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "CN Ackermann",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "CN Ackermann",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "CN Ackermann",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "A Dutt",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "A Dutt",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MM Ali",
+                  "fielders": [
+                    {
+                      "name": "BFW de Leede"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "A Dutt",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "A Dutt",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "A Dutt",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "A Dutt",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "CR Woakes",
+              "bowler": "A Dutt",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "A Dutt",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "A Dutt",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "A Dutt",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "A Dutt",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "A Dutt",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "CN Ackermann",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "CN Ackermann",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "CN Ackermann",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "CR Woakes",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "CR Woakes",
+              "bowler": "A Dutt",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "A Dutt",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "A Dutt",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "A Dutt",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "A Dutt",
+              "non_striker": "CR Woakes",
+              "review": {
+                "by": "Netherlands",
+                "umpire": "RJ Tucker",
+                "batter": "BA Stokes",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "A Dutt",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 6,
+                "extras": 1,
+                "total": 7
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "A Dutt",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "LV van Beek",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PA van Meekeren",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "BFW de Leede",
+              "non_striker": "CR Woakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CR Woakes",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CR Woakes",
+                  "fielders": [
+                    {
+                      "name": "SA Edwards"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "BFW de Leede",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJ Willey",
+                  "fielders": [
+                    {
+                      "name": "SA Engelbrecht"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AAP Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "AAP Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "AAP Atkinson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "AAP Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "LV van Beek",
+              "non_striker": "AAP Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BA Stokes",
+                  "fielders": [
+                    {
+                      "name": "SA Engelbrecht"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AU Rashid",
+              "bowler": "LV van Beek",
+              "non_striker": "AAP Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AAP Atkinson",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AU Rashid",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AAP Atkinson",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AU Rashid",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AAP Atkinson",
+              "bowler": "LV van Beek",
+              "non_striker": "AU Rashid",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 49.9,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Netherlands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "MP O'Dowd",
+              "review": {
+                "by": "England",
+                "umpire": "Ahsan Raza",
+                "batter": "W Barresi",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CR Woakes",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CR Woakes",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CR Woakes",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CR Woakes",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CR Woakes",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CR Woakes",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CR Woakes",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CR Woakes",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CR Woakes",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CR Woakes",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CR Woakes",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MP O'Dowd",
+                  "fielders": [
+                    {
+                      "name": "MM Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "CR Woakes",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "DJ Willey",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CN Ackermann",
+                  "fielders": [
+                    {
+                      "name": "JC Buttler"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "DJ Willey",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "DJ Willey",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "DJ Willey",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "DJ Willey",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "DJ Willey",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "DJ Willey",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "DJ Willey",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "DJ Willey",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "DJ Willey",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "DJ Willey",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AAP Atkinson",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AAP Atkinson",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AAP Atkinson",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AAP Atkinson",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MM Ali",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AAP Atkinson",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AAP Atkinson",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AAP Atkinson",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AAP Atkinson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AAP Atkinson",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AAP Atkinson",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MM Ali",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MM Ali",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AAP Atkinson",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AAP Atkinson",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MM Ali",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MM Ali",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MM Ali",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AAP Atkinson",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AAP Atkinson",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AAP Atkinson",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MM Ali",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "W Barresi",
+                  "fielders": [
+                    {
+                      "name": "MM Ali"
+                    },
+                    {
+                      "name": "CR Woakes"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MM Ali",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MM Ali",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MM Ali",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MM Ali",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MM Ali",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "CR Woakes",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "CR Woakes",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "DJ Willey",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "DJ Willey",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "DJ Willey",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "DJ Willey",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Engelbrecht",
+                  "fielders": [
+                    {
+                      "name": "CR Woakes"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "DJ Willey",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "DJ Willey",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "AU Rashid",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "BFW de Leede",
+              "bowler": "DJ Willey",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "DJ Willey",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "DJ Willey",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "DJ Willey",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "DJ Willey",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "DJ Willey",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BFW de Leede",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AAP Atkinson",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AAP Atkinson",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AAP Atkinson",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AAP Atkinson",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AAP Atkinson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "AAP Atkinson",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AAP Atkinson",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AAP Atkinson",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AAP Atkinson",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AAP Atkinson",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AAP Atkinson",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "MM Ali",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "MM Ali",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "MM Ali",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MM Ali",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "MM Ali",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "MM Ali",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "MM Ali",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MM Ali",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MM Ali",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MM Ali",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MM Ali",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Edwards",
+                  "fielders": [
+                    {
+                      "name": "DJ Malan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "MM Ali",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LV van Beek",
+                  "fielders": [
+                    {
+                      "name": "DJ Malan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "MM Ali",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "MM Ali",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "MM Ali",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "MM Ali",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RE van der Merwe",
+                  "fielders": [
+                    {
+                      "name": "AU Rashid"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "MM Ali",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "MM Ali",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "AU Rashid",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Dutt",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "AU Rashid",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "MM Ali",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "MM Ali",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PA van Meekeren",
+                  "fielders": [
+                    {
+                      "name": "JC Buttler"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 37.2,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 340
+      }
+    }
+  ]
+}

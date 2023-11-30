@@ -1,0 +1,5459 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-09-06",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Lahore",
+    "dates": [
+      "2023-09-06"
+    ],
+    "event": {
+      "name": "Asia Cup",
+      "match_number": 7
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 4634,
+    "officials": {
+      "match_referees": [
+        "DC Boon"
+      ],
+      "reserve_umpires": [
+        "Asif Yaqoob"
+      ],
+      "tv_umpires": [
+        "CB Gaffaney"
+      ],
+      "umpires": [
+        "Ahmed Shah Pakteen",
+        "L Rusere"
+      ]
+    },
+    "outcome": {
+      "winner": "Pakistan",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "Haris Rauf"
+    ],
+    "players": {
+      "Bangladesh": [
+        "Mohammad Naim",
+        "Mehedi Hasan Miraz",
+        "Liton Das",
+        "Shakib Al Hasan",
+        "Towhid Hridoy",
+        "Mushfiqur Rahim",
+        "Shamim Hossain",
+        "Afif Hossain",
+        "Taskin Ahmed",
+        "Shoriful Islam",
+        "Hasan Mahmud"
+      ],
+      "Pakistan": [
+        "Fakhar Zaman",
+        "Imam-ul-Haq",
+        "Babar Azam",
+        "Mohammad Rizwan",
+        "Agha Salman",
+        "Iftikhar Ahmed",
+        "Shadab Khan",
+        "Faheem Ashraf",
+        "Shaheen Shah Afridi",
+        "Naseem Shah",
+        "Haris Rauf"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Afif Hossain": "37138918",
+        "Agha Salman": "89c16049",
+        "Ahmed Shah Pakteen": "43602937",
+        "Asif Yaqoob": "6b35790c",
+        "Babar Azam": "8a75e999",
+        "CB Gaffaney": "d5ac41d8",
+        "DC Boon": "e79a1fe3",
+        "Faheem Ashraf": "bd4ea627",
+        "Fakhar Zaman": "1777c020",
+        "Haris Rauf": "24bb1c2f",
+        "Hasan Mahmud": "80ad39ac",
+        "Iftikhar Ahmed": "29e253dd",
+        "Imam-ul-Haq": "40c041ea",
+        "L Rusere": "6a4734ae",
+        "Liton Das": "0404d43c",
+        "Mehedi Hasan Miraz": "c58b0108",
+        "Mohammad Naim": "7923a51d",
+        "Mohammad Rizwan": "2f26ac1a",
+        "Mushfiqur Rahim": "a94e08ea",
+        "Naseem Shah": "9c9af282",
+        "Shadab Khan": "9de62878",
+        "Shaheen Shah Afridi": "45a7e761",
+        "Shakib Al Hasan": "7dc35884",
+        "Shamim Hossain": "711249d1",
+        "Shoriful Islam": "bb34fd31",
+        "Taskin Ahmed": "ef18b66e",
+        "Towhid Hridoy": "9e52a414"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Bangladesh",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Bangladesh"
+    },
+    "venue": "Gaddafi Stadium, Lahore"
+  },
+  "innings": [
+    {
+      "team": "Bangladesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mehedi Hasan Miraz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mehedi Hasan Miraz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mehedi Hasan Miraz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mehedi Hasan Miraz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mehedi Hasan Miraz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mehedi Hasan Miraz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mehedi Hasan Miraz",
+                  "fielders": [
+                    {
+                      "name": "Fakhar Zaman"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Naseem Shah",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Naseem Shah",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Naseem Shah",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Liton Das",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Rizwan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Naseem Shah",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Naseem Shah",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Naseem Shah",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Haris Rauf",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Haris Rauf",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Naim",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Towhid Hridoy",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Haris Rauf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Haris Rauf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shaheen Shah Afridi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shadab Khan",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shadab Khan",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shadab Khan",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shadab Khan",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Naseem Shah",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Naseem Shah",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Naseem Shah",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Naseem Shah",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Naseem Shah",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shadab Khan",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shadab Khan",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Naseem Shah",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shadab Khan",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shadab Khan",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shadab Khan",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Haris Rauf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Haris Rauf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Haris Rauf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Haris Rauf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Haris Rauf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shadab Khan",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Haris Rauf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shadab Khan",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shadab Khan",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Agha Salman",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Agha Salman",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Agha Salman",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Agha Salman",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Agha Salman",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Agha Salman",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shadab Khan",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shadab Khan",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shadab Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shadab Khan",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shakib Al Hasan",
+                  "fielders": [
+                    {
+                      "name": "Fakhar Zaman"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shamim Hossain",
+                  "fielders": [
+                    {
+                      "name": "Imam-ul-Haq"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mushfiqur Rahim",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Rizwan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "Haris Rauf",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Taskin Ahmed",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Rizwan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shoriful Islam",
+              "bowler": "Haris Rauf",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Haris Rauf",
+              "non_striker": "Shoriful Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoriful Islam",
+              "bowler": "Haris Rauf",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Naseem Shah",
+              "non_striker": "Shoriful Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Afif Hossain",
+                  "fielders": [
+                    {
+                      "name": "Faheem Ashraf"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Hasan Mahmud",
+              "bowler": "Naseem Shah",
+              "non_striker": "Shoriful Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Mahmud",
+              "bowler": "Naseem Shah",
+              "non_striker": "Shoriful Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoriful Islam",
+              "bowler": "Naseem Shah",
+              "non_striker": "Hasan Mahmud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shoriful Islam",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 38.4,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "review": {
+                "by": "Pakistan",
+                "umpire": "L Rusere",
+                "batter": "Fakhar Zaman",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Fakhar Zaman",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Babar Azam",
+              "review": {
+                "by": "Bangladesh",
+                "umpire": "Ahmed Shah Pakteen",
+                "batter": "Imam-ul-Haq",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Babar Azam",
+              "review": {
+                "by": "Bangladesh",
+                "umpire": "L Rusere",
+                "batter": "Imam-ul-Haq",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Babar Azam",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "review": {
+                "by": "Pakistan",
+                "umpire": "Ahmed Shah Pakteen",
+                "batter": "Imam-ul-Haq",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Imam-ul-Haq",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Hasan Mahmud",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "Agha Salman",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shamim Hossain",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Shamim Hossain",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shamim Hossain",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Shamim Hossain",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shamim Hossain",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shamim Hossain",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "Agha Salman",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Agha Salman",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.3,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 194
+      }
+    }
+  ]
+}

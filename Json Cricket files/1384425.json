@@ -1,0 +1,5688 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-11-04",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Lucknow",
+    "dates": [
+      "2023-11-03"
+    ],
+    "event": {
+      "name": "ICC Cricket World Cup",
+      "match_number": 34
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 4691,
+    "officials": {
+      "match_referees": [
+        "J Srinath"
+      ],
+      "reserve_umpires": [
+        "HDPK Dharmasena"
+      ],
+      "tv_umpires": [
+        "MA Gough"
+      ],
+      "umpires": [
+        "Nitin Menon",
+        "Sharfuddoula"
+      ]
+    },
+    "outcome": {
+      "winner": "Afghanistan",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "Mohammad Nabi"
+    ],
+    "players": {
+      "Netherlands": [
+        "W Barresi",
+        "MP O'Dowd",
+        "CN Ackermann",
+        "SA Engelbrecht",
+        "SA Edwards",
+        "BFW de Leede",
+        "Saqib Zulfiqar",
+        "LV van Beek",
+        "RE van der Merwe",
+        "A Dutt",
+        "PA van Meekeren"
+      ],
+      "Afghanistan": [
+        "Rahmanullah Gurbaz",
+        "Ibrahim Zadran",
+        "Rahmat Shah",
+        "Hashmatullah Shahidi",
+        "Azmatullah Omarzai",
+        "Mohammad Nabi",
+        "Ikram Alikhil",
+        "Rashid Khan",
+        "Mujeeb Ur Rahman",
+        "Noor Ahmad",
+        "Fazalhaq Farooqi"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dutt": "803dbf1d",
+        "Azmatullah Omarzai": "8f6dd463",
+        "BFW de Leede": "fc4375ef",
+        "CN Ackermann": "e734d090",
+        "Fazalhaq Farooqi": "e9c7f0d0",
+        "HDPK Dharmasena": "323e4c16",
+        "Hashmatullah Shahidi": "c2a46cb4",
+        "Ibrahim Zadran": "d4550956",
+        "Ikram Alikhil": "f67c958d",
+        "J Srinath": "bad31fac",
+        "LV van Beek": "782fb776",
+        "MA Gough": "76752ac8",
+        "MP O'Dowd": "b699df47",
+        "Mohammad Nabi": "62af8546",
+        "Mujeeb Ur Rahman": "7d92277a",
+        "Nitin Menon": "e1d41d9e",
+        "Noor Ahmad": "efc04be7",
+        "PA van Meekeren": "4557dc54",
+        "RE van der Merwe": "05c2ca46",
+        "Rahmanullah Gurbaz": "0bacade8",
+        "Rahmat Shah": "f9c29fcd",
+        "Rashid Khan": "5f547c8b",
+        "SA Edwards": "b59db04f",
+        "SA Engelbrecht": "81a0e294",
+        "Saqib Zulfiqar": "5d38476c",
+        "Sharfuddoula": "63896abb",
+        "W Barresi": "0d677597"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "international",
+    "teams": [
+      "Netherlands",
+      "Afghanistan"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Netherlands"
+    },
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  "innings": [
+    {
+      "team": "Netherlands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Mujeeb Ur Rahman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Barresi",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mujeeb Ur Rahman",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mujeeb Ur Rahman",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "MP O'Dowd",
+                  "fielders": [
+                    {
+                      "name": "Azmatullah Omarzai"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Azmatullah Omarzai",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CN Ackermann",
+              "review": {
+                "by": "Afghanistan",
+                "umpire": "Nitin Menon",
+                "batter": "SA Engelbrecht",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CN Ackermann",
+                  "fielders": [
+                    {
+                      "name": "Ikram Alikhil"
+                    },
+                    {
+                      "name": "Rashid Khan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Edwards",
+                  "fielders": [
+                    {
+                      "name": "Ikram Alikhil"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "BFW de Leede",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "BFW de Leede",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BFW de Leede",
+                  "fielders": [
+                    {
+                      "name": "Ikram Alikhil"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Saqib Zulfiqar",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqib Zulfiqar",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqib Zulfiqar",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqib Zulfiqar",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saqib Zulfiqar",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqib Zulfiqar",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saqib Zulfiqar",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saqib Zulfiqar",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "Saqib Zulfiqar",
+              "review": {
+                "by": "Afghanistan",
+                "umpire": "Sharfuddoula",
+                "batter": "SA Engelbrecht",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saqib Zulfiqar",
+              "bowler": "Noor Ahmad",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqib Zulfiqar",
+              "bowler": "Noor Ahmad",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "Saqib Zulfiqar",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saqib Zulfiqar",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqib Zulfiqar",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "Saqib Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saqib Zulfiqar",
+              "bowler": "Noor Ahmad",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqib Zulfiqar",
+              "bowler": "Noor Ahmad",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saqib Zulfiqar",
+                  "fielders": [
+                    {
+                      "name": "Ikram Alikhil"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "Noor Ahmad",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "Noor Ahmad",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "Noor Ahmad",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "Rashid Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "Rashid Khan",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "Noor Ahmad",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Rashid Khan",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "Noor Ahmad",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "Noor Ahmad",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LV van Beek",
+                  "fielders": [
+                    {
+                      "name": "Ikram Alikhil"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Noor Ahmad",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Noor Ahmad",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Noor Ahmad",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Noor Ahmad",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Engelbrecht",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Nabi"
+                    },
+                    {
+                      "name": "Ikram Alikhil"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Rashid Khan",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Rashid Khan",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Rashid Khan",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Rashid Khan",
+              "non_striker": "A Dutt",
+              "review": {
+                "by": "Netherlands",
+                "umpire": "Sharfuddoula",
+                "batter": "RE van der Merwe",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Rashid Khan",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Rashid Khan",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "A Dutt",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Rashid Khan",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Rashid Khan",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Rashid Khan",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Rashid Khan",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Rashid Khan",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Rashid Khan",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "A Dutt",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Mujeeb Ur Rahman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "A Dutt",
+              "bowler": "Rashid Khan",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Rashid Khan",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Rashid Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Rashid Khan",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Rashid Khan",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Rashid Khan",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Rashid Khan",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Noor Ahmad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RE van der Merwe",
+                  "fielders": [
+                    {
+                      "name": "Ibrahim Zadran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "A Dutt",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "A Dutt",
+              "bowler": "Noor Ahmad",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "A Dutt",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Noor Ahmad",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "A Dutt",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "A Dutt",
+              "review": {
+                "by": "Netherlands",
+                "umpire": "Nitin Menon",
+                "batter": "PA van Meekeren",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PA van Meekeren",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 46.3,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Afghanistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "A Dutt",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "A Dutt",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "A Dutt",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "LV van Beek",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "LV van Beek",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "LV van Beek",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "LV van Beek",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "LV van Beek",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "LV van Beek",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "LV van Beek",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "LV van Beek",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "LV van Beek",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "LV van Beek",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "LV van Beek",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "LV van Beek",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "LV van Beek",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "LV van Beek",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "LV van Beek",
+              "non_striker": "Ibrahim Zadran",
+              "review": {
+                "by": "Netherlands",
+                "umpire": "Sharfuddoula",
+                "batter": "Rahmanullah Gurbaz",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rahmanullah Gurbaz",
+                  "fielders": [
+                    {
+                      "name": "SA Edwards"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "LV van Beek",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "LV van Beek",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "LV van Beek",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "A Dutt",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "LV van Beek",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "LV van Beek",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "LV van Beek",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "LV van Beek",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "LV van Beek",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "LV van Beek",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "A Dutt",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "A Dutt",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ibrahim Zadran",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "A Dutt",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "A Dutt",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "A Dutt",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "A Dutt",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "A Dutt",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "A Dutt",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "A Dutt",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "A Dutt",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "A Dutt",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "LV van Beek",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "LV van Beek",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "LV van Beek",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "LV van Beek",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "LV van Beek",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "LV van Beek",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "Saqib Zulfiqar",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "LV van Beek",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "LV van Beek",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "LV van Beek",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "LV van Beek",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "LV van Beek",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "LV van Beek",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Rahmat Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmat Shah",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rahmat Shah",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "LV van Beek",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "LV van Beek",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "LV van Beek",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "LV van Beek",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "LV van Beek",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "LV van Beek",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "CN Ackermann",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "CN Ackermann",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "CN Ackermann",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "CN Ackermann",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "CN Ackermann",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "CN Ackermann",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "CN Ackermann",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "CN Ackermann",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "CN Ackermann",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "CN Ackermann",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "CN Ackermann",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "CN Ackermann",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "A Dutt",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "A Dutt",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "A Dutt",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "A Dutt",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "A Dutt",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "A Dutt",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "CN Ackermann",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "CN Ackermann",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "CN Ackermann",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "CN Ackermann",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "CN Ackermann",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "CN Ackermann",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "CN Ackermann",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "A Dutt",
+              "non_striker": "Hashmatullah Shahidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "A Dutt",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hashmatullah Shahidi",
+              "bowler": "A Dutt",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 31.3,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 180
+      }
+    }
+  ]
+}

@@ -1,0 +1,6720 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-10-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Hyderabad",
+    "dates": [
+      "2023-10-09"
+    ],
+    "event": {
+      "name": "ICC Cricket World Cup",
+      "match_number": 6
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 4663,
+    "officials": {
+      "match_referees": [
+        "AJ Pycroft"
+      ],
+      "reserve_umpires": [
+        "Nitin Menon"
+      ],
+      "tv_umpires": [
+        "JS Wilson"
+      ],
+      "umpires": [
+        "PR Reiffel",
+        "RJ Tucker"
+      ]
+    },
+    "outcome": {
+      "winner": "New Zealand",
+      "by": {
+        "runs": 99
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "MJ Santner"
+    ],
+    "players": {
+      "New Zealand": [
+        "DP Conway",
+        "WA Young",
+        "R Ravindra",
+        "DJ Mitchell",
+        "TWM Latham",
+        "GD Phillips",
+        "MS Chapman",
+        "MJ Santner",
+        "MJ Henry",
+        "LH Ferguson",
+        "TA Boult"
+      ],
+      "Netherlands": [
+        "Vikramjit Singh",
+        "MP O'Dowd",
+        "CN Ackermann",
+        "BFW de Leede",
+        "AT Nidamanuru",
+        "SA Edwards",
+        "SA Engelbrecht",
+        "RE van der Merwe",
+        "R Klein",
+        "A Dutt",
+        "PA van Meekeren"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dutt": "803dbf1d",
+        "AJ Pycroft": "685d3f80",
+        "AT Nidamanuru": "a319edf8",
+        "BFW de Leede": "fc4375ef",
+        "CN Ackermann": "e734d090",
+        "DJ Mitchell": "eade4650",
+        "DP Conway": "df5a6881",
+        "GD Phillips": "9a46c4e5",
+        "JS Wilson": "d7f3b72f",
+        "LH Ferguson": "2f9d0389",
+        "MJ Henry": "e84ac20c",
+        "MJ Santner": "e4a0deae",
+        "MP O'Dowd": "b699df47",
+        "MS Chapman": "7fa12533",
+        "Nitin Menon": "e1d41d9e",
+        "PA van Meekeren": "4557dc54",
+        "PR Reiffel": "c9354f29",
+        "R Klein": "ff1ec94d",
+        "R Ravindra": "ba5e1069",
+        "RE van der Merwe": "05c2ca46",
+        "RJ Tucker": "38810cfc",
+        "SA Edwards": "b59db04f",
+        "SA Engelbrecht": "81a0e294",
+        "TA Boult": "a818c1be",
+        "TWM Latham": "e824e6ee",
+        "Vikramjit Singh": "2a9eee66",
+        "WA Young": "8afe73e2"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "international",
+    "teams": [
+      "New Zealand",
+      "Netherlands"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Netherlands"
+    },
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad"
+  },
+  "innings": [
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "WA Young",
+              "bowler": "R Klein",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "R Klein",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "R Klein",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "R Klein",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "R Klein",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "R Klein",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "WA Young",
+              "bowler": "R Klein",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "R Klein",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "R Klein",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "R Klein",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "R Klein",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "R Klein",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "A Dutt",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "A Dutt",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "A Dutt",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "A Dutt",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "A Dutt",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "R Klein",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "R Klein",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "R Klein",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "R Klein",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "R Klein",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "R Klein",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "WA Young",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "PA van Meekeren",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "PA van Meekeren",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "WA Young",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "WA Young",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "PA van Meekeren",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "PA van Meekeren",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "PA van Meekeren",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "PA van Meekeren",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "PA van Meekeren",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "PA van Meekeren",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "PA van Meekeren",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DP Conway",
+                  "fielders": [
+                    {
+                      "name": "BFW de Leede"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "WA Young",
+              "bowler": "CN Ackermann",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "CN Ackermann",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "CN Ackermann",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "CN Ackermann",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "CN Ackermann",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "CN Ackermann",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "WA Young",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "WA Young",
+              "bowler": "CN Ackermann",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "CN Ackermann",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "CN Ackermann",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "CN Ackermann",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "CN Ackermann",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "CN Ackermann",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "RE van der Merwe",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "A Dutt",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "A Dutt",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "A Dutt",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "A Dutt",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "BFW de Leede",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "BFW de Leede",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "BFW de Leede",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "BFW de Leede",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "BFW de Leede",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "BFW de Leede",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "A Dutt",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "A Dutt",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "A Dutt",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "WA Young",
+              "bowler": "BFW de Leede",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "BFW de Leede",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "BFW de Leede",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "BFW de Leede",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "BFW de Leede",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "BFW de Leede",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "CN Ackermann",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "CN Ackermann",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "CN Ackermann",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "CN Ackermann",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "CN Ackermann",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "CN Ackermann",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "BFW de Leede",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "BFW de Leede",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "BFW de Leede",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "BFW de Leede",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "BFW de Leede",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "BFW de Leede",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "CN Ackermann",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "CN Ackermann",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "CN Ackermann",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "CN Ackermann",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "CN Ackermann",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "CN Ackermann",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "WA Young",
+              "bowler": "PA van Meekeren",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "PA van Meekeren",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "PA van Meekeren",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "PA van Meekeren",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "PA van Meekeren",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "PA van Meekeren",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "WA Young",
+              "bowler": "Vikramjit Singh",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Vikramjit Singh",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "Vikramjit Singh",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "Vikramjit Singh",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Young",
+              "bowler": "Vikramjit Singh",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Vikramjit Singh",
+              "non_striker": "WA Young",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "WA Young",
+              "bowler": "PA van Meekeren",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WA Young",
+                  "fielders": [
+                    {
+                      "name": "BFW de Leede"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PA van Meekeren",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PA van Meekeren",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PA van Meekeren",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PA van Meekeren",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "R Klein",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "R Klein",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "R Klein",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PA van Meekeren",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PA van Meekeren",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PA van Meekeren",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PA van Meekeren",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PA van Meekeren",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "R Klein",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "R Klein",
+              "non_striker": "DJ Mitchell",
+              "review": {
+                "by": "Netherlands",
+                "umpire": "PR Reiffel",
+                "batter": "R Ravindra",
+                "decision": "struck down",
+                "type": "wicket",
+                "umpires_call": true
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "R Klein",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "R Klein",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Ravindra",
+                  "fielders": [
+                    {
+                      "name": "SA Edwards"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "RE van der Merwe",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "RE van der Merwe",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "BFW de Leede",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "BFW de Leede",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "BFW de Leede",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "RE van der Merwe",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "RE van der Merwe",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "RE van der Merwe",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "RE van der Merwe",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "RE van der Merwe",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "RE van der Merwe",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "RE van der Merwe",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "RE van der Merwe",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "BFW de Leede",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "BFW de Leede",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "TWM Latham",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PA van Meekeren",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PA van Meekeren",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PA van Meekeren",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "R Klein",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "R Klein",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "R Klein",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "PA van Meekeren",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJ Mitchell",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "PA van Meekeren",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "PA van Meekeren",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "PA van Meekeren",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "BFW de Leede",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GD Phillips",
+                  "fielders": [
+                    {
+                      "name": "SA Edwards"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "BFW de Leede",
+              "non_striker": "TWM Latham",
+              "review": {
+                "by": "New Zealand",
+                "umpire": "PR Reiffel",
+                "batter": "MS Chapman",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "BFW de Leede",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "A Dutt",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "A Dutt",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "A Dutt",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "A Dutt",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "A Dutt",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "A Dutt",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "BFW de Leede",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "BFW de Leede",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "BFW de Leede",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "BFW de Leede",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "BFW de Leede",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "A Dutt",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Chapman",
+                  "fielders": [
+                    {
+                      "name": "RE van der Merwe"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "A Dutt",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "A Dutt",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "A Dutt",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "A Dutt",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "A Dutt",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "BFW de Leede",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BFW de Leede",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "BFW de Leede",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "MJ Santner",
+              "bowler": "A Dutt",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "A Dutt",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "A Dutt",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "A Dutt",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "A Dutt",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "A Dutt",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "TWM Latham",
+              "bowler": "PA van Meekeren",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "PA van Meekeren",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "PA van Meekeren",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "PA van Meekeren",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "PA van Meekeren",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "PA van Meekeren",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "TWM Latham",
+              "bowler": "A Dutt",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "A Dutt",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "A Dutt",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "A Dutt",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TWM Latham",
+                  "fielders": [
+                    {
+                      "name": "SA Edwards"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "MJ Henry",
+              "bowler": "A Dutt",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MJ Henry",
+              "bowler": "A Dutt",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "MJ Santner",
+              "bowler": "BFW de Leede",
+              "non_striker": "MJ Henry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "BFW de Leede",
+              "non_striker": "MJ Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Henry",
+              "bowler": "BFW de Leede",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "BFW de Leede",
+              "non_striker": "MJ Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Henry",
+              "bowler": "BFW de Leede",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "BFW de Leede",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MJ Henry",
+              "runs": {
+                "batter": 6,
+                "extras": 1,
+                "total": 7
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "BFW de Leede",
+              "non_striker": "MJ Henry",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 49.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Netherlands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "TA Boult",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TA Boult",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TA Boult",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TA Boult",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TA Boult",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TA Boult",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Henry",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Henry",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Henry",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Henry",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "TA Boult",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "TA Boult",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "TA Boult",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "TA Boult",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "TA Boult",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "TA Boult",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Henry",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "TA Boult",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TA Boult",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TA Boult",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TA Boult",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TA Boult",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TA Boult",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Henry",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Vikramjit Singh",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TA Boult",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "TA Boult",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "TA Boult",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "TA Boult",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "TA Boult",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TA Boult",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Henry",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Henry",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Henry",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Henry",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Henry",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Henry",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Henry",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Henry",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Henry",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MP O'Dowd",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "BFW de Leede",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "LH Ferguson",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "LH Ferguson",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "LH Ferguson",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "LH Ferguson",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "LH Ferguson",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "R Ravindra",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "R Ravindra",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "BFW de Leede",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "LH Ferguson",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "R Ravindra",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BFW de Leede",
+                  "fielders": [
+                    {
+                      "name": "TA Boult"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "LH Ferguson",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "LH Ferguson",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "LH Ferguson",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "R Ravindra",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "R Ravindra",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "R Ravindra",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "R Ravindra",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "R Ravindra",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "R Ravindra",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "R Ravindra",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "TA Boult",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "TA Boult",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "TA Boult",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "TA Boult",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "TA Boult",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "TA Boult",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "TA Boult",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "R Ravindra",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "R Ravindra",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "R Ravindra",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "R Ravindra",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "TA Boult",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "TA Boult",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "TA Boult",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "TA Boult",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "AT Nidamanuru",
+                  "fielders": [
+                    {
+                      "name": "TWM Latham"
+                    },
+                    {
+                      "name": "LH Ferguson"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "TA Boult",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "TA Boult",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "R Ravindra",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "R Ravindra",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "MJ Henry",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Henry",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Henry",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Henry",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MJ Henry",
+              "non_striker": "CN Ackermann",
+              "review": {
+                "by": "New Zealand",
+                "umpire": "RJ Tucker",
+                "batter": "SA Edwards",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MJ Henry",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "GD Phillips",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "GD Phillips",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "GD Phillips",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "GD Phillips",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "GD Phillips",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "GD Phillips",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "MJ Henry",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Henry",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Henry",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Henry",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Henry",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MJ Henry",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "GD Phillips",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "GD Phillips",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "GD Phillips",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "GD Phillips",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "GD Phillips",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "GD Phillips",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "LH Ferguson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "LH Ferguson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "LH Ferguson",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CN Ackermann",
+                  "fielders": [
+                    {
+                      "name": "MJ Henry"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "LH Ferguson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "LH Ferguson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "LH Ferguson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "LH Ferguson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "LH Ferguson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "LH Ferguson",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Edwards",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "LH Ferguson",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "LH Ferguson",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "LH Ferguson",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "LH Ferguson",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "LH Ferguson",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "LH Ferguson",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RE van der Merwe",
+                  "fielders": [
+                    {
+                      "name": "MJ Henry"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Klein",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Klein",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MJ Santner",
+              "non_striker": "R Klein",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "R Klein",
+              "bowler": "TA Boult",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Klein",
+              "bowler": "TA Boult",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Klein",
+              "bowler": "TA Boult",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Klein",
+              "bowler": "TA Boult",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Klein",
+              "bowler": "TA Boult",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Klein",
+              "bowler": "TA Boult",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "R Klein",
+              "bowler": "R Ravindra",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "R Ravindra",
+              "non_striker": "R Klein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Klein",
+              "bowler": "R Ravindra",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "R Ravindra",
+              "non_striker": "R Klein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "R Ravindra",
+              "non_striker": "R Klein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Klein",
+              "bowler": "R Ravindra",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "TA Boult",
+              "non_striker": "R Klein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "TA Boult",
+              "non_striker": "R Klein",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "TA Boult",
+              "non_striker": "R Klein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Klein",
+              "bowler": "TA Boult",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "TA Boult",
+              "non_striker": "R Klein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "TA Boult",
+              "non_striker": "R Klein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "R Klein",
+              "bowler": "R Ravindra",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Klein",
+              "bowler": "R Ravindra",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "R Ravindra",
+              "non_striker": "R Klein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "R Ravindra",
+              "non_striker": "R Klein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "R Ravindra",
+              "non_striker": "R Klein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "R Ravindra",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Klein",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "R Ravindra",
+              "non_striker": "R Klein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "R Klein",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "review": {
+                "by": "Netherlands",
+                "umpire": "RJ Tucker",
+                "batter": "R Klein",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Klein",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "A Dutt",
+              "bowler": "R Ravindra",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "R Ravindra",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "R Ravindra",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "R Ravindra",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "R Ravindra",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "R Ravindra",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MJ Santner",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MJ Santner",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "MJ Santner",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MJ Henry",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MJ Henry",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MJ Henry",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "MJ Henry",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MJ Henry",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "MJ Henry",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Engelbrecht",
+                  "fielders": [
+                    {
+                      "name": "DP Conway"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "A Dutt",
+              "bowler": "LH Ferguson",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "LH Ferguson",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "LH Ferguson",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "LH Ferguson",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "LH Ferguson",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "LH Ferguson",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "A Dutt",
+              "bowler": "MJ Henry",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "MJ Henry",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "MJ Henry",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Dutt",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 46.3,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 323
+      }
+    }
+  ]
+}

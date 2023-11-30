@@ -1,0 +1,131 @@
+// Use DBML to define your database structure
+// Docs: https://dbml.dbdiagram.io/docs
+
+Table date_dim {
+  date_id int [primary key, increment]
+  full_dt date
+  day int
+  month int
+  year int
+  quarter int
+  dayofweek int
+  dayofmonth int
+  dayofyear int
+  dayofweekname varchar(3)
+  isweekend boolean
+}
+Table referee_dim {
+  referee_id int [primary key, increment]
+  referee_name text [not null]
+  referee_type text [not null]
+}
+
+Table team_dim {
+  team_id int [primary key, increment]
+  team_name text [not null]
+}
+
+Table player_dim {
+  player_id int [primary key, increment]
+  team_id int [not null]
+  player_name text [not null]
+}
+
+Table venue_dim {
+  venue_id int [primary key, increment]
+  venue_name text [not null]
+  city text [not null]
+  state text
+  country text
+  continent text
+  end_Names text
+  capacity int
+  pitch text
+  flood_light boolean
+  established_dt date
+  playing_area text
+  other_sports text
+  curator text
+  lattitude float 
+  longitude float 
+}
+
+Table match_type_dim {
+  match_type_id int [primary key, increment]
+  match_type text [not null]
+}
+
+
+Table match_fact {
+  match_id int [primary key]
+  date_id int [not null]
+  referee_id int [not null]
+  team_a_id int [not null]
+  team_b_id int [not null]
+  match_type_id int [not null]
+  venue_id int [not null]
+  total_overs number(3)
+  balls_per_over number(1)
+
+  overs_played_by_team_a number(2)
+  bowls_played_by_team_a number(3)
+  extra_bowls_played_by_team_a number(3)
+  extra_runs_scored_by_team_a number(3)
+  fours_by_team_a number(3)
+  sixes_by_team_a number(3)
+  total_score_by_team_a number(3)
+  wicket_lost_by_team_a number(2)
+
+  overs_played_by_team_b number(2)
+  bowls_played_by_team_b number(3)
+  extra_bowls_played_by_team_b number(3)
+  extra_runs_scored_by_team_b number(3)
+  fours_by_team_b number(3)
+  sixes_by_team_b number(3)
+  total_score_by_team_b number(3)
+  wicket_lost_by_team_b number(2)
+
+  toss_winner_team_id int [not null]
+  toss_decision text [not null]
+  match_result text [not null]
+  winner_team_id int [not null]
+}
+Table delivery_fact {
+  match_id int
+  team_id int
+  bowler_id int
+  batter_id int
+  non_striker_id int
+  over int
+  runs int
+  extra_runs int
+  extra_type varchar(255)
+  player_out varchar(255)
+  player_out_kind varchar(255)
+}
+Ref: delivery_fact.match_id > match_fact.match_id
+Ref: delivery_fact.team_id > team_dim.team_id
+Ref: delivery_fact.bowler_id > player_dim.player_id
+Ref: delivery_fact.batter_id > player_dim.player_id
+Ref: delivery_fact.non_striker_id > player_dim.player_id
+
+  // Foreign Key Constraints
+Ref: match_fact.date_id > date_dim.date_id
+Ref: match_fact.referee_id > referee_dim.referee_id
+Ref: match_fact.team_a_id > team_dim.team_id
+Ref: match_fact.team_b_id > team_dim.team_id
+Ref: match_fact.match_type_id > match_type_dim.match_type_id
+Ref: match_fact.venue_id > venue_dim.venue_id
+Ref: match_fact.toss_winner_team_id > team_dim.team_id
+Ref: match_fact.winner_team_id > team_dim.team_id
+
+
+Ref: player_dim.team_id > team_dim.team_id // many-to-one
+
+
+
+Ref: "match_fact"."referee_id" < "match_fact"."team_a_id"
+
+Ref: "match_fact"."total_score_by_team_a" < "match_fact"."overs_played_by_team_a"
+
+Ref: "delivery_fact"."batter_id" < "delivery_fact"."extra_type"

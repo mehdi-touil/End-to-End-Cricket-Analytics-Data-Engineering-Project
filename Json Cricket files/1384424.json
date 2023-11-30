@@ -1,0 +1,5110 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-11-04",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Mumbai",
+    "dates": [
+      "2023-11-02"
+    ],
+    "event": {
+      "name": "ICC Cricket World Cup",
+      "match_number": 33
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 4690,
+    "officials": {
+      "match_referees": [
+        "JJ Crowe"
+      ],
+      "reserve_umpires": [
+        "RK Illingworth"
+      ],
+      "tv_umpires": [
+        "RJ Tucker"
+      ],
+      "umpires": [
+        "CM Brown",
+        "PR Reiffel"
+      ]
+    },
+    "outcome": {
+      "winner": "India",
+      "by": {
+        "runs": 302
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "Mohammed Shami"
+    ],
+    "players": {
+      "India": [
+        "RG Sharma",
+        "Shubman Gill",
+        "V Kohli",
+        "SS Iyer",
+        "KL Rahul",
+        "SA Yadav",
+        "RA Jadeja",
+        "Mohammed Shami",
+        "JJ Bumrah",
+        "Kuldeep Yadav",
+        "Mohammed Siraj"
+      ],
+      "Sri Lanka": [
+        "P Nissanka",
+        "FDM Karunaratne",
+        "BKG Mendis",
+        "S Samarawickrama",
+        "KIC Asalanka",
+        "AD Mathews",
+        "MADI Hemantha",
+        "PVD Chameera",
+        "M Theekshana",
+        "CAK Rajitha",
+        "D Madushanka"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Mathews": "896d78ad",
+        "BKG Mendis": "5d1e7582",
+        "CAK Rajitha": "8012d0b8",
+        "CM Brown": "448f4f1c",
+        "D Madushanka": "de7d833e",
+        "FDM Karunaratne": "400e2d4d",
+        "JJ Bumrah": "462411b3",
+        "JJ Crowe": "2e760301",
+        "KIC Asalanka": "732c038e",
+        "KL Rahul": "b17e2f24",
+        "Kuldeep Yadav": "8d2c70ad",
+        "M Theekshana": "f24c6701",
+        "MADI Hemantha": "58431ca0",
+        "Mohammed Shami": "8cf9814c",
+        "Mohammed Siraj": "2f49c897",
+        "P Nissanka": "8ee36b18",
+        "PR Reiffel": "c9354f29",
+        "PVD Chameera": "327b58d3",
+        "RA Jadeja": "fe93fd9d",
+        "RG Sharma": "740742ef",
+        "RJ Tucker": "38810cfc",
+        "RK Illingworth": "20672246",
+        "S Samarawickrama": "9ab2914d",
+        "SA Yadav": "271f83cd",
+        "SS Iyer": "85ec8e33",
+        "Shubman Gill": "b4b99816",
+        "V Kohli": "ba607b88"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "international",
+    "teams": [
+      "India",
+      "Sri Lanka"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sri Lanka"
+    },
+    "venue": "Wankhede Stadium, Mumbai"
+  },
+  "innings": [
+    {
+      "team": "India",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RG Sharma",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "PVD Chameera",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "PVD Chameera",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "PVD Chameera",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "PVD Chameera",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "PVD Chameera",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "PVD Chameera",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "AD Mathews",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "AD Mathews",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "AD Mathews",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "AD Mathews",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "AD Mathews",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "AD Mathews",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "AD Mathews",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "AD Mathews",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AD Mathews",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AD Mathews",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "AD Mathews",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "AD Mathews",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "M Theekshana",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "M Theekshana",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "AD Mathews",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AD Mathews",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "AD Mathews",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AD Mathews",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AD Mathews",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AD Mathews",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "M Theekshana",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "M Theekshana",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "M Theekshana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "M Theekshana",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "M Theekshana",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CAK Rajitha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "M Theekshana",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "M Theekshana",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "M Theekshana",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "PVD Chameera",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "PVD Chameera",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "M Theekshana",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "M Theekshana",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "M Theekshana",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "PVD Chameera",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "PVD Chameera",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "M Theekshana",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "M Theekshana",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "M Theekshana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "PVD Chameera",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "PVD Chameera",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "PVD Chameera",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "PVD Chameera",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "PVD Chameera",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shubman Gill",
+                  "fielders": [
+                    {
+                      "name": "BKG Mendis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "MADI Hemantha",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MADI Hemantha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "SS Iyer",
+              "bowler": "D Madushanka",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "D Madushanka",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Kohli",
+                  "fielders": [
+                    {
+                      "name": "P Nissanka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "D Madushanka",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "D Madushanka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "D Madushanka",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "D Madushanka",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "SS Iyer",
+              "bowler": "MADI Hemantha",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "MADI Hemantha",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "MADI Hemantha",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "MADI Hemantha",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "MADI Hemantha",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "MADI Hemantha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "CAK Rajitha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "CAK Rajitha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "CAK Rajitha",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "CAK Rajitha",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "CAK Rajitha",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "CAK Rajitha",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "MADI Hemantha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "MADI Hemantha",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "MADI Hemantha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "MADI Hemantha",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "MADI Hemantha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "MADI Hemantha",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "CAK Rajitha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "CAK Rajitha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "CAK Rajitha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "CAK Rajitha",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "CAK Rajitha",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "CAK Rajitha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "CAK Rajitha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "M Theekshana",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "PVD Chameera",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "PVD Chameera",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "PVD Chameera",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "PVD Chameera",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "PVD Chameera",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "PVD Chameera",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "M Theekshana",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "M Theekshana",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "SS Iyer",
+              "bowler": "PVD Chameera",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "PVD Chameera",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KL Rahul",
+                  "fielders": [
+                    {
+                      "name": "MADI Hemantha"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "PVD Chameera",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "PVD Chameera",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "PVD Chameera",
+              "non_striker": "SS Iyer",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "PR Reiffel",
+                "batter": "SA Yadav",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "PVD Chameera",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "M Theekshana",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "M Theekshana",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "M Theekshana",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "SA Yadav",
+              "bowler": "D Madushanka",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "D Madushanka",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "D Madushanka",
+              "non_striker": "SS Iyer",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "PR Reiffel",
+                "batter": "SA Yadav",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Yadav",
+                  "fielders": [
+                    {
+                      "name": "BKG Mendis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "D Madushanka",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "D Madushanka",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "D Madushanka",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "RA Jadeja",
+              "bowler": "M Theekshana",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "M Theekshana",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "RA Jadeja",
+              "bowler": "D Madushanka",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "D Madushanka",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "D Madushanka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "D Madushanka",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "D Madushanka",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "D Madushanka",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "D Madushanka",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "M Theekshana",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "M Theekshana",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "M Theekshana",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "SS Iyer",
+              "bowler": "CAK Rajitha",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "CAK Rajitha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "CAK Rajitha",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "CAK Rajitha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "CAK Rajitha",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "CAK Rajitha",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "SS Iyer",
+              "bowler": "PVD Chameera",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "PVD Chameera",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "PVD Chameera",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "PVD Chameera",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "PVD Chameera",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "PVD Chameera",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "SS Iyer",
+              "bowler": "D Madushanka",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "D Madushanka",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "D Madushanka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "D Madushanka",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SS Iyer",
+                  "fielders": [
+                    {
+                      "name": "M Theekshana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammed Shami",
+              "bowler": "D Madushanka",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "D Madushanka",
+              "non_striker": "Mohammed Shami",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "D Madushanka",
+              "non_striker": "Mohammed Shami",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "RA Jadeja",
+              "bowler": "PVD Chameera",
+              "non_striker": "Mohammed Shami",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "PVD Chameera",
+              "non_striker": "Mohammed Shami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Shami",
+              "bowler": "PVD Chameera",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "PVD Chameera",
+              "non_striker": "Mohammed Shami",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "PVD Chameera",
+              "non_striker": "Mohammed Shami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Shami",
+              "bowler": "PVD Chameera",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "RA Jadeja",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Mohammed Shami",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Mohammed Shami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Shami",
+              "bowler": "CAK Rajitha",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammed Shami",
+                  "fielders": [
+                    {
+                      "name": "BKG Mendis"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "JJ Bumrah",
+              "bowler": "CAK Rajitha",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "CAK Rajitha",
+              "non_striker": "JJ Bumrah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "CAK Rajitha",
+              "non_striker": "JJ Bumrah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "RA Jadeja",
+                  "fielders": [
+                    {
+                      "name": "BKG Mendis"
+                    },
+                    {
+                      "name": "S Samarawickrama"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 49.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sri Lanka",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "JJ Bumrah",
+              "non_striker": "FDM Karunaratne",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "PR Reiffel",
+                "batter": "P Nissanka",
+                "decision": "struck down",
+                "type": "wicket",
+                "umpires_call": true
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Nissanka",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "JJ Bumrah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "FDM Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "JJ Bumrah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "FDM Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "JJ Bumrah",
+              "non_striker": "FDM Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "JJ Bumrah",
+              "non_striker": "FDM Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "JJ Bumrah",
+              "non_striker": "FDM Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "JJ Bumrah",
+              "non_striker": "FDM Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "JJ Bumrah",
+              "non_striker": "FDM Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "FDM Karunaratne",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "BKG Mendis",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "CM Brown",
+                "batter": "FDM Karunaratne",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "FDM Karunaratne",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "BKG Mendis",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "CM Brown",
+                "batter": "S Samarawickrama",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Samarawickrama",
+                  "fielders": [
+                    {
+                      "name": "SS Iyer"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KIC Asalanka",
+              "review": {
+                "by": "India",
+                "umpire": "PR Reiffel",
+                "batter": "BKG Mendis",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "JJ Bumrah",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "JJ Bumrah",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BKG Mendis",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "JJ Bumrah",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "JJ Bumrah",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "JJ Bumrah",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "JJ Bumrah",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "JJ Bumrah",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "JJ Bumrah",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Siraj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Siraj",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AD Mathews",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "JJ Bumrah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AD Mathews",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "JJ Bumrah",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "JJ Bumrah",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "JJ Bumrah",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KIC Asalanka",
+                  "fielders": [
+                    {
+                      "name": "RA Jadeja"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MADI Hemantha",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MADI Hemantha",
+                  "fielders": [
+                    {
+                      "name": "KL Rahul"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Mohammed Siraj",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Shami",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Shami",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AD Mathews",
+              "review": {
+                "by": "India",
+                "umpire": "CM Brown",
+                "batter": "PVD Chameera",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PVD Chameera",
+                  "fielders": [
+                    {
+                      "name": "KL Rahul"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "AD Mathews",
+              "bowler": "Mohammed Shami",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Mathews",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Mohammed Shami",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Mohammed Shami",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Shami",
+              "non_striker": "CAK Rajitha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Mohammed Shami",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Mohammed Shami",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "CAK Rajitha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "CAK Rajitha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "CAK Rajitha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "CAK Rajitha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "CAK Rajitha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Mohammed Shami",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Mohammed Shami",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Shami",
+              "non_striker": "CAK Rajitha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Shami",
+              "non_striker": "CAK Rajitha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Shami",
+              "non_striker": "CAK Rajitha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mohammed Shami",
+              "non_striker": "CAK Rajitha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "CAK Rajitha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "CAK Rajitha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Mohammed Shami",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Mohammed Shami",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Mohammed Shami",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Mohammed Shami",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Mohammed Shami",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Mohammed Shami",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CAK Rajitha",
+                  "fielders": [
+                    {
+                      "name": "Shubman Gill"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "D Madushanka",
+              "bowler": "RA Jadeja",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "RA Jadeja",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "RA Jadeja",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "RA Jadeja",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Madushanka",
+                  "fielders": [
+                    {
+                      "name": "SS Iyer"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 19.4,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 358
+      }
+    }
+  ]
+}

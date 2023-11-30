@@ -1,0 +1,2971 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-09-19",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Doha",
+    "dates": [
+      "2023-09-18"
+    ],
+    "event": {
+      "name": "Gulf Cricket T20I Championship",
+      "match_number": 7
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2239,
+    "officials": {
+      "match_referees": [
+        "Shivani Mishra"
+      ],
+      "reserve_umpires": [
+        "Muhammad Usman"
+      ],
+      "tv_umpires": [
+        "Rahat Ali"
+      ],
+      "umpires": [
+        "Azad KR",
+        "Shiju Sam"
+      ]
+    },
+    "outcome": {
+      "winner": "Qatar",
+      "by": {
+        "runs": 1
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Adnan Mirza"
+    ],
+    "players": {
+      "Qatar": [
+        "Saqlain Arshad",
+        "Adnan Mirza",
+        "I Liyanage",
+        "Muhammad Tanveer",
+        "MM Baig",
+        "Bipin Kumar",
+        "Bukhar Illikkal",
+        "H Rathod",
+        "Jassim Khan",
+        "Muhammad Murad",
+        "Muhammad Jabir"
+      ],
+      "Kuwait": [
+        "R Sandaruwan",
+        "Adnan Idrees",
+        "Meet Bhavsar",
+        "Usman Patel",
+        "Ahsan ul Haq",
+        "MNM Aslam",
+        "Shiraz Khan",
+        "Sayed Monib",
+        "Parvindar Kumar",
+        "Yasin Patel",
+        "Shahrukh Quddus"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Adnan Idrees": "0e34c23a",
+        "Adnan Mirza": "745c3cbc",
+        "Ahsan ul Haq": "877ab296",
+        "Azad KR": "d620b86a",
+        "Bipin Kumar": "c821e504",
+        "Bukhar Illikkal": "f4a2d087",
+        "H Rathod": "1f943bef",
+        "I Liyanage": "826e1017",
+        "Jassim Khan": "67e36e53",
+        "MM Baig": "add288ea",
+        "MNM Aslam": "20481563",
+        "Meet Bhavsar": "b25a3800",
+        "Muhammad Jabir": "b67af1c4",
+        "Muhammad Murad": "df3947f4",
+        "Muhammad Tanveer": "aef39fe4",
+        "Muhammad Usman": "05b35689",
+        "Parvindar Kumar": "7a27bee5",
+        "R Sandaruwan": "cf6acc0d",
+        "Rahat Ali": "458161f4",
+        "Saqlain Arshad": "71ad618b",
+        "Sayed Monib": "b9cfb0b1",
+        "Shahrukh Quddus": "a80cc0cc",
+        "Shiju Sam": "1e2f3eae",
+        "Shiraz Khan": "f310704c",
+        "Shivani Mishra": "2982a0c7",
+        "Usman Patel": "415c6ccf",
+        "Yasin Patel": "ecdd8d60"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Qatar",
+      "Kuwait"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Kuwait"
+    },
+    "venue": "West End Park International Cricket Stadium, Doha"
+  },
+  "innings": [
+    {
+      "team": "Qatar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Yasin Patel",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Yasin Patel",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Yasin Patel",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Yasin Patel",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Yasin Patel",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Yasin Patel",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Yasin Patel",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Yasin Patel",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Yasin Patel",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Yasin Patel",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Yasin Patel",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Yasin Patel",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Sayed Monib",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Sayed Monib",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Sayed Monib",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Sayed Monib",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Sayed Monib",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Sayed Monib",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Sayed Monib",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Sayed Monib",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Sayed Monib",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Sayed Monib",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Sayed Monib",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Sayed Monib",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saqlain Arshad",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Shiraz Khan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "MNM Aslam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "MNM Aslam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "MNM Aslam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "MNM Aslam",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "MNM Aslam",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "MNM Aslam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "MNM Aslam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "MNM Aslam",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "MNM Aslam",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "MNM Aslam",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "MNM Aslam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "MNM Aslam",
+              "non_striker": "Adnan Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Shiraz Khan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Mirza",
+              "bowler": "Shiraz Khan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Adnan Mirza",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Shiraz Khan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Shiraz Khan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Shiraz Khan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Shiraz Khan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "MNM Aslam",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "MNM Aslam",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "MNM Aslam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "MNM Aslam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "MNM Aslam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "MNM Aslam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Shiraz Khan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Shiraz Khan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Shiraz Khan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Shiraz Khan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "Yasin Patel",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Yasin Patel",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Yasin Patel",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Yasin Patel",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Yasin Patel",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Yasin Patel",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Adnan Idrees",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Adnan Idrees",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Adnan Idrees",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Adnan Idrees",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Adnan Idrees",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Adnan Idrees",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Yasin Patel",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Yasin Patel",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Yasin Patel",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Yasin Patel",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Yasin Patel",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Yasin Patel",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Adnan Idrees",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Adnan Idrees",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Adnan Idrees",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Adnan Idrees",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Adnan Idrees",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Adnan Idrees",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Shahrukh Quddus",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Shahrukh Quddus",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "MNM Aslam",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "MNM Aslam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "MNM Aslam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "MNM Aslam",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "MNM Aslam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "MNM Aslam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "MNM Aslam",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "MNM Aslam",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Sayed Monib",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Sayed Monib",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Sayed Monib",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Sayed Monib",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Sayed Monib",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Tanveer",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "MM Baig",
+              "bowler": "Sayed Monib",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Sayed Monib",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MM Baig",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Sayed Monib",
+              "non_striker": "MM Baig",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Kuwait",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Muhammad Jabir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "MM Baig",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "MM Baig",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "MM Baig",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "MM Baig",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "MM Baig",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "MM Baig",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "MM Baig",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Muhammad Murad",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Muhammad Murad",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Adnan Mirza",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Adnan Mirza",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Adnan Mirza",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Adnan Mirza",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Adnan Mirza",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Adnan Mirza",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Adnan Idrees",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Murad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Muhammad Murad",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Adnan Mirza",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Adnan Mirza",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Adnan Mirza",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Adnan Mirza",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Adnan Mirza",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Adnan Mirza",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "H Rathod",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "H Rathod",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "H Rathod",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Sandaruwan",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Tanveer"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "H Rathod",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "H Rathod",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "H Rathod",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Usman Patel",
+              "bowler": "Adnan Mirza",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Adnan Mirza",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Adnan Mirza",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Adnan Mirza",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Meet Bhavsar",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Murad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ahsan ul Haq",
+              "bowler": "Adnan Mirza",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahsan ul Haq",
+              "bowler": "Adnan Mirza",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Usman Patel",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Ahsan ul Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahsan ul Haq",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Ahsan ul Haq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Ahsan ul Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Ahsan ul Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Usman Patel",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Ahsan ul Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Ahsan ul Haq",
+              "bowler": "Adnan Mirza",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ahsan ul Haq",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Jabir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Adnan Mirza",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "Adnan Mirza",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Adnan Mirza",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "Adnan Mirza",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Adnan Mirza",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "H Rathod",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "H Rathod",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "H Rathod",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MNM Aslam",
+                  "fielders": [
+                    {
+                      "name": "I Liyanage"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sayed Monib",
+              "bowler": "H Rathod",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sayed Monib",
+              "bowler": "H Rathod",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "H Rathod",
+              "non_striker": "Sayed Monib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Sayed Monib",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Sayed Monib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sayed Monib",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sayed Monib",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sayed Monib",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Sayed Monib",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Sayed Monib",
+              "bowler": "H Rathod",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "H Rathod",
+              "non_striker": "Sayed Monib",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "H Rathod",
+              "non_striker": "Sayed Monib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sayed Monib",
+              "bowler": "H Rathod",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sayed Monib",
+              "bowler": "H Rathod",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sayed Monib",
+              "bowler": "H Rathod",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Sayed Monib",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Sayed Monib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sayed Monib",
+              "bowler": "Bukhar Illikkal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sayed Monib",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Sayed Monib",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Sayed Monib",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Sayed Monib",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Sayed Monib",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sayed Monib",
+                  "fielders": [
+                    {
+                      "name": "MM Baig"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Parvindar Kumar",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Parvindar Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvindar Kumar",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Parvindar Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvindar Kumar",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Parvindar Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Parvindar Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Parvindar Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Parvindar Kumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Parvindar Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shiraz Khan",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Yasin Patel",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Parvindar Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Parvindar Kumar",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Yasin Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Parvindar Kumar",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Yasin Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasin Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Parvindar Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvindar Kumar",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Yasin Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvindar Kumar",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Yasin Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasin Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Parvindar Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Yasin Patel",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Parvindar Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvindar Kumar",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Yasin Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasin Patel",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Parvindar Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvindar Kumar",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Yasin Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Parvindar Kumar",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Yasin Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Parvindar Kumar",
+                  "fielders": [
+                    {
+                      "name": "H Rathod"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shahrukh Quddus",
+              "bowler": "Muhammad Murad",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Yasin Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Yasin Patel",
+                  "fielders": [
+                    {
+                      "name": "I Liyanage"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 157
+      }
+    }
+  ]
+}

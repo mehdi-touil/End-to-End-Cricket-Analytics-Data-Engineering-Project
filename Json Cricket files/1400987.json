@@ -1,0 +1,2721 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-10-26",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Lagos",
+    "dates": [
+      "2023-10-12"
+    ],
+    "event": {
+      "name": "West Africa Trophy",
+      "match_number": 16
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2312,
+    "officials": {
+      "match_referees": [
+        "Tonye Timinadi"
+      ],
+      "reserve_umpires": [
+        "I Kabia"
+      ],
+      "umpires": [
+        "Habib Enesi",
+        "M Bodie"
+      ]
+    },
+    "outcome": {
+      "winner": "Nigeria",
+      "by": {
+        "runs": 53
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "IO Okpe"
+    ],
+    "players": {
+      "Nigeria": [
+        "Sulaimon Runsewe",
+        "D Ajekun",
+        "AE Isesele",
+        "AA Onikoyi",
+        "I Danladi",
+        "SA Okpe",
+        "R Abdulkareem",
+        "IO Okpe",
+        "Mohameed Taiwo",
+        "P Useni",
+        "Joshua Asia"
+      ],
+      "Sierra Leone": [
+        "A Kainessie",
+        "A Turay",
+        "Y Jalloh",
+        "G Ngegba",
+        "I Kamara",
+        "J Bangura",
+        "S Conteh",
+        "M Kpaka",
+        "R Coker",
+        "C Bah",
+        "G Sesay"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Kainessie": "c7acf05f",
+        "A Turay": "11a22126",
+        "AA Onikoyi": "409ce380",
+        "AE Isesele": "5249f9c4",
+        "C Bah": "7213d757",
+        "D Ajekun": "2494ff9e",
+        "G Ngegba": "69caf2be",
+        "G Sesay": "c556b9d2",
+        "Habib Enesi": "fb35ab1f",
+        "I Danladi": "c156cc1f",
+        "I Kabia": "a7a885b5",
+        "I Kamara": "38702fb5",
+        "IO Okpe": "1c5c3dce",
+        "J Bangura": "d7acab5d",
+        "Joshua Asia": "c4ecc42c",
+        "M Bodie": "66c7abe6",
+        "M Kpaka": "c381cec5",
+        "Mohameed Taiwo": "a9d788e3",
+        "P Useni": "71fa64d6",
+        "R Abdulkareem": "b9e07e44",
+        "R Coker": "3239c8a9",
+        "S Conteh": "8f70fff7",
+        "SA Okpe": "681f522f",
+        "Sulaimon Runsewe": "c25d26dc",
+        "Tonye Timinadi": "5cc0fccb",
+        "Y Jalloh": "7fe9a7e6"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "international",
+    "teams": [
+      "Nigeria",
+      "Sierra Leone"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sierra Leone"
+    },
+    "venue": "Tafawa Balewa Square Cricket Oval, Lagos"
+  },
+  "innings": [
+    {
+      "team": "Nigeria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "S Conteh",
+              "non_striker": "D Ajekun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "S Conteh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Ajekun",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "S Conteh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Ajekun",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "S Conteh",
+              "non_striker": "D Ajekun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ajekun",
+              "bowler": "S Conteh",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ajekun",
+              "bowler": "S Conteh",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Ajekun",
+              "bowler": "S Conteh",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ajekun",
+              "bowler": "S Conteh",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "G Sesay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Ajekun",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "G Sesay",
+              "non_striker": "D Ajekun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "G Sesay",
+              "non_striker": "D Ajekun",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "G Sesay",
+              "non_striker": "D Ajekun",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "G Sesay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Ajekun",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "G Sesay",
+              "non_striker": "D Ajekun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ajekun",
+              "bowler": "G Sesay",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "G Sesay",
+              "non_striker": "D Ajekun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "S Conteh",
+              "non_striker": "D Ajekun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "S Conteh",
+              "non_striker": "D Ajekun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ajekun",
+              "bowler": "S Conteh",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Ajekun",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "AE Isesele",
+              "bowler": "S Conteh",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AE Isesele",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "S Conteh",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "S Conteh",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "G Sesay",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "G Sesay",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "G Sesay",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "G Sesay",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sulaimon Runsewe",
+                  "fielders": [
+                    {
+                      "name": "G Ngegba"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "I Danladi",
+              "bowler": "G Sesay",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Danladi",
+              "bowler": "G Sesay",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "I Danladi",
+              "bowler": "S Conteh",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "S Conteh",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Danladi",
+              "bowler": "S Conteh",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Danladi",
+                  "fielders": [
+                    {
+                      "name": "Y Jalloh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SA Okpe",
+              "bowler": "S Conteh",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Okpe",
+              "bowler": "S Conteh",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "S Conteh",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SA Okpe",
+              "bowler": "G Sesay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Okpe",
+              "bowler": "G Sesay",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Okpe",
+              "bowler": "G Sesay",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Okpe",
+              "bowler": "G Sesay",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Okpe",
+              "bowler": "G Sesay",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Okpe",
+              "bowler": "G Sesay",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Okpe",
+              "bowler": "G Sesay",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "G Ngegba",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Okpe",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Okpe",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Okpe",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Okpe",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Okpe",
+                  "fielders": [
+                    {
+                      "name": "Y Jalloh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "R Coker",
+              "non_striker": "R Abdulkareem",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "R Coker",
+              "non_striker": "R Abdulkareem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "R Coker",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "R Coker",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "R Coker",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "R Coker",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "G Ngegba",
+              "non_striker": "R Abdulkareem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "G Ngegba",
+              "non_striker": "R Abdulkareem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "G Ngegba",
+              "non_striker": "R Abdulkareem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "R Coker",
+              "non_striker": "R Abdulkareem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "R Coker",
+              "non_striker": "R Abdulkareem",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "R Coker",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "R Coker",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "R Coker",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "R Coker",
+              "non_striker": "R Abdulkareem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "G Ngegba",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Abdulkareem",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "G Ngegba",
+              "non_striker": "R Abdulkareem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "G Ngegba",
+              "non_striker": "R Abdulkareem",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "G Ngegba",
+              "non_striker": "R Abdulkareem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "R Coker",
+              "non_striker": "R Abdulkareem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "R Coker",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "R Coker",
+              "non_striker": "R Abdulkareem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Abdulkareem",
+              "bowler": "R Coker",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Abdulkareem",
+                  "fielders": [
+                    {
+                      "name": "C Bah"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "R Coker",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "R Coker",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "IO Okpe",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "G Ngegba",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "G Ngegba",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "G Ngegba",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "IO Okpe",
+              "bowler": "R Coker",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "R Coker",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "R Coker",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "R Coker",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "R Coker",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "R Coker",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "R Coker",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "A Turay",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "A Turay",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "A Turay",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Onikoyi",
+              "bowler": "A Turay",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AA Onikoyi",
+                  "fielders": [
+                    {
+                      "name": "M Kpaka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mohameed Taiwo",
+              "bowler": "A Turay",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohameed Taiwo",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "P Useni",
+              "bowler": "A Turay",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "IO Okpe",
+              "bowler": "M Kpaka",
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Useni",
+              "bowler": "M Kpaka",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "M Kpaka",
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "M Kpaka",
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Useni",
+              "bowler": "M Kpaka",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Useni",
+              "bowler": "M Kpaka",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "IO Okpe",
+              "bowler": "A Turay",
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "A Turay",
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "A Turay",
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "A Turay",
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "A Turay",
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Useni",
+              "bowler": "A Turay",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "IO Okpe",
+              "bowler": "G Sesay",
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "G Sesay",
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "G Sesay",
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Useni",
+              "bowler": "G Sesay",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Useni",
+              "bowler": "G Sesay",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "G Sesay",
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Useni",
+              "bowler": "G Sesay",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "IO Okpe",
+              "bowler": "A Turay",
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "A Turay",
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "A Turay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IO Okpe",
+              "bowler": "A Turay",
+              "non_striker": "P Useni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Useni",
+              "bowler": "A Turay",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Useni",
+              "bowler": "A Turay",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Useni",
+              "bowler": "A Turay",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Useni",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "IO Okpe",
+              "bowler": "S Conteh",
+              "non_striker": "Joshua Asia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Joshua Asia",
+              "bowler": "S Conteh",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Joshua Asia",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sierra Leone",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Kainessie",
+              "bowler": "SA Okpe",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Kainessie",
+              "bowler": "SA Okpe",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Turay",
+              "bowler": "SA Okpe",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kainessie",
+              "bowler": "SA Okpe",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Turay",
+              "bowler": "SA Okpe",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Turay",
+              "bowler": "SA Okpe",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Kainessie",
+              "bowler": "I Danladi",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kainessie",
+              "bowler": "I Danladi",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Kainessie",
+              "bowler": "I Danladi",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kainessie",
+              "bowler": "I Danladi",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kainessie",
+              "bowler": "I Danladi",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kainessie",
+              "bowler": "I Danladi",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Turay",
+              "bowler": "P Useni",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kainessie",
+              "bowler": "P Useni",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Turay",
+              "bowler": "P Useni",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Turay",
+              "bowler": "P Useni",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Turay",
+              "bowler": "P Useni",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Turay",
+              "bowler": "P Useni",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Turay",
+              "bowler": "I Danladi",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Turay",
+              "bowler": "I Danladi",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Turay",
+              "bowler": "I Danladi",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Turay",
+              "bowler": "I Danladi",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Turay",
+              "bowler": "I Danladi",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Turay",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Y Jalloh",
+              "bowler": "I Danladi",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "A Kainessie",
+              "bowler": "IO Okpe",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Jalloh",
+              "bowler": "IO Okpe",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Jalloh",
+              "bowler": "IO Okpe",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Y Jalloh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "G Ngegba",
+              "bowler": "IO Okpe",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Ngegba",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "I Kamara",
+              "bowler": "IO Okpe",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Kamara",
+              "bowler": "IO Okpe",
+              "non_striker": "A Kainessie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Kainessie",
+              "bowler": "I Danladi",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kainessie",
+              "bowler": "I Danladi",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kainessie",
+              "bowler": "I Danladi",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kainessie",
+              "bowler": "I Danladi",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Kainessie",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "I Danladi",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "I Danladi",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Bangura",
+              "bowler": "IO Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "IO Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "IO Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "IO Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "IO Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "IO Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "I Kamara",
+              "bowler": "I Danladi",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Kamara",
+              "bowler": "I Danladi",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "I Danladi",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "I Danladi",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Bangura",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "S Conteh",
+              "bowler": "I Danladi",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Conteh",
+              "bowler": "I Danladi",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "I Kamara",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "S Conteh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Conteh",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Conteh",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Conteh",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Conteh",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Conteh",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "S Conteh",
+              "bowler": "R Abdulkareem",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Conteh",
+                  "fielders": [
+                    {
+                      "name": "I Danladi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Kpaka",
+              "bowler": "R Abdulkareem",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kpaka",
+              "bowler": "R Abdulkareem",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kpaka",
+              "bowler": "R Abdulkareem",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kpaka",
+              "bowler": "R Abdulkareem",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kpaka",
+              "bowler": "R Abdulkareem",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "I Kamara",
+              "bowler": "Joshua Asia",
+              "non_striker": "M Kpaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kpaka",
+              "bowler": "Joshua Asia",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kpaka",
+              "bowler": "Joshua Asia",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kpaka",
+              "bowler": "Joshua Asia",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kpaka",
+              "bowler": "Joshua Asia",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kamara",
+              "bowler": "Joshua Asia",
+              "non_striker": "M Kpaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "M Kpaka",
+              "bowler": "R Abdulkareem",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kamara",
+              "bowler": "R Abdulkareem",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Kpaka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kpaka",
+              "bowler": "R Abdulkareem",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kpaka",
+              "bowler": "R Abdulkareem",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kamara",
+              "bowler": "R Abdulkareem",
+              "non_striker": "M Kpaka",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "I Kamara",
+              "bowler": "R Abdulkareem",
+              "non_striker": "M Kpaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "M Kpaka",
+              "bowler": "Joshua Asia",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kpaka",
+              "bowler": "Joshua Asia",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Kpaka",
+                  "fielders": [
+                    {
+                      "name": "AA Onikoyi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "Joshua Asia",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Coker",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "Joshua Asia",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "Joshua Asia",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kamara",
+              "bowler": "Joshua Asia",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "C Bah",
+              "bowler": "SA Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kamara",
+              "bowler": "SA Okpe",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Kamara",
+              "bowler": "SA Okpe",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "SA Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "SA Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "SA Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "C Bah",
+              "bowler": "Joshua Asia",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kamara",
+              "bowler": "Joshua Asia",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "Joshua Asia",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "Joshua Asia",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kamara",
+              "bowler": "Joshua Asia",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "Joshua Asia",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "C Bah",
+              "bowler": "SA Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "SA Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "SA Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Bah",
+                  "fielders": [
+                    {
+                      "name": "P Useni"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "G Sesay",
+              "bowler": "SA Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Sesay",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 107
+      }
+    }
+  ]
+}

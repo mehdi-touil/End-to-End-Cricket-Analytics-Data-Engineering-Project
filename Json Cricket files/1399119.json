@@ -1,0 +1,889 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-10-07",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Hangzhou",
+    "dates": [
+      "2023-10-07"
+    ],
+    "event": {
+      "name": "Asian Games Men's Cricket Competition",
+      "stage": "3rd Place Play-Off"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2300,
+    "officials": {
+      "match_referees": [
+        "Prakash Bhatt"
+      ],
+      "reserve_umpires": [
+        "N Sivan"
+      ],
+      "tv_umpires": [
+        "VG Rathi"
+      ],
+      "umpires": [
+        "Mahmood Kharoti",
+        "Sarika Prasad"
+      ]
+    },
+    "outcome": {
+      "winner": "Bangladesh",
+      "by": {
+        "wickets": 6
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "players": {
+      "Pakistan": [
+        "Mirza Baig",
+        "Khushdil Shah",
+        "Omair Yousuf",
+        "Rohail Nazir",
+        "Mubasir Khan",
+        "Qasim Akram",
+        "Asif Ali",
+        "Arafat Minhas",
+        "Arshad Iqbal",
+        "Usman Qadir",
+        "Sufiyan Muqeem"
+      ],
+      "Bangladesh": [
+        "Zakir Hasan",
+        "Afif Hossain",
+        "Saif Hassan",
+        "Yasir Ali Chowdhury",
+        "Jaker Ali",
+        "Rakibul Hasan",
+        "Mahmudul Hasan Joy",
+        "Shahadat Hossain",
+        "Rishad Hossain",
+        "R Mondol",
+        "Hasan Murad"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Afif Hossain": "37138918",
+        "Arafat Minhas": "f2e8b37c",
+        "Arshad Iqbal": "ed031922",
+        "Asif Ali": "0a4736eb",
+        "Hasan Murad": "da9f58aa",
+        "Jaker Ali": "cd56a813",
+        "Khushdil Shah": "fce581b5",
+        "Mahmood Kharoti": "d8ff8121",
+        "Mahmudul Hasan Joy": "4b51bd51",
+        "Mirza Baig": "96ce6752",
+        "Mubasir Khan": "7264b765",
+        "N Sivan": "8f4a0102",
+        "Omair Yousuf": "f8e3c0f8",
+        "Prakash Bhatt": "f848ab0b",
+        "Qasim Akram": "b6359668",
+        "R Mondol": "492ff0c2",
+        "Rakibul Hasan": "77768f72",
+        "Rishad Hossain": "5935d694",
+        "Rohail Nazir": "522bea89",
+        "Saif Hassan": "bb95564b",
+        "Sarika Prasad": "8ff397fa",
+        "Shahadat Hossain": "69e23303",
+        "Sufiyan Muqeem": "4277234d",
+        "Usman Qadir": "33742f04",
+        "VG Rathi": "144e5b16",
+        "Yasir Ali Chowdhury": "5791b840",
+        "Zakir Hasan": "e3e09091"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Pakistan",
+      "Bangladesh"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Bangladesh"
+    },
+    "venue": "Zhejiang University of Technology Cricket Field"
+  },
+  "innings": [
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mirza Baig",
+              "bowler": "R Mondol",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mirza Baig",
+              "bowler": "R Mondol",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mirza Baig",
+              "bowler": "R Mondol",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khushdil Shah",
+              "bowler": "R Mondol",
+              "non_striker": "Mirza Baig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mirza Baig",
+              "bowler": "R Mondol",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mirza Baig",
+              "bowler": "R Mondol",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Mirza Baig",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mirza Baig",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mirza Baig",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mirza Baig",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mirza Baig",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mirza Baig",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Khushdil Shah",
+              "bowler": "Afif Hossain",
+              "non_striker": "Mirza Baig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khushdil Shah",
+              "bowler": "Afif Hossain",
+              "non_striker": "Mirza Baig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mirza Baig",
+              "bowler": "Afif Hossain",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mirza Baig",
+              "bowler": "Afif Hossain",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mirza Baig",
+              "bowler": "Afif Hossain",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mirza Baig",
+              "bowler": "Afif Hossain",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Khushdil Shah",
+              "bowler": "R Mondol",
+              "non_striker": "Mirza Baig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khushdil Shah",
+              "bowler": "R Mondol",
+              "non_striker": "Mirza Baig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mirza Baig",
+              "bowler": "R Mondol",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khushdil Shah",
+              "bowler": "R Mondol",
+              "non_striker": "Mirza Baig",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Khushdil Shah",
+              "bowler": "R Mondol",
+              "non_striker": "Mirza Baig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khushdil Shah",
+              "bowler": "R Mondol",
+              "non_striker": "Mirza Baig",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Mirza Baig",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khushdil Shah",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Mirza Baig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mirza Baig",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Khushdil Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khushdil Shah",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Mirza Baig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Khushdil Shah",
+                  "fielders": [
+                    {
+                      "name": "Jaker Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Omair Yousuf",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Mirza Baig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Omair Yousuf",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Mirza Baig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Bangladesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "Arshad Iqbal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "Arshad Iqbal",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "Arshad Iqbal",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zakir Hasan",
+                  "fielders": [
+                    {
+                      "name": "Mirza Baig"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Saif Hassan",
+              "bowler": "Arshad Iqbal",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saif Hassan",
+                  "fielders": [
+                    {
+                      "name": "Omair Yousuf"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Arshad Iqbal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Arshad Iqbal",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Arshad Iqbal",
+              "non_striker": "Yasir Ali Chowdhury",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Arshad Iqbal",
+              "non_striker": "Yasir Ali Chowdhury",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Arafat Minhas",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Arafat Minhas",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Yasir Ali Chowdhury",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Yasir Ali Chowdhury",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Yasir Ali Chowdhury",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Yasir Ali Chowdhury",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Yasir Ali Chowdhury",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Yasir Ali Chowdhury",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Arshad Iqbal",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Arshad Iqbal",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Arshad Iqbal",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Arshad Iqbal",
+              "non_striker": "Yasir Ali Chowdhury",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Arshad Iqbal",
+              "non_striker": "Yasir Ali Chowdhury",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Arshad Iqbal",
+              "non_striker": "Yasir Ali Chowdhury",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Afif Hossain",
+                  "fielders": [
+                    {
+                      "name": "Rohail Nazir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yasir Ali Chowdhury",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yasir Ali Chowdhury",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Rakibul Hasan",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 65
+      }
+    }
+  ]
+}

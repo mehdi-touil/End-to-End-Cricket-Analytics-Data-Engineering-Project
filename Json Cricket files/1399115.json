@@ -1,0 +1,2945 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-10-06",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Hangzhou",
+    "dates": [
+      "2023-10-04"
+    ],
+    "event": {
+      "name": "Asian Games Men's Cricket Competition",
+      "stage": "Quarter Final"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2282,
+    "officials": {
+      "match_referees": [
+        "Prakash Bhatt"
+      ],
+      "reserve_umpires": [
+        "A Natarajan"
+      ],
+      "tv_umpires": [
+        "VG Rathi"
+      ],
+      "umpires": [
+        "Asif Yaqoob",
+        "Masudur Rahman"
+      ]
+    },
+    "outcome": {
+      "winner": "Afghanistan",
+      "by": {
+        "runs": 8
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Afghanistan": [
+        "Sediqullah Atal",
+        "Mohammad Shahzad",
+        "Noor Ali Zadran",
+        "Shahidullah",
+        "Gulbadin Naib",
+        "Karim Janat",
+        "Sharafuddin Ashraf",
+        "Afsar Zazai",
+        "Qais Ahmad",
+        "Fareed Ahmad",
+        "Zahir Khan"
+      ],
+      "Sri Lanka": [
+        "S Daniel",
+        "L Croospulle",
+        "MNK Fernando",
+        "SSD Arachchige",
+        "KNA Bandara",
+        "LU Igalagamage",
+        "RS Fernando",
+        "SMLD Samarakoon",
+        "V Viyaskanth",
+        "N Vimukthi",
+        "N Thushara"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Natarajan": "a2b73ae0",
+        "Afsar Zazai": "50930025",
+        "Asif Yaqoob": "6b35790c",
+        "Fareed Ahmad": "67b7bad4",
+        "Gulbadin Naib": "9f77963a",
+        "KNA Bandara": "585dda5d",
+        "Karim Janat": "62175638",
+        "L Croospulle": "e30c9b2d",
+        "LU Igalagamage": "07b6c3c1",
+        "MNK Fernando": "ba603555",
+        "Masudur Rahman": "9581ac6b",
+        "Mohammad Shahzad": "d6dcb0c9",
+        "N Thushara": "ee1b6c27",
+        "N Vimukthi": "b215a7be",
+        "Noor Ali Zadran": "72e46d30",
+        "Prakash Bhatt": "f848ab0b",
+        "Qais Ahmad": "8d5d991e",
+        "RS Fernando": "24d72446",
+        "S Daniel": "a38e7be7",
+        "SMLD Samarakoon": "d28f4d1c",
+        "SSD Arachchige": "c05f9d20",
+        "Sediqullah Atal": "3c28853f",
+        "Shahidullah": "82b90140",
+        "Sharafuddin Ashraf": "7e678d00",
+        "V Viyaskanth": "03a83c50",
+        "VG Rathi": "144e5b16",
+        "Zahir Khan": "786b7fe8"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Afghanistan",
+      "Sri Lanka"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sri Lanka"
+    },
+    "venue": "Zhejiang University of Technology Cricket Field"
+  },
+  "innings": [
+    {
+      "team": "Afghanistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Sediqullah Atal",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sediqullah Atal",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sediqullah Atal",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sediqullah Atal",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sediqullah Atal",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sediqullah Atal",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Sediqullah Atal",
+              "bowler": "N Thushara",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sediqullah Atal",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Thushara",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "N Thushara",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "N Thushara",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Thushara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Thushara",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Thushara",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "SMLD Samarakoon",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "N Vimukthi",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "N Vimukthi",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Thushara",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "N Thushara",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "N Thushara",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "N Thushara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "N Thushara",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "N Thushara",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Thushara",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "N Vimukthi",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "N Vimukthi",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "N Vimukthi",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Shahzad",
+                  "fielders": [
+                    {
+                      "name": "SSD Arachchige"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shahidullah",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahidullah",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahidullah",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Shahidullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahidullah",
+              "bowler": "SMLD Samarakoon",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Shahidullah",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahidullah",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Shahidullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Shahidullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahidullah",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shahidullah",
+              "bowler": "SSD Arachchige",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Shahidullah",
+              "bowler": "RS Fernando",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shahidullah",
+              "bowler": "RS Fernando",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahidullah",
+              "bowler": "RS Fernando",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shahidullah",
+              "bowler": "RS Fernando",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "RS Fernando",
+              "non_striker": "Shahidullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahidullah",
+              "bowler": "RS Fernando",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Shahidullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Shahidullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahidullah",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shahidullah",
+                  "fielders": [
+                    {
+                      "name": "RS Fernando"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Gulbadin Naib",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Gulbadin Naib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gulbadin Naib",
+              "bowler": "V Viyaskanth",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Gulbadin Naib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gulbadin Naib",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Gulbadin Naib",
+                  "fielders": [
+                    {
+                      "name": "RS Fernando"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Karim Janat",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Karim Janat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Karim Janat",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Karim Janat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Karim Janat",
+              "bowler": "N Vimukthi",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "Karim Janat",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Karim Janat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Karim Janat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Karim Janat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "N Vimukthi",
+              "non_striker": "Karim Janat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Noor Ali Zadran",
+                  "fielders": [
+                    {
+                      "name": "LU Igalagamage"
+                    },
+                    {
+                      "name": "V Viyaskanth"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Karim Janat",
+              "bowler": "N Thushara",
+              "non_striker": "Sharafuddin Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Karim Janat",
+                  "fielders": [
+                    {
+                      "name": "MNK Fernando"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Afsar Zazai",
+              "bowler": "N Thushara",
+              "non_striker": "Sharafuddin Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Afsar Zazai",
+              "bowler": "N Thushara",
+              "non_striker": "Sharafuddin Ashraf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharafuddin Ashraf",
+              "bowler": "N Thushara",
+              "non_striker": "Afsar Zazai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sharafuddin Ashraf",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Qais Ahmad",
+              "bowler": "N Thushara",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Afsar Zazai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afsar Zazai",
+              "bowler": "N Thushara",
+              "non_striker": "Qais Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Afsar Zazai",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Qais Ahmad",
+              "bowler": "SMLD Samarakoon",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fareed Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Qais Ahmad",
+              "bowler": "SMLD Samarakoon",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Fareed Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Qais Ahmad",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Fareed Ahmad",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "SSD Arachchige",
+                    "out": "SMLD Samarakoon",
+                    "reason": "excluded - high full pitched balls",
+                    "role": "bowler"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Qais Ahmad",
+                  "fielders": [
+                    {
+                      "name": "LU Igalagamage"
+                    },
+                    {
+                      "name": "SMLD Samarakoon"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Zahir Khan",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Fareed Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zahir Khan",
+              "bowler": "SSD Arachchige",
+              "non_striker": "Fareed Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zahir Khan",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sri Lanka",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "S Daniel",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Daniel",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Croospulle",
+              "bowler": "Fareed Ahmad",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Croospulle",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Croospulle",
+              "bowler": "Fareed Ahmad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Croospulle",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Croospulle",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Croospulle",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "L Croospulle",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Croospulle",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Croospulle",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "L Croospulle",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Croospulle",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Daniel",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "L Croospulle",
+              "bowler": "Sharafuddin Ashraf",
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Croospulle",
+              "bowler": "Sharafuddin Ashraf",
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Croospulle",
+                  "fielders": [
+                    {
+                      "name": "Shahidullah"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MNK Fernando",
+              "bowler": "Sharafuddin Ashraf",
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MNK Fernando",
+              "bowler": "Sharafuddin Ashraf",
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MNK Fernando",
+              "bowler": "Sharafuddin Ashraf",
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MNK Fernando",
+              "bowler": "Sharafuddin Ashraf",
+              "non_striker": "S Daniel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Daniel",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "MNK Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Daniel",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "MNK Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Daniel",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "MNK Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Daniel",
+                  "fielders": [
+                    {
+                      "name": "Qais Ahmad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "MNK Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MNK Fernando",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MNK Fernando",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "MNK Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "MNK Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MNK Fernando",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "MNK Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "MNK Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "MNK Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "MNK Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "MNK Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "MNK Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "MNK Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MNK Fernando",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MNK Fernando",
+                  "fielders": [
+                    {
+                      "name": "Karim Janat"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KNA Bandara",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Sharafuddin Ashraf",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Sharafuddin Ashraf",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KNA Bandara",
+              "bowler": "Sharafuddin Ashraf",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Sharafuddin Ashraf",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KNA Bandara",
+              "bowler": "Sharafuddin Ashraf",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KNA Bandara",
+              "bowler": "Sharafuddin Ashraf",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KNA Bandara",
+              "bowler": "Sharafuddin Ashraf",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Zahir Khan",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Zahir Khan",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Zahir Khan",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KNA Bandara",
+              "bowler": "Zahir Khan",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KNA Bandara",
+              "bowler": "Zahir Khan",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KNA Bandara",
+              "bowler": "Zahir Khan",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Qais Ahmad",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KNA Bandara",
+              "bowler": "Qais Ahmad",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KNA Bandara",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "LU Igalagamage",
+              "bowler": "Qais Ahmad",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LU Igalagamage",
+              "bowler": "Qais Ahmad",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LU Igalagamage",
+              "bowler": "Qais Ahmad",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LU Igalagamage",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "RS Fernando",
+              "bowler": "Qais Ahmad",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "RS Fernando",
+              "bowler": "Zahir Khan",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Fernando",
+              "bowler": "Zahir Khan",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Fernando",
+              "bowler": "Zahir Khan",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Zahir Khan",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Zahir Khan",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Fernando",
+              "bowler": "Zahir Khan",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Qais Ahmad",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Fernando",
+              "bowler": "Qais Ahmad",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Fernando",
+              "bowler": "Qais Ahmad",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RS Fernando",
+              "bowler": "Qais Ahmad",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Qais Ahmad",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Fernando",
+              "bowler": "Qais Ahmad",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Zahir Khan",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Zahir Khan",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Zahir Khan",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Fernando",
+              "bowler": "Zahir Khan",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RS Fernando",
+                  "fielders": [
+                    {
+                      "name": "Qais Ahmad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SMLD Samarakoon",
+              "bowler": "Zahir Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Zahir Khan",
+              "non_striker": "SMLD Samarakoon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Qais Ahmad",
+              "non_striker": "SMLD Samarakoon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Qais Ahmad",
+              "non_striker": "SMLD Samarakoon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SMLD Samarakoon",
+              "bowler": "Qais Ahmad",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Qais Ahmad",
+              "non_striker": "SMLD Samarakoon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SMLD Samarakoon",
+              "bowler": "Qais Ahmad",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SMLD Samarakoon",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Shahzad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Qais Ahmad",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Zahir Khan",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Zahir Khan",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Zahir Khan",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Zahir Khan",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Zahir Khan",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Zahir Khan",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "SSD Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SSD Arachchige",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "SSD Arachchige",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Shahzad"
+                    },
+                    {
+                      "name": "Shahidullah"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "N Vimukthi",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Vimukthi",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Vimukthi",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Karim Janat",
+              "non_striker": "N Vimukthi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vimukthi",
+              "bowler": "Karim Janat",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Karim Janat",
+              "non_striker": "N Vimukthi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vimukthi",
+              "bowler": "Karim Janat",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Karim Janat",
+              "non_striker": "N Vimukthi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vimukthi",
+              "bowler": "Karim Janat",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vimukthi",
+              "bowler": "Karim Janat",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "N Vimukthi",
+              "bowler": "Qais Ahmad",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Vimukthi",
+              "bowler": "Qais Ahmad",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Vimukthi",
+              "bowler": "Qais Ahmad",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Vimukthi",
+              "bowler": "Qais Ahmad",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Qais Ahmad",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "N Vimukthi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vimukthi",
+              "bowler": "Qais Ahmad",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "N Vimukthi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vimukthi",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Vimukthi",
+                  "fielders": [
+                    {
+                      "name": "Qais Ahmad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Thushara",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "N Thushara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Thushara",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Thushara",
+              "bowler": "Gulbadin Naib",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "N Thushara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "N Thushara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "N Thushara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "N Thushara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Viyaskanth",
+              "bowler": "Fareed Ahmad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "N Thushara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Thushara",
+              "bowler": "Fareed Ahmad",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "N Thushara",
+              "bowler": "Karim Janat",
+              "non_striker": "V Viyaskanth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Thushara",
+                  "fielders": [
+                    {
+                      "name": "Shahidullah"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 117
+      }
+    }
+  ]
+}

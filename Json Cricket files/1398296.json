@@ -1,0 +1,2374 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-09-20",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kuala Lumpur",
+    "dates": [
+      "2023-09-20"
+    ],
+    "event": {
+      "name": "Malaysia Tri-Nation T20I Series",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2244,
+    "officials": {
+      "match_referees": [
+        "B Ramani"
+      ],
+      "reserve_umpires": [
+        "Rudy Ismandy"
+      ],
+      "umpires": [
+        "Nasir Ali",
+        "V Kalidas"
+      ]
+    },
+    "outcome": {
+      "winner": "Papua New Guinea",
+      "by": {
+        "runs": 45
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "TP Ura"
+    ],
+    "players": {
+      "Malaysia": [
+        "Syed Aziz",
+        "Zubaidi Zulkifle",
+        "Muhammad Amir",
+        "Ahmed Faiz",
+        "Virandeep Singh",
+        "C Smith",
+        "Ainool Hafizs",
+        "Khizar Hayat",
+        "S Vijay Unni",
+        "Syazrul Idrus",
+        "Rizwan Haider"
+      ],
+      "Papua New Guinea": [
+        "TP Ura",
+        "A Vala",
+        "K Doriga",
+        "CJA Amini",
+        "L Siaka",
+        "H Hiri",
+        "R Hekure",
+        "A Nao",
+        "J Kariko",
+        "SI Kamea",
+        "N Vanua"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Nao": "4d1ec7eb",
+        "A Vala": "72e60730",
+        "Ahmed Faiz": "f6b4f746",
+        "Ainool Hafizs": "1bada9da",
+        "B Ramani": "92ad5353",
+        "C Smith": "c160db98",
+        "CJA Amini": "4d84ad05",
+        "H Hiri": "9dc3ea7e",
+        "J Kariko": "cde067e1",
+        "K Doriga": "365229a8",
+        "Khizar Hayat": "78bbeba1",
+        "L Siaka": "6b4593ee",
+        "Muhammad Amir": "60bec5c3",
+        "N Vanua": "a36915ce",
+        "Nasir Ali": "567675c8",
+        "R Hekure": "c70448aa",
+        "Rizwan Haider": "dc60abdc",
+        "Rudy Ismandy": "84682045",
+        "S Vijay Unni": "f737ab44",
+        "SI Kamea": "0730a707",
+        "Syazrul Idrus": "6dba59e0",
+        "Syed Aziz": "6667067e",
+        "TP Ura": "a82eb3fb",
+        "V Kalidas": "42d76418",
+        "Virandeep Singh": "415d30b6",
+        "Zubaidi Zulkifle": "dca8273d"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Malaysia",
+      "Papua New Guinea"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Malaysia"
+    },
+    "venue": "Bayuemas Oval, Kuala Lumpur"
+  },
+  "innings": [
+    {
+      "team": "Malaysia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "SI Kamea",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "SI Kamea",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "SI Kamea",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "SI Kamea",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "SI Kamea",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "SI Kamea",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "SI Kamea",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Syed Aziz",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "SI Kamea",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "A Nao",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "A Nao",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "A Nao",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "A Nao",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "A Nao",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "A Nao",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "A Nao",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "N Vanua",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "N Vanua",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zubaidi Zulkifle",
+                  "fielders": [
+                    {
+                      "name": "TP Ura"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "N Vanua",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "N Vanua",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "N Vanua",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "N Vanua",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "N Vanua",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "J Kariko",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "J Kariko",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "J Kariko",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "J Kariko",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "J Kariko",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "J Kariko",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "N Vanua",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "N Vanua",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "N Vanua",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "N Vanua",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "N Vanua",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "N Vanua",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "A Vala",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "A Vala",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "A Vala",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "A Vala",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "A Vala",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "A Vala",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "R Hekure",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "R Hekure",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "R Hekure",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "R Hekure",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "R Hekure",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "R Hekure",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "H Hiri",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "H Hiri",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "H Hiri",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "H Hiri",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "H Hiri",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "H Hiri",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "SI Kamea",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "SI Kamea",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "SI Kamea",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "SI Kamea",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "SI Kamea",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "SI Kamea",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "SI Kamea",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "SI Kamea",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "SI Kamea",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "SI Kamea",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "CJA Amini",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "CJA Amini",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "CJA Amini",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "CJA Amini",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "CJA Amini",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "CJA Amini",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Amir",
+                  "fielders": [
+                    {
+                      "name": "CJA Amini"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "A Nao",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "J Kariko",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "J Kariko",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "J Kariko",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Virandeep Singh",
+                  "fielders": [
+                    {
+                      "name": "CJA Amini"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Smith",
+              "bowler": "J Kariko",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "J Kariko",
+              "non_striker": "C Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Smith",
+              "bowler": "J Kariko",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "C Smith",
+              "bowler": "R Hekure",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "R Hekure",
+              "non_striker": "C Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "R Hekure",
+              "non_striker": "C Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Smith",
+              "bowler": "R Hekure",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "R Hekure",
+              "non_striker": "C Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "R Hekure",
+              "non_striker": "C Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Smith",
+              "bowler": "R Hekure",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "J Kariko",
+              "non_striker": "C Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "J Kariko",
+              "non_striker": "C Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Smith",
+              "bowler": "J Kariko",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Smith",
+              "bowler": "J Kariko",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Smith",
+              "bowler": "J Kariko",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Smith",
+              "bowler": "J Kariko",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "A Nao",
+              "non_striker": "C Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Smith",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Smith",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Ainool Hafizs",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "A Nao",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Ainool Hafizs",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ainool Hafizs",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ainool Hafizs",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Ainool Hafizs",
+              "bowler": "SI Kamea",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ainool Hafizs",
+              "bowler": "SI Kamea",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "SI Kamea",
+              "non_striker": "Ainool Hafizs",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "SI Kamea",
+              "non_striker": "Ainool Hafizs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ainool Hafizs",
+              "bowler": "SI Kamea",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "SI Kamea",
+              "non_striker": "Ainool Hafizs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Ainool Hafizs",
+              "bowler": "N Vanua",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ainool Hafizs",
+                  "fielders": [
+                    {
+                      "name": "N Vanua"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "N Vanua",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "N Vanua",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "N Vanua",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "N Vanua",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "N Vanua",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "SI Kamea",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ahmed Faiz",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Vijay Unni",
+              "bowler": "SI Kamea",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vijay Unni",
+              "bowler": "SI Kamea",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "SI Kamea",
+              "non_striker": "S Vijay Unni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vijay Unni",
+              "bowler": "SI Kamea",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vijay Unni",
+              "bowler": "SI Kamea",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "N Vanua",
+              "non_striker": "S Vijay Unni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Khizar Hayat",
+                  "fielders": [
+                    {
+                      "name": "H Hiri"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Syazrul Idrus",
+              "bowler": "N Vanua",
+              "non_striker": "S Vijay Unni",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Syazrul Idrus",
+              "bowler": "N Vanua",
+              "non_striker": "S Vijay Unni",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Syazrul Idrus",
+              "bowler": "N Vanua",
+              "non_striker": "S Vijay Unni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vijay Unni",
+              "bowler": "N Vanua",
+              "non_striker": "Syazrul Idrus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vijay Unni",
+              "bowler": "N Vanua",
+              "non_striker": "Syazrul Idrus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "S Vijay Unni",
+              "bowler": "A Nao",
+              "non_striker": "Syazrul Idrus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syazrul Idrus",
+              "bowler": "A Nao",
+              "non_striker": "S Vijay Unni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vijay Unni",
+              "bowler": "A Nao",
+              "non_striker": "Syazrul Idrus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vijay Unni",
+              "bowler": "A Nao",
+              "non_striker": "Syazrul Idrus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syazrul Idrus",
+              "bowler": "A Nao",
+              "non_striker": "S Vijay Unni",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Syazrul Idrus",
+              "bowler": "A Nao",
+              "non_striker": "S Vijay Unni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Syazrul Idrus",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Papua New Guinea",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "Syazrul Idrus",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Syazrul Idrus",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Syazrul Idrus",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Syazrul Idrus",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Syazrul Idrus",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Syazrul Idrus",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Vala",
+              "bowler": "S Vijay Unni",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "S Vijay Unni",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "S Vijay Unni",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "S Vijay Unni",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "S Vijay Unni",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "S Vijay Unni",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "Rizwan Haider",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Rizwan Haider",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Rizwan Haider",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Rizwan Haider",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Rizwan Haider",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Rizwan Haider",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "Khizar Hayat",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Khizar Hayat",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Khizar Hayat",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Khizar Hayat",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Khizar Hayat",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Khizar Hayat",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "A Vala",
+              "bowler": "Rizwan Haider",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Rizwan Haider",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Rizwan Haider",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Rizwan Haider",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Rizwan Haider",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Rizwan Haider",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Rizwan Haider",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Vala",
+              "bowler": "Khizar Hayat",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Khizar Hayat",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Khizar Hayat",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Khizar Hayat",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Khizar Hayat",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Khizar Hayat",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "A Vala",
+              "bowler": "Virandeep Singh",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Virandeep Singh",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Virandeep Singh",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Virandeep Singh",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Virandeep Singh",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Virandeep Singh",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "C Smith",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "C Smith",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "C Smith",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "C Smith",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "C Smith",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "C Smith",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "Virandeep Singh",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Virandeep Singh",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Virandeep Singh",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Virandeep Singh",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Virandeep Singh",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Virandeep Singh",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "C Smith",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "C Smith",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "C Smith",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TP Ura",
+                  "fielders": [
+                    {
+                      "name": "Zubaidi Zulkifle"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Doriga",
+              "bowler": "C Smith",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 9.4,
+        "runs": 64
+      }
+    }
+  ]
+}

@@ -1,0 +1,6447 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-11-06",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Delhi",
+    "dates": [
+      "2023-11-06"
+    ],
+    "event": {
+      "name": "ICC Cricket World Cup",
+      "match_number": 38
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 4695,
+    "officials": {
+      "match_referees": [
+        "RB Richardson"
+      ],
+      "reserve_umpires": [
+        "AT Holdstock"
+      ],
+      "tv_umpires": [
+        "Nitin Menon"
+      ],
+      "umpires": [
+        "M Erasmus",
+        "RK Illingworth"
+      ]
+    },
+    "outcome": {
+      "winner": "Bangladesh",
+      "by": {
+        "wickets": 3
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "Shakib Al Hasan"
+    ],
+    "players": {
+      "Sri Lanka": [
+        "P Nissanka",
+        "MDKJ Perera",
+        "BKG Mendis",
+        "S Samarawickrama",
+        "KIC Asalanka",
+        "AD Mathews",
+        "DM de Silva",
+        "M Theekshana",
+        "PVD Chameera",
+        "CAK Rajitha",
+        "D Madushanka"
+      ],
+      "Bangladesh": [
+        "Tanzid Hasan",
+        "Liton Das",
+        "Nazmul Hossain Shanto",
+        "Shakib Al Hasan",
+        "Mahmudullah",
+        "Mushfiqur Rahim",
+        "Towhid Hridoy",
+        "Mehedi Hasan Miraz",
+        "Tanzim Hasan Sakib",
+        "Taskin Ahmed",
+        "Shoriful Islam"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Mathews": "896d78ad",
+        "AT Holdstock": "6fa3258c",
+        "BKG Mendis": "5d1e7582",
+        "CAK Rajitha": "8012d0b8",
+        "D Madushanka": "de7d833e",
+        "DM de Silva": "7d608e12",
+        "KIC Asalanka": "732c038e",
+        "Liton Das": "0404d43c",
+        "M Erasmus": "15d3c895",
+        "M Theekshana": "f24c6701",
+        "MDKJ Perera": "f21043a5",
+        "Mahmudullah": "bf1d7d3e",
+        "Mehedi Hasan Miraz": "c58b0108",
+        "Mushfiqur Rahim": "a94e08ea",
+        "Nasum Ahmed": "37654b75",
+        "Nazmul Hossain Shanto": "1274d7ab",
+        "Nitin Menon": "e1d41d9e",
+        "P Nissanka": "8ee36b18",
+        "PVD Chameera": "327b58d3",
+        "RB Richardson": "410e2f12",
+        "RK Illingworth": "20672246",
+        "S Samarawickrama": "9ab2914d",
+        "Shakib Al Hasan": "7dc35884",
+        "Shoriful Islam": "bb34fd31",
+        "Tanzid Hasan": "80fe764d",
+        "Tanzim Hasan Sakib": "0b0cc297",
+        "Taskin Ahmed": "ef18b66e",
+        "Towhid Hridoy": "9e52a414"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "international",
+    "teams": [
+      "Sri Lanka",
+      "Bangladesh"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Bangladesh"
+    },
+    "venue": "Arun Jaitley Stadium, Delhi"
+  },
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "Shoriful Islam",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "Shoriful Islam",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "Shoriful Islam",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "Shoriful Islam",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "Shoriful Islam",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "Shoriful Islam",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MDKJ Perera",
+                  "fielders": [
+                    {
+                      "name": "Mushfiqur Rahim"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Taskin Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Tanzim Hasan Sakib",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BKG Mendis",
+                  "fielders": [
+                    {
+                      "name": "Shoriful Islam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Nissanka",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "review": {
+                "by": "Bangladesh",
+                "umpire": "RK Illingworth",
+                "batter": "S Samarawickrama",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Samarawickrama",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Samarawickrama",
+                  "fielders": [
+                    {
+                      "name": "Mahmudullah"
+                    }
+                  ],
+                  "kind": "caught"
+                },
+                {
+                  "player_out": "AD Mathews",
+                  "kind": "timed out"
+                }
+              ]
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "DM de Silva",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "RK Illingworth",
+                "batter": "KIC Asalanka",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "DM de Silva",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Tanzim Hasan Sakib",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shoriful Islam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DM de Silva",
+                  "fielders": [
+                    {
+                      "name": "Mushfiqur Rahim"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Tanzim Hasan Sakib",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "M Theekshana",
+              "bowler": "Shoriful Islam",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "M Theekshana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Theekshana",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Theekshana",
+                  "fielders": [
+                    {
+                      "name": "Nasum Ahmed",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Shoriful Islam",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KIC Asalanka",
+                  "fielders": [
+                    {
+                      "name": "Liton Das"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CAK Rajitha",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CAK Rajitha",
+                  "fielders": [
+                    {
+                      "name": "Liton Das"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Shoriful Islam",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Shoriful Islam",
+              "non_striker": "D Madushanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Madushanka",
+              "bowler": "Shoriful Islam",
+              "non_striker": "PVD Chameera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PVD Chameera",
+                  "fielders": [
+                    {
+                      "name": "Mushfiqur Rahim"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 49.3,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Bangladesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "D Madushanka",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "D Madushanka",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "D Madushanka",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "D Madushanka",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "D Madushanka",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "D Madushanka",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Liton Das",
+              "bowler": "M Theekshana",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "M Theekshana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "M Theekshana",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "M Theekshana",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "M Theekshana",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "M Theekshana",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "M Theekshana",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "D Madushanka",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tanzid Hasan",
+                  "fielders": [
+                    {
+                      "name": "P Nissanka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "D Madushanka",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "D Madushanka",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "D Madushanka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "D Madushanka",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Liton Das",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Liton Das",
+              "bowler": "D Madushanka",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "D Madushanka",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Liton Das",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "D Madushanka",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "D Madushanka",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "D Madushanka",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "D Madushanka",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "D Madushanka",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "AD Mathews",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "AD Mathews",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "D Madushanka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "D Madushanka",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "D Madushanka",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "D Madushanka",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "D Madushanka",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "AD Mathews",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "DM de Silva",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "DM de Silva",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "DM de Silva",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "DM de Silva",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "DM de Silva",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "DM de Silva",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "AD Mathews",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "AD Mathews",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "DM de Silva",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "DM de Silva",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "DM de Silva",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "DM de Silva",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "DM de Silva",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "DM de Silva",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "DM de Silva",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "DM de Silva",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "DM de Silva",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "DM de Silva",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "DM de Silva",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "DM de Silva",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "PVD Chameera",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "CAK Rajitha",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "AD Mathews",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shakib Al Hasan",
+                  "fielders": [
+                    {
+                      "name": "KIC Asalanka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "AD Mathews",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "AD Mathews",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "AD Mathews",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "AD Mathews",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "AD Mathews",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "M Theekshana",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "M Theekshana",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "AD Mathews",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nazmul Hossain Shanto",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "AD Mathews",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "AD Mathews",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "AD Mathews",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "AD Mathews",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "AD Mathews",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "Mahmudullah",
+              "bowler": "D Madushanka",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "D Madushanka",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "D Madushanka",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "D Madushanka",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "D Madushanka",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "D Madushanka",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "AD Mathews",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "AD Mathews",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "AD Mathews",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "AD Mathews",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "AD Mathews",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "AD Mathews",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "Mahmudullah",
+              "bowler": "PVD Chameera",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "PVD Chameera",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "PVD Chameera",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "PVD Chameera",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "PVD Chameera",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "PVD Chameera",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "PVD Chameera",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "D Madushanka",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "D Madushanka",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "D Madushanka",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "D Madushanka",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mushfiqur Rahim",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "D Madushanka",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "D Madushanka",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "Mahmudullah",
+              "bowler": "M Theekshana",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "M Theekshana",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "M Theekshana",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mahmudullah",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "M Theekshana",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "M Theekshana",
+              "non_striker": "Mehedi Hasan Miraz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "M Theekshana",
+              "non_striker": "Mehedi Hasan Miraz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "D Madushanka",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "D Madushanka",
+              "non_striker": "Mehedi Hasan Miraz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "D Madushanka",
+              "non_striker": "Mehedi Hasan Miraz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "D Madushanka",
+              "non_striker": "Mehedi Hasan Miraz",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "D Madushanka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "D Madushanka",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "D Madushanka",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "M Theekshana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "M Theekshana",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mehedi Hasan Miraz",
+                  "fielders": [
+                    {
+                      "name": "KIC Asalanka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Tanzim Hasan Sakib",
+              "bowler": "M Theekshana",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzim Hasan Sakib",
+              "bowler": "M Theekshana",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tanzim Hasan Sakib",
+              "bowler": "M Theekshana",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzim Hasan Sakib",
+              "bowler": "M Theekshana",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "Towhid Hridoy",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "M Erasmus",
+                "batter": "Tanzim Hasan Sakib",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tanzim Hasan Sakib",
+              "bowler": "M Theekshana",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "Tanzim Hasan Sakib",
+              "bowler": "AD Mathews",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 41.1,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 280
+      }
+    }
+  ]
+}

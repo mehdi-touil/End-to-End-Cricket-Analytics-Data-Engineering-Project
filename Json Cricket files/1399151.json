@@ -1,0 +1,2587 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-10-07",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Hamilton",
+    "dates": [
+      "2023-09-30"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Americas Region Final",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2268,
+    "officials": {
+      "match_referees": [
+        "Reon King"
+      ],
+      "reserve_umpires": [
+        "JM Williams"
+      ],
+      "umpires": [
+        "Emmerson Carrington",
+        "Vijaya Mallela"
+      ]
+    },
+    "outcome": {
+      "winner": "Cayman Islands",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "A Morris"
+    ],
+    "players": {
+      "Panama": [
+        "Mahmud Jasat",
+        "M Sohel Patel",
+        "LR Gaonkar",
+        "Yusuf Ebrahim",
+        "A Natubhai Ahir",
+        "JKC Ahir",
+        "RDB Ahir",
+        "FL Patel",
+        "N Ahir",
+        "Abdullah Jasat",
+        "KB Ahir"
+      ],
+      "Cayman Islands": [
+        "RA Sealy",
+        "P Heron",
+        "P Manning",
+        "AR Naidoo",
+        "BKB Corbin",
+        "T Taylor",
+        "P Chin",
+        "C Wright",
+        "A Morris",
+        "ROC Dunka",
+        "AF Ifill"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Morris": "04cf2e94",
+        "A Natubhai Ahir": "9c91218d",
+        "AF Ifill": "0e6c2f00",
+        "AR Naidoo": "68886c16",
+        "Abdullah Jasat": "5a42db78",
+        "BKB Corbin": "036b8660",
+        "C Wright": "d465c6d7",
+        "Emmerson Carrington": "a428109a",
+        "FL Patel": "e205ce8b",
+        "JKC Ahir": "3c5df172",
+        "JM Williams": "b61d9d70",
+        "KB Ahir": "214cf493",
+        "LR Gaonkar": "e51abd5e",
+        "M Sohel Patel": "40a5bcf9",
+        "Mahmud Jasat": "97e36a0f",
+        "N Ahir": "c2ecd4a7",
+        "P Chin": "21267b60",
+        "P Heron": "30b902a3",
+        "P Manning": "f06b5585",
+        "RA Sealy": "1e98804a",
+        "RDB Ahir": "2f6f44bb",
+        "ROC Dunka": "762f43b7",
+        "Reon King": "20fbf68c",
+        "T Taylor": "1d6e8f52",
+        "Vijaya Mallela": "85b6244a",
+        "Yusuf Ebrahim": "2d5c6e88"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "international",
+    "teams": [
+      "Panama",
+      "Cayman Islands"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Panama"
+    },
+    "venue": "White Hill Field, Sandys Parish"
+  },
+  "innings": [
+    {
+      "team": "Panama",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "C Wright",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "C Wright",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "C Wright",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "C Wright",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "C Wright",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "C Wright",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "AF Ifill",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "AF Ifill",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "AF Ifill",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "AF Ifill",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "AF Ifill",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "AF Ifill",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "A Morris",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "A Morris",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Sohel Patel",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "LR Gaonkar",
+              "bowler": "A Morris",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Gaonkar",
+              "bowler": "A Morris",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "A Morris",
+              "non_striker": "LR Gaonkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LR Gaonkar",
+              "bowler": "A Morris",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LR Gaonkar",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "T Taylor",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "T Taylor",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "T Taylor",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "T Taylor",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "T Taylor",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "T Taylor",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "T Taylor",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "A Morris",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "A Morris",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "A Morris",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "A Morris",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "A Morris",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "A Morris",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "ROC Dunka",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "ROC Dunka",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "ROC Dunka",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "ROC Dunka",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "ROC Dunka",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yusuf Ebrahim",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "ROC Dunka",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "AF Ifill",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Natubhai Ahir",
+                  "fielders": [
+                    {
+                      "name": "P Heron"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "ROC Dunka",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "ROC Dunka",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "ROC Dunka",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "ROC Dunka",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "ROC Dunka",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "ROC Dunka",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JKC Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "AF Ifill",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "AF Ifill",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "T Taylor",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "T Taylor",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "T Taylor",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "T Taylor",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "T Taylor",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "T Taylor",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JKC Ahir",
+              "bowler": "A Morris",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "A Morris",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "A Morris",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "A Morris",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mahmud Jasat",
+                  "fielders": [
+                    {
+                      "name": "C Wright"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RDB Ahir",
+              "bowler": "A Morris",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "A Morris",
+              "non_striker": "RDB Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "RDB Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RDB Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "RDB Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "RDB Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "RDB Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "AF Ifill",
+              "non_striker": "RDB Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "JKC Ahir",
+              "bowler": "C Wright",
+              "non_striker": "RDB Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RDB Ahir",
+              "bowler": "C Wright",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RDB Ahir",
+              "bowler": "C Wright",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "C Wright",
+              "non_striker": "RDB Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "C Wright",
+              "non_striker": "RDB Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "C Wright",
+              "non_striker": "RDB Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "RDB Ahir",
+              "bowler": "ROC Dunka",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RDB Ahir",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "FL Patel",
+              "bowler": "ROC Dunka",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FL Patel",
+              "bowler": "ROC Dunka",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FL Patel",
+              "bowler": "ROC Dunka",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "ROC Dunka",
+              "non_striker": "FL Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "ROC Dunka",
+              "non_striker": "FL Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "FL Patel",
+              "bowler": "A Morris",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FL Patel",
+              "bowler": "A Morris",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FL Patel",
+              "bowler": "A Morris",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "A Morris",
+              "non_striker": "FL Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FL Patel",
+              "bowler": "A Morris",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FL Patel",
+              "bowler": "A Morris",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "JKC Ahir",
+              "bowler": "T Taylor",
+              "non_striker": "FL Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "T Taylor",
+              "non_striker": "FL Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FL Patel",
+              "bowler": "T Taylor",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "FL Patel",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "T Taylor",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "T Taylor",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "T Taylor",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "JKC Ahir",
+              "bowler": "C Wright",
+              "non_striker": "N Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "C Wright",
+              "non_striker": "N Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "C Wright",
+              "non_striker": "N Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "C Wright",
+              "non_striker": "N Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "C Wright",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "C Wright",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "C Wright",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JKC Ahir",
+              "bowler": "ROC Dunka",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "N Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "ROC Dunka",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "ROC Dunka",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "ROC Dunka",
+              "non_striker": "N Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "ROC Dunka",
+              "non_striker": "N Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "ROC Dunka",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "ROC Dunka",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "N Ahir",
+              "bowler": "C Wright",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "C Wright",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "C Wright",
+              "non_striker": "JKC Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Ahir",
+              "bowler": "C Wright",
+              "non_striker": "N Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JKC Ahir",
+                  "fielders": [
+                    {
+                      "name": "AF Ifill"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Abdullah Jasat",
+              "bowler": "C Wright",
+              "non_striker": "N Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdullah Jasat",
+              "bowler": "C Wright",
+              "non_striker": "N Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Abdullah Jasat",
+              "bowler": "T Taylor",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "N Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "T Taylor",
+              "non_striker": "Abdullah Jasat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "T Taylor",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abdullah Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "T Taylor",
+              "non_striker": "Abdullah Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdullah Jasat",
+              "bowler": "T Taylor",
+              "non_striker": "N Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Ahir",
+              "bowler": "T Taylor",
+              "non_striker": "Abdullah Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdullah Jasat",
+              "bowler": "T Taylor",
+              "non_striker": "N Ahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Cayman Islands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RA Sealy",
+              "bowler": "KB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "KB Ahir",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "KB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "KB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "KB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "KB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "P Heron",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RA Sealy",
+                  "fielders": [
+                    {
+                      "name": "N Ahir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "P Manning",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "P Manning",
+              "bowler": "KB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "KB Ahir",
+              "non_striker": "P Manning",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Manning",
+              "bowler": "KB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Manning",
+              "bowler": "KB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Manning",
+              "bowler": "KB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Manning",
+              "bowler": "KB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Manning",
+                  "fielders": [
+                    {
+                      "name": "Abdullah Jasat"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "P Heron",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Abdullah Jasat",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AR Naidoo",
+              "bowler": "KB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "KB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "KB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "KB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "KB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "KB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "P Heron",
+              "bowler": "RDB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "RDB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "RDB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "RDB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "RDB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "RDB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "P Heron",
+              "bowler": "LR Gaonkar",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "LR Gaonkar",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "LR Gaonkar",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "LR Gaonkar",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "LR Gaonkar",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "LR Gaonkar",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "P Heron",
+              "bowler": "RDB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "RDB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "RDB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "RDB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "RDB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "RDB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AR Naidoo",
+              "bowler": "LR Gaonkar",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "LR Gaonkar",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "LR Gaonkar",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "LR Gaonkar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "LR Gaonkar",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "LR Gaonkar",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "P Heron",
+              "bowler": "RDB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "RDB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "RDB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "RDB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "RDB Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "RDB Ahir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "P Heron",
+              "bowler": "LR Gaonkar",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "LR Gaonkar",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Naidoo",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "LR Gaonkar",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "LR Gaonkar",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "LR Gaonkar",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "LR Gaonkar",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "P Heron",
+              "bowler": "JKC Ahir",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "JKC Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "JKC Ahir",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "JKC Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "JKC Ahir",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "JKC Ahir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "JKC Ahir",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "BKB Corbin",
+              "bowler": "LR Gaonkar",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "LR Gaonkar",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "LR Gaonkar",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "LR Gaonkar",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "LR Gaonkar",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "LR Gaonkar",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "P Heron",
+              "bowler": "FL Patel",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "FL Patel",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "FL Patel",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "FL Patel",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "FL Patel",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "FL Patel",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "BKB Corbin",
+              "bowler": "Yusuf Ebrahim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "Yusuf Ebrahim",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "Yusuf Ebrahim",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "Yusuf Ebrahim",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 86
+      }
+    }
+  ]
+}

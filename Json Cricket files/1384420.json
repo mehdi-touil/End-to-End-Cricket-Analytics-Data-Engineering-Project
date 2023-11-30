@@ -1,0 +1,356 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-10-29",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Lucknow",
+    "dates": [
+      "2023-10-29"
+    ],
+    "event": {
+      "name": "ICC Cricket World Cup",
+      "match_number": 29
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 4686,
+    "officials": {
+      "match_referees": [
+        "RB Richardson"
+      ],
+      "reserve_umpires": [
+        "CM Brown"
+      ],
+      "tv_umpires": [
+        "Ahsan Raza"
+      ],
+      "umpires": [
+        "AT Holdstock",
+        "RJ Tucker"
+      ]
+    },
+    "outcome": {
+      "winner": "India",
+      "by": {
+        "runs": 100
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "RG Sharma"
+    ],
+    "players": {
+      "India": [
+        "RG Sharma",
+        "Shubman Gill",
+        "V Kohli",
+        "SS Iyer",
+        "KL Rahul",
+        "SA Yadav",
+        "RA Jadeja",
+        "Mohammed Shami",
+        "JJ Bumrah",
+        "Kuldeep Yadav",
+        "Mohammed Siraj"
+      ],
+      "England": [
+        "JM Bairstow",
+        "DJ Malan",
+        "JE Root",
+        "BA Stokes",
+        "JC Buttler",
+        "MM Ali",
+        "LS Livingstone",
+        "CR Woakes",
+        "DJ Willey",
+        "AU Rashid",
+        "MA Wood"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AT Holdstock": "6fa3258c",
+        "AU Rashid": "249d60c9",
+        "Ahsan Raza": "e0e5b209",
+        "BA Stokes": "e087956b",
+        "CM Brown": "448f4f1c",
+        "CR Woakes": "4c5d73db",
+        "DJ Malan": "ad9c32a2",
+        "DJ Willey": "7f048519",
+        "JC Buttler": "99b75528",
+        "JE Root": "a343262c",
+        "JJ Bumrah": "462411b3",
+        "JM Bairstow": "abb83e27",
+        "KL Rahul": "b17e2f24",
+        "Kuldeep Yadav": "8d2c70ad",
+        "LS Livingstone": "50c6bc2b",
+        "MA Wood": "8d92a2c3",
+        "MM Ali": "bb351c23",
+        "Mohammed Shami": "8cf9814c",
+        "Mohammed Siraj": "2f49c897",
+        "RA Jadeja": "fe93fd9d",
+        "RB Richardson": "410e2f12",
+        "RG Sharma": "740742ef",
+        "RJ Tucker": "38810cfc",
+        "SA Yadav": "271f83cd",
+        "SS Iyer": "85ec8e33",
+        "Shubman Gill": "b4b99816",
+        "V Kohli": "ba607b88"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "international",
+    "teams": [
+      "India",
+      "England"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "England"
+    },
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  "innings": [
+    {
+      "team": "India",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "DJ Willey",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DJ Willey",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DJ Willey",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DJ Willey",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DJ Willey",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DJ Willey",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CR Woakes",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CR Woakes",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CR Woakes",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CR Woakes",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CR Woakes",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CR Woakes",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 49.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "England",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 34.5,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 230
+      }
+    }
+  ]
+}

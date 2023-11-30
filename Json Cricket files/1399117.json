@@ -1,0 +1,2276 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-10-06",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Hangzhou",
+    "dates": [
+      "2023-10-06"
+    ],
+    "event": {
+      "name": "Asian Games Men's Cricket Competition",
+      "stage": "Semi Final"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2296,
+    "officials": {
+      "match_referees": [
+        "GF Labrooy"
+      ],
+      "reserve_umpires": [
+        "Sarika Prasad"
+      ],
+      "tv_umpires": [
+        "RSA Palliyaguruge"
+      ],
+      "umpires": [
+        "Asif Yaqoob",
+        "Mahmood Kharoti"
+      ]
+    },
+    "outcome": {
+      "winner": "India",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Bangladesh": [
+        "Parvez Hossain Emon",
+        "Mahmudul Hasan Joy",
+        "Saif Hassan",
+        "Zakir Hasan",
+        "Afif Hossain",
+        "Shahadat Hossain",
+        "Jaker Ali",
+        "Mrittunjoy Chowdhury",
+        "Rakibul Hasan",
+        "R Mondol",
+        "Hasan Murad"
+      ],
+      "India": [
+        "YBK Jaiswal",
+        "RD Gaikwad",
+        "Tilak Varma",
+        "JM Sharma",
+        "RK Singh",
+        "S Dube",
+        "Washington Sundar",
+        "Shahbaz Ahmed",
+        "R Sai Kishore",
+        "Ravi Bishnoi",
+        "Arshdeep Singh"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Afif Hossain": "37138918",
+        "Arshdeep Singh": "244048f6",
+        "Asif Yaqoob": "6b35790c",
+        "GF Labrooy": "8e088dbc",
+        "Hasan Murad": "da9f58aa",
+        "JM Sharma": "800d2d97",
+        "Jaker Ali": "cd56a813",
+        "Mahmood Kharoti": "d8ff8121",
+        "Mahmudul Hasan Joy": "4b51bd51",
+        "Mrittunjoy Chowdhury": "21b97584",
+        "Parvez Hossain Emon": "489aaf0a",
+        "R Mondol": "492ff0c2",
+        "R Sai Kishore": "c7a995d3",
+        "RD Gaikwad": "45a43fe2",
+        "RK Singh": "0a509d6b",
+        "RSA Palliyaguruge": "4339c19d",
+        "Rakibul Hasan": "77768f72",
+        "Ravi Bishnoi": "df064e1a",
+        "S Dube": "a4e37e47",
+        "Saif Hassan": "bb95564b",
+        "Sarika Prasad": "8ff397fa",
+        "Shahadat Hossain": "69e23303",
+        "Shahbaz Ahmed": "f9e6e7ef",
+        "Tilak Varma": "b0482a1d",
+        "Washington Sundar": "f19ccfad",
+        "YBK Jaiswal": "6c19c6e5",
+        "Zakir Hasan": "e3e09091"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Bangladesh",
+      "India"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "India"
+    },
+    "venue": "Zhejiang University of Technology Cricket Field"
+  },
+  "innings": [
+    {
+      "team": "Bangladesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudul Hasan Joy",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "S Dube",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudul Hasan Joy",
+              "bowler": "S Dube",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "S Dube",
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "S Dube",
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "S Dube",
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudul Hasan Joy",
+              "bowler": "S Dube",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Mahmudul Hasan Joy",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudul Hasan Joy",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudul Hasan Joy",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudul Hasan Joy",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Washington Sundar",
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Washington Sundar",
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Washington Sundar",
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudul Hasan Joy",
+              "bowler": "Washington Sundar",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Washington Sundar",
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Washington Sundar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Washington Sundar",
+              "non_striker": "Mahmudul Hasan Joy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Mahmudul Hasan Joy",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudul Hasan Joy",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mahmudul Hasan Joy",
+                  "fielders": [
+                    {
+                      "name": "YBK Jaiswal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Saif Hassan",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Saif Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Saif Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Saif Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Washington Sundar",
+              "non_striker": "Saif Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Washington Sundar",
+              "non_striker": "Saif Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Washington Sundar",
+              "non_striker": "Saif Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saif Hassan",
+              "bowler": "Washington Sundar",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saif Hassan",
+                  "fielders": [
+                    {
+                      "name": "RK Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "Washington Sundar",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "Washington Sundar",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zakir Hasan",
+                  "fielders": [
+                    {
+                      "name": "YBK Jaiswal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Tilak Varma",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Tilak Varma",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Tilak Varma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Tilak Varma",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Tilak Varma",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Tilak Varma",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Tilak Varma",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Washington Sundar",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Washington Sundar",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Washington Sundar",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Washington Sundar",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Washington Sundar",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Washington Sundar",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Tilak Varma",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Tilak Varma",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Tilak Varma",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Tilak Varma",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Parvez Hossain Emon",
+                  "fielders": [
+                    {
+                      "name": "RD Gaikwad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shahadat Hossain",
+              "bowler": "Tilak Varma",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahadat Hossain",
+              "bowler": "Tilak Varma",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Shahadat Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Shahadat Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahadat Hossain",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Shahadat Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Shahadat Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahadat Hossain",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Shahadat Hossain",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "R Sai Kishore",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Shahadat Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shahadat Hossain",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shahadat Hossain",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shahadat Hossain",
+                  "fielders": [
+                    {
+                      "name": "Tilak Varma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Ravi Bishnoi",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "Ravi Bishnoi",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Jaker Ali",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Afif Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "R Sai Kishore",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Afif Hossain",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Afif Hossain",
+                  "fielders": [
+                    {
+                      "name": "S Dube"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mrittunjoy Chowdhury",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mrittunjoy Chowdhury",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Washington Sundar",
+              "non_striker": "Mrittunjoy Chowdhury",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Washington Sundar",
+              "non_striker": "Mrittunjoy Chowdhury",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Washington Sundar",
+              "non_striker": "Mrittunjoy Chowdhury",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mrittunjoy Chowdhury",
+              "bowler": "Washington Sundar",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mrittunjoy Chowdhury",
+              "bowler": "Washington Sundar",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Washington Sundar",
+              "non_striker": "Mrittunjoy Chowdhury",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Mrittunjoy Chowdhury",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Mrittunjoy Chowdhury",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mrittunjoy Chowdhury",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mrittunjoy Chowdhury",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Mrittunjoy Chowdhury",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Mrittunjoy Chowdhury",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Mrittunjoy Chowdhury",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mrittunjoy Chowdhury",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Mrittunjoy Chowdhury",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mrittunjoy Chowdhury",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mrittunjoy Chowdhury",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mrittunjoy Chowdhury",
+                  "fielders": [
+                    {
+                      "name": "JM Sharma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Rakibul Hasan",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Rakibul Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rakibul Hasan",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rakibul Hasan",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rakibul Hasan",
+              "bowler": "Shahbaz Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rakibul Hasan",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rakibul Hasan",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rakibul Hasan",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rakibul Hasan",
+                  "fielders": [
+                    {
+                      "name": "Tilak Varma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "R Mondol",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "R Mondol",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "R Mondol",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "R Mondol",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mondol",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mondol",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Jaker Ali",
+              "bowler": "R Sai Kishore",
+              "non_striker": "R Mondol",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "R Sai Kishore",
+              "non_striker": "R Mondol",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mondol",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mondol",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mondol",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mondol",
+              "bowler": "R Sai Kishore",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "R Mondol",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "R Mondol",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "R Mondol",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "R Mondol",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "R Mondol",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mondol",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Mondol",
+                  "fielders": [
+                    {
+                      "name": "RK Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "India",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "R Mondol",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "R Mondol",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "R Mondol",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "R Mondol",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "YBK Jaiswal",
+                  "fielders": [
+                    {
+                      "name": "Mrittunjoy Chowdhury"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "R Mondol",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "R Mondol",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Saif Hassan",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Saif Hassan",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Saif Hassan",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Saif Hassan",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Saif Hassan",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Saif Hassan",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "R Mondol",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "R Mondol",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "R Mondol",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "R Mondol",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "R Mondol",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "R Mondol",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "R Mondol",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Mrittunjoy Chowdhury",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Mrittunjoy Chowdhury",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Mrittunjoy Chowdhury",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Mrittunjoy Chowdhury",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Mrittunjoy Chowdhury",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Mrittunjoy Chowdhury",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Mrittunjoy Chowdhury",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Afif Hossain",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Afif Hossain",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Afif Hossain",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Afif Hossain",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Afif Hossain",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Afif Hossain",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Hasan Murad",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Hasan Murad",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Hasan Murad",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Hasan Murad",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Hasan Murad",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Hasan Murad",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Afif Hossain",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Afif Hossain",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Afif Hossain",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Afif Hossain",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Afif Hossain",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Afif Hossain",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Hasan Murad",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Hasan Murad",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Hasan Murad",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Hasan Murad",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Hasan Murad",
+              "non_striker": "RD Gaikwad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Hasan Murad",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Mahmudul Hasan Joy",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RD Gaikwad",
+              "bowler": "Mahmudul Hasan Joy",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 97
+      }
+    }
+  ]
+}

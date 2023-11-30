@@ -1,0 +1,6287 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-10-20",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dharamsala",
+    "dates": [
+      "2023-10-17"
+    ],
+    "event": {
+      "name": "ICC Cricket World Cup",
+      "match_number": 15
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 4672,
+    "officials": {
+      "match_referees": [
+        "JJ Crowe"
+      ],
+      "reserve_umpires": [
+        "Ahsan Raza"
+      ],
+      "tv_umpires": [
+        "Sharfuddoula"
+      ],
+      "umpires": [
+        "MA Gough",
+        "RA Kettleborough"
+      ]
+    },
+    "outcome": {
+      "winner": "Netherlands",
+      "by": {
+        "runs": 38
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "SA Edwards"
+    ],
+    "players": {
+      "Netherlands": [
+        "Vikramjit Singh",
+        "MP O'Dowd",
+        "CN Ackermann",
+        "BFW de Leede",
+        "SA Engelbrecht",
+        "AT Nidamanuru",
+        "SA Edwards",
+        "LV van Beek",
+        "RE van der Merwe",
+        "A Dutt",
+        "PA van Meekeren"
+      ],
+      "South Africa": [
+        "T Bavuma",
+        "Q de Kock",
+        "HE van der Dussen",
+        "AK Markram",
+        "H Klaasen",
+        "DA Miller",
+        "M Jansen",
+        "G Coetzee",
+        "KA Maharaj",
+        "K Rabada",
+        "L Ngidi"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dutt": "803dbf1d",
+        "AK Markram": "6a26221c",
+        "AT Nidamanuru": "a319edf8",
+        "Ahsan Raza": "e0e5b209",
+        "BFW de Leede": "fc4375ef",
+        "CN Ackermann": "e734d090",
+        "DA Miller": "d67d5f00",
+        "G Coetzee": "3204c99f",
+        "H Klaasen": "235c2bb6",
+        "HE van der Dussen": "9948e262",
+        "JJ Crowe": "2e760301",
+        "K Rabada": "e62dd25d",
+        "KA Maharaj": "0b60eb09",
+        "L Ngidi": "f834dcfc",
+        "LV van Beek": "782fb776",
+        "M Jansen": "81c36ee9",
+        "MA Gough": "76752ac8",
+        "MP O'Dowd": "b699df47",
+        "PA van Meekeren": "4557dc54",
+        "Q de Kock": "372455c4",
+        "RA Kettleborough": "4017868f",
+        "RE van der Merwe": "05c2ca46",
+        "SA Edwards": "b59db04f",
+        "SA Engelbrecht": "81a0e294",
+        "Sharfuddoula": "63896abb",
+        "T Bavuma": "9ffd1ac1",
+        "Vikramjit Singh": "2a9eee66"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "international",
+    "teams": [
+      "Netherlands",
+      "South Africa"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "South Africa"
+    },
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
+  },
+  "innings": [
+    {
+      "team": "Netherlands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "L Ngidi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "L Ngidi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "L Ngidi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "L Ngidi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "L Ngidi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "L Ngidi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "M Jansen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "M Jansen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "M Jansen",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "M Jansen",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "M Jansen",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "M Jansen",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "M Jansen",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "M Jansen",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "L Ngidi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "L Ngidi",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "L Ngidi",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "L Ngidi",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "L Ngidi",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "L Ngidi",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "M Jansen",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "M Jansen",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "M Jansen",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "M Jansen",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "M Jansen",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "M Jansen",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "L Ngidi",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "L Ngidi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "L Ngidi",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "L Ngidi",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "L Ngidi",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "L Ngidi",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "M Jansen",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "M Jansen",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "M Jansen",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "M Jansen",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "M Jansen",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "M Jansen",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Vikramjit Singh",
+              "bowler": "K Rabada",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Vikramjit Singh",
+                  "fielders": [
+                    {
+                      "name": "H Klaasen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "K Rabada",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "K Rabada",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "M Jansen",
+              "non_striker": "CN Ackermann",
+              "review": {
+                "by": "South Africa",
+                "umpire": "MA Gough",
+                "batter": "MP O'Dowd",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MP O'Dowd",
+                  "fielders": [
+                    {
+                      "name": "Q de Kock"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "M Jansen",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "M Jansen",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "M Jansen",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "M Jansen",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "M Jansen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "M Jansen",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "K Rabada",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "K Rabada",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "K Rabada",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "K Rabada",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "K Rabada",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "M Jansen",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "M Jansen",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "M Jansen",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "M Jansen",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "M Jansen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "M Jansen",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "M Jansen",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "K Rabada",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "K Rabada",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "K Rabada",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "K Rabada",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "K Rabada",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "review": {
+                "by": "South Africa",
+                "umpire": "RA Kettleborough",
+                "batter": "BFW de Leede",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BFW de Leede",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "K Rabada",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "K Rabada",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "K Rabada",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CN Ackermann",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "L Ngidi",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "L Ngidi",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "L Ngidi",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "L Ngidi",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "L Ngidi",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "L Ngidi",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "L Ngidi",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "L Ngidi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "L Ngidi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "L Ngidi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "L Ngidi",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "L Ngidi",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "L Ngidi",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "L Ngidi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "G Coetzee",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "L Ngidi",
+              "non_striker": "SA Engelbrecht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Engelbrecht",
+              "bowler": "L Ngidi",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Engelbrecht",
+                  "fielders": [
+                    {
+                      "name": "M Jansen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "L Ngidi",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "L Ngidi",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "L Ngidi",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "L Ngidi",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "review": {
+                "by": "South Africa",
+                "umpire": "MA Gough",
+                "batter": "SA Edwards",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "L Ngidi",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "L Ngidi",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "L Ngidi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "L Ngidi",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "L Ngidi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "L Ngidi",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "L Ngidi",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "L Ngidi",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "M Jansen",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "M Jansen",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "M Jansen",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "M Jansen",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "M Jansen",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "M Jansen",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "M Jansen",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "M Jansen",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "M Jansen",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "M Jansen",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "M Jansen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "M Jansen",
+              "non_striker": "AT Nidamanuru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Nidamanuru",
+              "bowler": "M Jansen",
+              "non_striker": "SA Edwards",
+              "review": {
+                "by": "Netherlands",
+                "umpire": "RA Kettleborough",
+                "batter": "AT Nidamanuru",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AT Nidamanuru",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "M Jansen",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "M Jansen",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "M Jansen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "M Jansen",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "M Jansen",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "M Jansen",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "M Jansen",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "LV van Beek",
+              "bowler": "K Rabada",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "K Rabada",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "LV van Beek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "K Rabada",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "K Rabada",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV van Beek",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LV van Beek",
+                  "fielders": [
+                    {
+                      "name": "Q de Kock"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "G Coetzee",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "G Coetzee",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "KA Maharaj",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "KA Maharaj",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "K Rabada",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "K Rabada",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "L Ngidi",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "L Ngidi",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "L Ngidi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "L Ngidi",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "L Ngidi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "L Ngidi",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "L Ngidi",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "L Ngidi",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RE van der Merwe",
+                  "fielders": [
+                    {
+                      "name": "Q de Kock"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "L Ngidi",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "K Rabada",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "K Rabada",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "K Rabada",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "K Rabada",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "L Ngidi",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "L Ngidi",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "L Ngidi",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "L Ngidi",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "L Ngidi",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "L Ngidi",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "A Dutt",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "G Coetzee",
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "G Coetzee",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Dutt",
+              "review": {
+                "by": "South Africa",
+                "umpire": "RA Kettleborough",
+                "batter": "SA Edwards",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Dutt",
+              "bowler": "G Coetzee",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "G Coetzee",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "A Dutt",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 8.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 9.1,
+          "to": 34.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 35.1,
+          "to": 42.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "South Africa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "LV van Beek",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "LV van Beek",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "LV van Beek",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "LV van Beek",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "LV van Beek",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "LV van Beek",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "CN Ackermann",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "CN Ackermann",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "CN Ackermann",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "CN Ackermann",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "CN Ackermann",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "CN Ackermann",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "A Dutt",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "A Dutt",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "A Dutt",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "A Dutt",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "CN Ackermann",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "CN Ackermann",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "CN Ackermann",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "CN Ackermann",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "CN Ackermann",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "CN Ackermann",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "A Dutt",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "A Dutt",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "A Dutt",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "A Dutt",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "CN Ackermann",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "CN Ackermann",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "CN Ackermann",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "CN Ackermann",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "CN Ackermann",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "CN Ackermann",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Q de Kock",
+                  "fielders": [
+                    {
+                      "name": "SA Edwards"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "T Bavuma",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "T Bavuma",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Bavuma",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AK Markram",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "H Klaasen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HE van der Dussen",
+                  "fielders": [
+                    {
+                      "name": "A Dutt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "H Klaasen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "PA van Meekeren",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "PA van Meekeren",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "PA van Meekeren",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "PA van Meekeren",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "H Klaasen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "A Dutt",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "A Dutt",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "A Dutt",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "A Dutt",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "A Dutt",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "A Dutt",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "BFW de Leede",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "BFW de Leede",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "BFW de Leede",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "BFW de Leede",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "BFW de Leede",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "BFW de Leede",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "BFW de Leede",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "LV van Beek",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "LV van Beek",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "LV van Beek",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "LV van Beek",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "LV van Beek",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Klaasen",
+                  "fielders": [
+                    {
+                      "name": "Vikramjit Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "LV van Beek",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "M Jansen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "M Jansen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "M Jansen",
+              "bowler": "LV van Beek",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "LV van Beek",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "LV van Beek",
+              "non_striker": "M Jansen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "LV van Beek",
+              "non_striker": "M Jansen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "LV van Beek",
+              "non_striker": "M Jansen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "LV van Beek",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "M Jansen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "M Jansen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "M Jansen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "M Jansen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "M Jansen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "M Jansen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "M Jansen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "RE van der Merwe",
+              "non_striker": "M Jansen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "M Jansen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "PA van Meekeren",
+              "non_striker": "M Jansen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jansen",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Jansen",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "BFW de Leede",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "BFW de Leede",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "BFW de Leede",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "BFW de Leede",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "BFW de Leede",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "BFW de Leede",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "BFW de Leede",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "G Coetzee",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "PA van Meekeren",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "PA van Meekeren",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "G Coetzee",
+              "bowler": "BFW de Leede",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "BFW de Leede",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "BFW de Leede",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "BFW de Leede",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "BFW de Leede",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "BFW de Leede",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "LV van Beek",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "G Coetzee",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "RE van der Merwe",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DA Miller",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "G Coetzee",
+              "bowler": "RE van der Merwe",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "RE van der Merwe",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "RE van der Merwe",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "RE van der Merwe",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "RE van der Merwe",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "RE van der Merwe",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "G Coetzee",
+              "bowler": "LV van Beek",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "G Coetzee",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Coetzee",
+                  "fielders": [
+                    {
+                      "name": "SA Edwards"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Rabada",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "BFW de Leede",
+              "non_striker": "K Rabada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "BFW de Leede",
+              "non_striker": "K Rabada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "BFW de Leede",
+              "non_striker": "K Rabada",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "BFW de Leede",
+              "non_striker": "K Rabada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "K Rabada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Rabada",
+              "bowler": "LV van Beek",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Rabada",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "K Rabada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Rabada",
+              "bowler": "LV van Beek",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Rabada",
+              "bowler": "LV van Beek",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "K Rabada",
+              "bowler": "LV van Beek",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "K Rabada",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Rabada",
+                  "fielders": [
+                    {
+                      "name": "SA Engelbrecht"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "BFW de Leede",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "review": {
+                "by": "Netherlands",
+                "umpire": "RA Kettleborough",
+                "batter": "L Ngidi",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "KA Maharaj",
+              "bowler": "PA van Meekeren",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "PA van Meekeren",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "PA van Meekeren",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "KA Maharaj",
+              "bowler": "BFW de Leede",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "BFW de Leede",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "BFW de Leede",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "BFW de Leede",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "KA Maharaj",
+              "bowler": "PA van Meekeren",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "PA van Meekeren",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "PA van Meekeren",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "BFW de Leede",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "LV van Beek",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "LV van Beek",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "BFW de Leede",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "BFW de Leede",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "BFW de Leede",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "BFW de Leede",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KA Maharaj",
+              "bowler": "LV van Beek",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KA Maharaj",
+                  "fielders": [
+                    {
+                      "name": "SA Edwards"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 8.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 9.1,
+          "to": 34.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 35.1,
+          "to": 42.5,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 43,
+        "runs": 246
+      }
+    }
+  ]
+}

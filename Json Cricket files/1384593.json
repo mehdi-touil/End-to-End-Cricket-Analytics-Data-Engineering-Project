@@ -1,0 +1,3116 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-07-14",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Marsa",
+    "dates": [
+      "2023-07-14"
+    ],
+    "event": {
+      "name": "Valletta Cup",
+      "match_number": 6
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2137,
+    "officials": {
+      "match_referees": [
+        "Vinay Malhotra"
+      ],
+      "reserve_umpires": [
+        "S Fernando"
+      ],
+      "umpires": [
+        "J Hilhorst",
+        "S Harnal"
+      ]
+    },
+    "outcome": {
+      "winner": "Malta",
+      "by": {
+        "runs": 41
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Zeeshan Khan"
+    ],
+    "players": {
+      "Malta": [
+        "Zeeshan Khan",
+        "Fanyan Mughal",
+        "DR Patankar",
+        "Aaftab Alam Khan",
+        "B Arora",
+        "VP Thamotharam",
+        "Waqas Ahmad",
+        "E Mathew",
+        "A Bishnoi",
+        "C Sudarsanan",
+        "Washeem Abbas"
+      ],
+      "Romania": [
+        "R Satheesan",
+        "Taranjeet Singh",
+        "V Saini",
+        "S Nadigotla",
+        "S Periyalwar",
+        "Abdul Shakoor",
+        "S Vashisht",
+        "Gaurav Mishra",
+        "M Koli",
+        "Luca Petre",
+        "S Thakur"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Bishnoi": "376557f7",
+        "Aaftab Alam Khan": "9dbc77b3",
+        "Abdul Shakoor": "d52b13a6",
+        "B Arora": "39e9f0c9",
+        "C Sudarsanan": "391a825b",
+        "DR Patankar": "e661915c",
+        "E Mathew": "e00acf74",
+        "Fanyan Mughal": "e85bb4b3",
+        "Gaurav Mishra": "507dd87f",
+        "J Hilhorst": "8a1350d4",
+        "Jaswinder Singh": "63aa8148",
+        "Luca Petre": "b31d458f",
+        "M Koli": "eb0f2802",
+        "R Satheesan": "1125ebe4",
+        "S Fernando": "bbeb5b15",
+        "S Harnal": "756fe781",
+        "S Nadigotla": "b78b3ffd",
+        "S Periyalwar": "d207e4fb",
+        "S Thakur": "a073f2ff",
+        "S Vashisht": "20ac8219",
+        "Taranjeet Singh": "ec483176",
+        "V Saini": "0fa81719",
+        "VP Thamotharam": "eb40ed89",
+        "Vinay Malhotra": "452837d1",
+        "Waqas Ahmad": "82623a3a",
+        "Washeem Abbas": "6de4e430",
+        "Zeeshan Khan": "3f9b1a96"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Malta",
+      "Romania"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Malta"
+    },
+    "venue": "Marsa Sports Club"
+  },
+  "innings": [
+    {
+      "team": "Malta",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Fanyan Mughal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Fanyan Mughal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fanyan Mughal",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fanyan Mughal",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fanyan Mughal",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Fanyan Mughal",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "S Vashisht",
+              "non_striker": "Fanyan Mughal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fanyan Mughal",
+              "bowler": "S Vashisht",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Fanyan Mughal",
+                  "fielders": [
+                    {
+                      "name": "V Saini"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DR Patankar",
+              "bowler": "S Vashisht",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DR Patankar",
+              "bowler": "S Vashisht",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "S Vashisht",
+              "non_striker": "DR Patankar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "S Vashisht",
+              "non_striker": "DR Patankar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "S Vashisht",
+              "non_striker": "DR Patankar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DR Patankar",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DR Patankar",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DR Patankar",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DR Patankar",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DR Patankar",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DR Patankar",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DR Patankar",
+              "bowler": "S Vashisht",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DR Patankar",
+              "bowler": "S Vashisht",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DR Patankar",
+              "bowler": "S Vashisht",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DR Patankar",
+              "bowler": "S Vashisht",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DR Patankar",
+                  "fielders": [
+                    {
+                      "name": "M Koli"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Aaftab Alam Khan",
+              "bowler": "S Vashisht",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aaftab Alam Khan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "S Vashisht",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Gaurav Mishra",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "S Vashisht",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "S Vashisht",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "S Vashisht",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "S Vashisht",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "S Vashisht",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "S Vashisht",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "M Koli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "M Koli",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "M Koli",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "M Koli",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "M Koli",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "M Koli",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "M Koli",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "B Arora",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "M Koli",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "M Koli",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "M Koli",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "M Koli",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "M Koli",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "M Koli",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "B Arora",
+              "bowler": "S Vashisht",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "S Vashisht",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "S Vashisht",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "S Vashisht",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "S Vashisht",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "S Vashisht",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "B Arora",
+              "bowler": "V Saini",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "V Saini",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "V Saini",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Arora",
+                  "fielders": [
+                    {
+                      "name": "S Nadigotla"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "V Saini",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "V Saini",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "V Saini",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "V Saini",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "V Saini",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "V Saini",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "V Saini",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "V Saini",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "V Saini",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "M Koli",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "VP Thamotharam",
+                  "fielders": [
+                    {
+                      "name": "Gaurav Mishra"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Waqas Ahmad",
+              "bowler": "M Koli",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "M Koli",
+              "non_striker": "Waqas Ahmad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "M Koli",
+              "non_striker": "Waqas Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqas Ahmad",
+              "bowler": "M Koli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqas Ahmad",
+              "bowler": "M Koli",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqas Ahmad",
+              "bowler": "M Koli",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "V Saini",
+              "non_striker": "Waqas Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "V Saini",
+              "non_striker": "Waqas Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "V Saini",
+              "non_striker": "Waqas Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqas Ahmad",
+              "bowler": "V Saini",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Waqas Ahmad",
+                  "fielders": [
+                    {
+                      "name": "Gaurav Mishra"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "E Mathew",
+              "bowler": "V Saini",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Mathew",
+              "bowler": "V Saini",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "M Koli",
+              "non_striker": "E Mathew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Mathew",
+              "bowler": "M Koli",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Mathew",
+              "bowler": "M Koli",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "M Koli",
+              "non_striker": "E Mathew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "M Koli",
+              "non_striker": "E Mathew",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "M Koli",
+              "non_striker": "E Mathew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "V Saini",
+              "non_striker": "E Mathew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "V Saini",
+              "non_striker": "E Mathew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "V Saini",
+              "non_striker": "E Mathew",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "V Saini",
+              "non_striker": "E Mathew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Mathew",
+              "bowler": "V Saini",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Mathew",
+                  "fielders": [
+                    {
+                      "name": "V Saini"
+                    },
+                    {
+                      "name": "S Nadigotla"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "V Saini",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Bishnoi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "V Saini",
+              "non_striker": "A Bishnoi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Romania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "R Satheesan",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Fanyan Mughal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Fanyan Mughal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "A Bishnoi",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "A Bishnoi",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "A Bishnoi",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "A Bishnoi",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Taranjeet Singh",
+                  "fielders": [
+                    {
+                      "name": "C Sudarsanan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "A Bishnoi",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "A Bishnoi",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Fanyan Mughal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "A Bishnoi",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "A Bishnoi",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "A Bishnoi",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "A Bishnoi",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "A Bishnoi",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "A Bishnoi",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Fanyan Mughal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Fanyan Mughal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Saini",
+                  "fielders": [
+                    {
+                      "name": "Aaftab Alam Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Waqas Ahmad",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Waqas Ahmad",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Waqas Ahmad",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Waqas Ahmad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Waqas Ahmad",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Waqas Ahmad",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Waqas Ahmad",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "R Satheesan",
+              "bowler": "Washeem Abbas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Washeem Abbas",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Washeem Abbas",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Washeem Abbas",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Washeem Abbas",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Washeem Abbas",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Washeem Abbas",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Waqas Ahmad",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Waqas Ahmad",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Waqas Ahmad",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Waqas Ahmad",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Waqas Ahmad",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Waqas Ahmad",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Nadigotla",
+              "bowler": "B Arora",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "B Arora",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "B Arora",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "B Arora",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Nadigotla",
+                  "fielders": [
+                    {
+                      "name": "C Sudarsanan"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "B Arora",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "B Arora",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "S Periyalwar",
+              "bowler": "E Mathew",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "E Mathew",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "E Mathew",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Periyalwar",
+                  "fielders": [
+                    {
+                      "name": "C Sudarsanan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "E Mathew",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "E Mathew",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "E Mathew",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "B Arora",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "B Arora",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "B Arora",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "B Arora",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "B Arora",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "B Arora",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "E Mathew",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "E Mathew",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "E Mathew",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "E Mathew",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "E Mathew",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "E Mathew",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abdul Shakoor",
+                  "fielders": [
+                    {
+                      "name": "VP Thamotharam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Vashisht",
+              "bowler": "E Mathew",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "R Satheesan",
+              "bowler": "B Arora",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "B Arora",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Satheesan",
+                  "fielders": [
+                    {
+                      "name": "DR Patankar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Gaurav Mishra",
+              "bowler": "B Arora",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gaurav Mishra",
+              "bowler": "B Arora",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Gaurav Mishra",
+              "bowler": "B Arora",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gaurav Mishra",
+              "bowler": "B Arora",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Vashisht",
+              "bowler": "E Mathew",
+              "non_striker": "Gaurav Mishra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Vashisht",
+              "bowler": "E Mathew",
+              "non_striker": "Gaurav Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gaurav Mishra",
+              "bowler": "E Mathew",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Gaurav Mishra",
+              "bowler": "E Mathew",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vashisht",
+              "bowler": "E Mathew",
+              "non_striker": "Gaurav Mishra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Vashisht",
+              "bowler": "E Mathew",
+              "non_striker": "Gaurav Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Vashisht",
+                  "fielders": [
+                    {
+                      "name": "Aaftab Alam Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Gaurav Mishra",
+              "bowler": "B Arora",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "B Arora",
+              "non_striker": "Gaurav Mishra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "B Arora",
+              "non_striker": "Gaurav Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "B Arora",
+              "non_striker": "Gaurav Mishra",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Gaurav Mishra",
+              "bowler": "B Arora",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "B Arora",
+              "non_striker": "Gaurav Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Gaurav Mishra",
+                  "fielders": [
+                    {
+                      "name": "Jaswinder Singh",
+                      "substitute": true
+                    },
+                    {
+                      "name": "B Arora"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Luca Petre",
+              "bowler": "E Mathew",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "E Mathew",
+              "non_striker": "Luca Petre",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "E Mathew",
+              "non_striker": "Luca Petre",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "E Mathew",
+              "non_striker": "Luca Petre",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "E Mathew",
+              "non_striker": "Luca Petre",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Luca Petre",
+              "bowler": "E Mathew",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "M Koli",
+              "bowler": "A Bishnoi",
+              "non_striker": "Luca Petre",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Luca Petre",
+              "bowler": "A Bishnoi",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "A Bishnoi",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Luca Petre",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "A Bishnoi",
+              "non_striker": "Luca Petre",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "A Bishnoi",
+              "non_striker": "Luca Petre",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Luca Petre",
+              "bowler": "A Bishnoi",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "A Bishnoi",
+              "non_striker": "Luca Petre",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "M Koli",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Luca Petre",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Luca Petre",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Luca Petre",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Luca Petre",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Luca Petre",
+              "bowler": "Washeem Abbas",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Luca Petre",
+              "bowler": "Washeem Abbas",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "M Koli",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "Luca Petre",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "Luca Petre",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Luca Petre",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Luca Petre",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Luca Petre",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Thakur",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Thakur",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Thakur",
+              "bowler": "Fanyan Mughal",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "S Thakur",
+              "bowler": "Washeem Abbas",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Thakur",
+              "bowler": "Washeem Abbas",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "Washeem Abbas",
+              "non_striker": "S Thakur",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "Washeem Abbas",
+              "non_striker": "S Thakur",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Koli",
+              "bowler": "Washeem Abbas",
+              "non_striker": "S Thakur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Thakur",
+              "bowler": "Washeem Abbas",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 188
+      },
+      "miscounted_overs": {
+        "18": {
+          "balls": "7"
+        }
+      }
+    }
+  ]
+}

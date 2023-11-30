@@ -1,0 +1,1941 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-08-07",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Szodliget",
+    "dates": [
+      "2023-08-06"
+    ],
+    "event": {
+      "name": "Croatia tour of Hungary",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2190,
+    "officials": {
+      "umpires": [
+        "Sai Goutham",
+        "Srinivas Mandali"
+      ]
+    },
+    "outcome": {
+      "winner": "Hungary",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Sheikh Rasik"
+    ],
+    "players": {
+      "Croatia": [
+        "WK Bitis",
+        "A Maheshwari",
+        "Naseem Khan",
+        "Sohail Ahmad",
+        "V Zanko",
+        "V Pulibanti",
+        "CG Osborne",
+        "A Magdalenic",
+        "Ivan Splicevic",
+        "ID Matic",
+        "P Bosnjak"
+      ],
+      "Hungary": [
+        "Zeeshan Kukikhel",
+        "Ali Yalmaz",
+        "A Kheterpal",
+        "Sheikh Rasik",
+        "Yadwinder Singh",
+        "Abhijeet Ahuja",
+        "Abbas Ghani",
+        "Abhishek Ahuja",
+        "A Prashar",
+        "Zahir Mohammed",
+        "V Ravindran"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Kheterpal": "2deb4082",
+        "A Magdalenic": "d6a2f3a5",
+        "A Maheshwari": "3ec513ea",
+        "A Prashar": "b18dbaff",
+        "Abbas Ghani": "a8f91f78",
+        "Abhijeet Ahuja": "b91083bd",
+        "Abhishek Ahuja": "65cf74b4",
+        "Ali Yalmaz": "026e1314",
+        "CG Osborne": "19758a47",
+        "ID Matic": "72f784ca",
+        "Ivan Splicevic": "010658fc",
+        "Naseem Khan": "cfbd3998",
+        "P Bosnjak": "fed92736",
+        "Sai Goutham": "7b7a1bbe",
+        "Sheikh Rasik": "5f25b104",
+        "Sohail Ahmad": "7e439c80",
+        "Srinivas Mandali": "c021863b",
+        "V Pulibanti": "ac02a458",
+        "V Ravindran": "e5ecb1ef",
+        "V Zanko": "4a78f962",
+        "WK Bitis": "b34de9a6",
+        "Yadwinder Singh": "43b36ccf",
+        "Zahir Mohammed": "7c38942a",
+        "Zeeshan Kukikhel": "5d6a1f76"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Croatia",
+      "Hungary"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Croatia"
+    },
+    "venue": "GB Oval, Szodliget"
+  },
+  "innings": [
+    {
+      "team": "Croatia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "WK Bitis",
+              "bowler": "A Prashar",
+              "non_striker": "A Maheshwari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WK Bitis",
+              "bowler": "A Prashar",
+              "non_striker": "A Maheshwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Maheshwari",
+              "bowler": "A Prashar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WK Bitis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Maheshwari",
+              "bowler": "A Prashar",
+              "non_striker": "WK Bitis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Maheshwari",
+              "bowler": "A Prashar",
+              "non_striker": "WK Bitis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WK Bitis",
+              "bowler": "A Prashar",
+              "non_striker": "A Maheshwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WK Bitis",
+                  "fielders": [
+                    {
+                      "name": "Yadwinder Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "A Prashar",
+              "non_striker": "A Maheshwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Maheshwari",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Maheshwari",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Maheshwari",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Maheshwari",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "A Maheshwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "A Maheshwari",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Maheshwari",
+              "bowler": "A Prashar",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Maheshwari",
+              "bowler": "A Prashar",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "A Prashar",
+              "non_striker": "A Maheshwari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "A Prashar",
+              "non_striker": "A Maheshwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "A Prashar",
+              "non_striker": "A Maheshwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "A Prashar",
+              "non_striker": "A Maheshwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Naseem Khan",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "A Maheshwari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "A Maheshwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Maheshwari",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Maheshwari",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Maheshwari",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Maheshwari",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "A Maheshwari",
+              "bowler": "A Prashar",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Maheshwari",
+              "bowler": "A Prashar",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Maheshwari",
+                  "fielders": [
+                    {
+                      "name": "Abbas Ghani"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "A Prashar",
+              "non_striker": "Sohail Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sohail Ahmad",
+              "bowler": "A Prashar",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "A Prashar",
+              "non_striker": "Sohail Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "A Prashar",
+              "non_striker": "Sohail Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Sohail Ahmad",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sohail Ahmad",
+                  "fielders": [
+                    {
+                      "name": "V Ravindran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "Sheikh Rasik",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Naseem Khan",
+              "bowler": "Abbas Ghani",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "Abbas Ghani",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "Abbas Ghani",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "Abbas Ghani",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "Abbas Ghani",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "Abbas Ghani",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "Abbas Ghani",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "V Zanko",
+              "bowler": "A Kheterpal",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "A Kheterpal",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "A Kheterpal",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "A Kheterpal",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "A Kheterpal",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "A Kheterpal",
+              "non_striker": "Naseem Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Naseem Khan",
+              "bowler": "Abbas Ghani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "Abbas Ghani",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "Abbas Ghani",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naseem Khan",
+              "bowler": "Abbas Ghani",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Naseem Khan",
+                  "fielders": [
+                    {
+                      "name": "Abhijeet Ahuja"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Pulibanti",
+              "bowler": "Abbas Ghani",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Pulibanti",
+              "bowler": "Abbas Ghani",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Pulibanti",
+              "bowler": "Abbas Ghani",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Pulibanti",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "V Zanko",
+              "bowler": "Abhijeet Ahuja",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "Abhijeet Ahuja",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "Abhijeet Ahuja",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "Abhijeet Ahuja",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "Abhijeet Ahuja",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "Abhijeet Ahuja",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "CG Osborne",
+              "bowler": "V Ravindran",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CG Osborne",
+              "bowler": "V Ravindran",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CG Osborne",
+              "bowler": "V Ravindran",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CG Osborne",
+              "bowler": "V Ravindran",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "V Ravindran",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CG Osborne",
+              "bowler": "V Ravindran",
+              "non_striker": "V Zanko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "V Zanko",
+              "bowler": "Abhijeet Ahuja",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Zanko",
+                  "fielders": [
+                    {
+                      "name": "Abhishek Ahuja"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Magdalenic",
+              "bowler": "Abhijeet Ahuja",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Magdalenic",
+              "bowler": "Abhijeet Ahuja",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Magdalenic",
+                  "fielders": [
+                    {
+                      "name": "Abhishek Ahuja"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Ivan Splicevic",
+              "bowler": "Abhijeet Ahuja",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ivan Splicevic",
+              "bowler": "Abhijeet Ahuja",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ivan Splicevic",
+              "bowler": "Abhijeet Ahuja",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "CG Osborne",
+              "bowler": "V Ravindran",
+              "non_striker": "Ivan Splicevic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CG Osborne",
+              "bowler": "V Ravindran",
+              "non_striker": "Ivan Splicevic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ivan Splicevic",
+              "bowler": "V Ravindran",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ivan Splicevic",
+              "bowler": "V Ravindran",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ivan Splicevic",
+              "bowler": "V Ravindran",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ivan Splicevic",
+              "bowler": "V Ravindran",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ivan Splicevic",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "CG Osborne",
+              "bowler": "Yadwinder Singh",
+              "non_striker": "ID Matic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CG Osborne",
+              "bowler": "Yadwinder Singh",
+              "non_striker": "ID Matic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ID Matic",
+              "bowler": "Yadwinder Singh",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ID Matic",
+              "bowler": "Yadwinder Singh",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ID Matic",
+              "bowler": "Yadwinder Singh",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ID Matic",
+              "bowler": "Yadwinder Singh",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "CG Osborne",
+              "bowler": "V Ravindran",
+              "non_striker": "ID Matic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CG Osborne",
+              "bowler": "V Ravindran",
+              "non_striker": "ID Matic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CG Osborne",
+              "bowler": "V Ravindran",
+              "non_striker": "ID Matic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ID Matic",
+              "bowler": "V Ravindran",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ID Matic",
+              "bowler": "V Ravindran",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ID Matic",
+              "bowler": "V Ravindran",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ID Matic",
+                  "fielders": [
+                    {
+                      "name": "A Kheterpal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "CG Osborne",
+              "bowler": "Yadwinder Singh",
+              "non_striker": "P Bosnjak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CG Osborne",
+              "bowler": "Yadwinder Singh",
+              "non_striker": "P Bosnjak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CG Osborne",
+              "bowler": "Yadwinder Singh",
+              "non_striker": "P Bosnjak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CG Osborne",
+              "bowler": "Yadwinder Singh",
+              "non_striker": "P Bosnjak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CG Osborne",
+              "bowler": "Yadwinder Singh",
+              "non_striker": "P Bosnjak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Bosnjak",
+              "bowler": "Yadwinder Singh",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "CG Osborne",
+              "bowler": "V Ravindran",
+              "non_striker": "P Bosnjak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Bosnjak",
+              "bowler": "V Ravindran",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Bosnjak",
+              "bowler": "V Ravindran",
+              "non_striker": "CG Osborne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Bosnjak",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Hungary",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "A Maheshwari",
+              "non_striker": "Ali Yalmaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "A Maheshwari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ali Yalmaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "A Maheshwari",
+              "non_striker": "Ali Yalmaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "A Maheshwari",
+              "non_striker": "Ali Yalmaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "A Maheshwari",
+              "non_striker": "Ali Yalmaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Yalmaz",
+              "bowler": "A Maheshwari",
+              "non_striker": "Zeeshan Kukikhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Yalmaz",
+              "bowler": "A Maheshwari",
+              "non_striker": "Zeeshan Kukikhel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "Naseem Khan",
+              "non_striker": "Ali Yalmaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zeeshan Kukikhel",
+                  "fielders": [
+                    {
+                      "name": "Sohail Ahmad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Kheterpal",
+              "bowler": "Naseem Khan",
+              "non_striker": "Ali Yalmaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kheterpal",
+              "bowler": "Naseem Khan",
+              "non_striker": "Ali Yalmaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kheterpal",
+              "bowler": "Naseem Khan",
+              "non_striker": "Ali Yalmaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Yalmaz",
+              "bowler": "Naseem Khan",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kheterpal",
+              "bowler": "Naseem Khan",
+              "non_striker": "Ali Yalmaz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Ali Yalmaz",
+              "bowler": "A Maheshwari",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ali Yalmaz",
+                  "fielders": [
+                    {
+                      "name": "Ivan Splicevic"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "A Maheshwari",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "A Maheshwari",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kheterpal",
+              "bowler": "A Maheshwari",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Kheterpal",
+              "bowler": "A Maheshwari",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kheterpal",
+              "bowler": "A Maheshwari",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "V Pulibanti",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "V Pulibanti",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "V Pulibanti",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "V Pulibanti",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kheterpal",
+              "bowler": "V Pulibanti",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "V Pulibanti",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kheterpal",
+              "bowler": "V Pulibanti",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Kheterpal",
+                  "fielders": [
+                    {
+                      "name": "Sohail Ahmad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "A Magdalenic",
+              "extras": {
+                "byes": 1,
+                "noballs": 1
+              },
+              "non_striker": "Yadwinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yadwinder Singh",
+              "bowler": "A Magdalenic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yadwinder Singh",
+              "bowler": "A Magdalenic",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yadwinder Singh",
+              "bowler": "A Magdalenic",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yadwinder Singh",
+              "bowler": "A Magdalenic",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yadwinder Singh",
+              "bowler": "A Magdalenic",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "A Magdalenic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yadwinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "A Magdalenic",
+              "non_striker": "Yadwinder Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yadwinder Singh",
+              "bowler": "A Magdalenic",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "CG Osborne",
+              "non_striker": "Yadwinder Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "CG Osborne",
+              "non_striker": "Yadwinder Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yadwinder Singh",
+              "bowler": "CG Osborne",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "CG Osborne",
+              "non_striker": "Yadwinder Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yadwinder Singh",
+              "bowler": "CG Osborne",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yadwinder Singh",
+              "bowler": "CG Osborne",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Yadwinder Singh",
+              "bowler": "V Pulibanti",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "V Pulibanti",
+              "non_striker": "Yadwinder Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yadwinder Singh",
+              "bowler": "V Pulibanti",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yadwinder Singh",
+              "bowler": "V Pulibanti",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yadwinder Singh",
+              "bowler": "V Pulibanti",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yadwinder Singh",
+              "bowler": "V Pulibanti",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yadwinder Singh",
+              "bowler": "V Pulibanti",
+              "non_striker": "Sheikh Rasik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "A Magdalenic",
+              "non_striker": "Yadwinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sheikh Rasik",
+              "bowler": "A Magdalenic",
+              "non_striker": "Yadwinder Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 64
+      }
+    }
+  ]
+}

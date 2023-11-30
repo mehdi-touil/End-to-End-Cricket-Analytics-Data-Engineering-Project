@@ -1,0 +1,5382 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-11-04",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bengaluru",
+    "dates": [
+      "2023-11-04"
+    ],
+    "event": {
+      "name": "ICC Cricket World Cup",
+      "match_number": 35
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 4692,
+    "officials": {
+      "match_referees": [
+        "RB Richardson"
+      ],
+      "reserve_umpires": [
+        "JS Wilson"
+      ],
+      "tv_umpires": [
+        "RK Illingworth"
+      ],
+      "umpires": [
+        "P Wilson",
+        "RA Kettleborough"
+      ]
+    },
+    "outcome": {
+      "winner": "Pakistan",
+      "by": {
+        "runs": 21
+      },
+      "method": "D/L"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "Fakhar Zaman"
+    ],
+    "players": {
+      "New Zealand": [
+        "DP Conway",
+        "R Ravindra",
+        "KS Williamson",
+        "DJ Mitchell",
+        "MS Chapman",
+        "GD Phillips",
+        "MJ Santner",
+        "TWM Latham",
+        "IS Sodhi",
+        "TG Southee",
+        "TA Boult"
+      ],
+      "Pakistan": [
+        "Abdullah Shafique",
+        "Fakhar Zaman",
+        "Babar Azam",
+        "Mohammad Rizwan",
+        "Saud Shakeel",
+        "Iftikhar Ahmed",
+        "Agha Salman",
+        "Hasan Ali",
+        "Shaheen Shah Afridi",
+        "Mohammad Wasim",
+        "Haris Rauf"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Abdullah Shafique": "fc2fffb5",
+        "Agha Salman": "89c16049",
+        "Babar Azam": "8a75e999",
+        "DJ Mitchell": "eade4650",
+        "DP Conway": "df5a6881",
+        "Fakhar Zaman": "1777c020",
+        "GD Phillips": "9a46c4e5",
+        "Haris Rauf": "24bb1c2f",
+        "Hasan Ali": "2911de16",
+        "IS Sodhi": "641ac5ff",
+        "Iftikhar Ahmed": "29e253dd",
+        "JS Wilson": "d7f3b72f",
+        "KS Williamson": "d027ba9f",
+        "MJ Santner": "e4a0deae",
+        "MS Chapman": "7fa12533",
+        "Mohammad Rizwan": "2f26ac1a",
+        "Mohammad Wasim": "9e9af5f2",
+        "P Wilson": "68304a36",
+        "R Ravindra": "ba5e1069",
+        "RA Kettleborough": "4017868f",
+        "RB Richardson": "410e2f12",
+        "RK Illingworth": "20672246",
+        "Saud Shakeel": "d07c1b2f",
+        "Shaheen Shah Afridi": "45a7e761",
+        "TA Boult": "a818c1be",
+        "TG Southee": "13c35c9e",
+        "TWM Latham": "e824e6ee"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "international",
+    "teams": [
+      "New Zealand",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Pakistan"
+    },
+    "venue": "M Chinnaswamy Stadium, Bengaluru"
+  },
+  "innings": [
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DP Conway",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Rizwan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Haris Rauf",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Haris Rauf",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Haris Rauf",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Haris Rauf",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "Haris Rauf",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Haris Rauf",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Haris Rauf",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Mohammad Wasim",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Mohammad Wasim",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "Agha Salman",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Agha Salman",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Agha Salman",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Agha Salman",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Agha Salman",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Agha Salman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Agha Salman",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Agha Salman",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Agha Salman",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Agha Salman",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Agha Salman",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Agha Salman",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Agha Salman",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Mohammad Wasim",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Haris Rauf",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "Haris Rauf",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Haris Rauf",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Haris Rauf",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Haris Rauf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Haris Rauf",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Haris Rauf",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Haris Rauf",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Hasan Ali",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Hasan Ali",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Hasan Ali",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KS Williamson",
+                  "fielders": [
+                    {
+                      "name": "Fakhar Zaman"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Mohammad Wasim",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Ravindra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Ravindra",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Ravindra",
+                  "fielders": [
+                    {
+                      "name": "Saud Shakeel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Haris Rauf",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Haris Rauf",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Haris Rauf",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Haris Rauf",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Haris Rauf",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Haris Rauf",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hasan Ali",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hasan Ali",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hasan Ali",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Hasan Ali",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hasan Ali",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hasan Ali",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Hasan Ali",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Hasan Ali",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Hasan Ali",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Hasan Ali",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Hasan Ali",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Hasan Ali",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Haris Rauf",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJ Mitchell",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Haris Rauf",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Haris Rauf",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Haris Rauf",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Haris Rauf",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Haris Rauf",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hasan Ali",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hasan Ali",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Hasan Ali",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hasan Ali",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Hasan Ali",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hasan Ali",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "Haris Rauf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Haris Rauf",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Haris Rauf",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Haris Rauf",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Haris Rauf",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Haris Rauf",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Haris Rauf",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "Mohammad Wasim",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Chapman",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "GD Phillips",
+              "bowler": "Haris Rauf",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Haris Rauf",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "Haris Rauf",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Haris Rauf",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Haris Rauf",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "Haris Rauf",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "GD Phillips",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "MJ Santner",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Shaheen Shah Afridi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "MJ Santner",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Mohammad Wasim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GD Phillips",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "TWM Latham",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 49.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Abdullah Shafique",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdullah Shafique",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdullah Shafique",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abdullah Shafique",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdullah Shafique",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdullah Shafique",
+              "bowler": "TA Boult",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdullah Shafique",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TG Southee",
+              "non_striker": "Abdullah Shafique",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TG Southee",
+              "non_striker": "Abdullah Shafique",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TG Southee",
+              "non_striker": "Abdullah Shafique",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdullah Shafique",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdullah Shafique",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdullah Shafique",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abdullah Shafique",
+                  "fielders": [
+                    {
+                      "name": "KS Williamson"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TG Southee",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TG Southee",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TG Southee",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TG Southee",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TG Southee",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "MJ Santner",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "MJ Santner",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "MJ Santner",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TG Southee",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TG Southee",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TG Southee",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "MJ Santner",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "MJ Santner",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "MJ Santner",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "GD Phillips",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "GD Phillips",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "GD Phillips",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "IS Sodhi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "IS Sodhi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "IS Sodhi",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "IS Sodhi",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "IS Sodhi",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "IS Sodhi",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "GD Phillips",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "IS Sodhi",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "IS Sodhi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "IS Sodhi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "IS Sodhi",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "IS Sodhi",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "IS Sodhi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "GD Phillips",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "GD Phillips",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "MJ Santner",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "MJ Santner",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "MJ Santner",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "MJ Santner",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TG Southee",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TG Southee",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TG Southee",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TG Southee",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "MJ Santner",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "MJ Santner",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "MJ Santner",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "MJ Santner",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "GD Phillips",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "GD Phillips",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "GD Phillips",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "GD Phillips",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "IS Sodhi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "IS Sodhi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "IS Sodhi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "IS Sodhi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "IS Sodhi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "IS Sodhi",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "IS Sodhi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "TA Boult",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "TA Boult",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "IS Sodhi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "IS Sodhi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "IS Sodhi",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "IS Sodhi",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "IS Sodhi",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "IS Sodhi",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "DJ Mitchell",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "DJ Mitchell",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "DJ Mitchell",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 25.3,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 25.3,
+        "runs": 180
+      }
+    }
+  ]
+}

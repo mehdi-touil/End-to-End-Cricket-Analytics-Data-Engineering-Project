@@ -1,0 +1,2951 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-10-27",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Windhoek",
+    "dates": [
+      "2023-10-25"
+    ],
+    "event": {
+      "name": "Zimbabwe tour of Namibia",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2329,
+    "officials": {
+      "reserve_umpires": [
+        "A Louw"
+      ],
+      "umpires": [
+        "Claus Schumacher",
+        "E Lassen"
+      ]
+    },
+    "outcome": {
+      "winner": "Zimbabwe",
+      "by": {
+        "wickets": 5
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Sikandar Raza"
+    ],
+    "players": {
+      "Namibia": [
+        "M van Lingen",
+        "N Davin",
+        "MG Erasmus",
+        "JJ Smit",
+        "ZE Green",
+        "JN Frylinck",
+        "JP Kotze",
+        "JN Loftie-Eaton",
+        "BM Scholtz",
+        "B Shikongo",
+        "T Lungameni"
+      ],
+      "Zimbabwe": [
+        "NR Welch",
+        "I Kaia",
+        "CR Ervine",
+        "Sikandar Raza",
+        "RP Burl",
+        "W Madhevere",
+        "C Madande",
+        "LM Jongwe",
+        "CT Mumba",
+        "A Ndlovu",
+        "TL Chatara"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Louw": "5eecae5d",
+        "A Ndlovu": "3abe1ef6",
+        "B Shikongo": "c26cd57a",
+        "BM Scholtz": "e85d03d6",
+        "C Madande": "3560a786",
+        "CR Ervine": "c96311d4",
+        "CT Mumba": "28496266",
+        "Claus Schumacher": "85645e62",
+        "E Lassen": "a476d6d0",
+        "I Kaia": "5ad8c974",
+        "JJ Smit": "bb134e5c",
+        "JN Frylinck": "3c87f0c3",
+        "JN Loftie-Eaton": "f468293b",
+        "JP Kotze": "9f308dfc",
+        "LM Jongwe": "b8704508",
+        "M van Lingen": "7eb36269",
+        "MG Erasmus": "95a5e066",
+        "N Davin": "72e361fe",
+        "NR Welch": "74c6c6e0",
+        "RP Burl": "b08252b8",
+        "Sikandar Raza": "26d041c4",
+        "T Lungameni": "1688f2dc",
+        "TL Chatara": "5bbabe59",
+        "W Madhevere": "a879b92c",
+        "ZE Green": "8716233e"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "international",
+    "teams": [
+      "Namibia",
+      "Zimbabwe"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Zimbabwe"
+    },
+    "venue": "Wanderers Cricket Ground, Windhoek"
+  },
+  "innings": [
+    {
+      "team": "Namibia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "M van Lingen",
+              "bowler": "CT Mumba",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "CT Mumba",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "CT Mumba",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "CT Mumba",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "CT Mumba",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "CT Mumba",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "M van Lingen",
+              "bowler": "A Ndlovu",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "A Ndlovu",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "A Ndlovu",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "A Ndlovu",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "A Ndlovu",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "A Ndlovu",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "N Davin",
+              "bowler": "CT Mumba",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "CT Mumba",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "CT Mumba",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "CT Mumba",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "CT Mumba",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "CT Mumba",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "N Davin",
+              "bowler": "A Ndlovu",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "A Ndlovu",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "A Ndlovu",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "A Ndlovu",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "A Ndlovu",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "A Ndlovu",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "M van Lingen",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "Sikandar Raza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "N Davin",
+              "bowler": "TL Chatara",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "TL Chatara",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "TL Chatara",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "TL Chatara",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "TL Chatara",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "TL Chatara",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "M van Lingen",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "Sikandar Raza",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "Sikandar Raza",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "N Davin",
+              "bowler": "TL Chatara",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "TL Chatara",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "TL Chatara",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "TL Chatara",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "TL Chatara",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "TL Chatara",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "N Davin",
+              "bowler": "W Madhevere",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "W Madhevere",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "W Madhevere",
+              "non_striker": "M van Lingen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "W Madhevere",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "W Madhevere",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "W Madhevere",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "M van Lingen",
+              "bowler": "RP Burl",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "RP Burl",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M van Lingen",
+              "bowler": "RP Burl",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M van Lingen",
+                  "fielders": [
+                    {
+                      "name": "CR Ervine"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "RP Burl",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "RP Burl",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "RP Burl",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "A Ndlovu",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "A Ndlovu",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "A Ndlovu",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "A Ndlovu",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "A Ndlovu",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "A Ndlovu",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "RP Burl",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "RP Burl",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "RP Burl",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "RP Burl",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "RP Burl",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "RP Burl",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "A Ndlovu",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "A Ndlovu",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "A Ndlovu",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "A Ndlovu",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "A Ndlovu",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "A Ndlovu",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "RP Burl",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "RP Burl",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "RP Burl",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "RP Burl",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "RP Burl",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "RP Burl",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "RP Burl",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "Sikandar Raza",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "Sikandar Raza",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "CT Mumba",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "CT Mumba",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "CT Mumba",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "CT Mumba",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "CT Mumba",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "CT Mumba",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "TL Chatara",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "TL Chatara",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "TL Chatara",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "TL Chatara",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "TL Chatara",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MG Erasmus",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "TL Chatara",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JJ Smit",
+              "bowler": "LM Jongwe",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "LM Jongwe",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "LM Jongwe",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "LM Jongwe",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "LM Jongwe",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "LM Jongwe",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "N Davin",
+              "bowler": "TL Chatara",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "TL Chatara",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "TL Chatara",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "TL Chatara",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "TL Chatara",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "TL Chatara",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "JJ Smit",
+              "bowler": "CT Mumba",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "CT Mumba",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "CT Mumba",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "CT Mumba",
+              "non_striker": "N Davin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Davin",
+              "bowler": "CT Mumba",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Davin",
+                  "fielders": [
+                    {
+                      "name": "CT Mumba"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "CT Mumba",
+              "non_striker": "ZE Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Zimbabwe",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "NR Welch",
+              "bowler": "BM Scholtz",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "BM Scholtz",
+              "non_striker": "NR Welch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "BM Scholtz",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "BM Scholtz",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "BM Scholtz",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "BM Scholtz",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "I Kaia",
+              "bowler": "B Shikongo",
+              "non_striker": "NR Welch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "B Shikongo",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "B Shikongo",
+              "non_striker": "NR Welch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "B Shikongo",
+              "non_striker": "NR Welch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "B Shikongo",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "B Shikongo",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "I Kaia",
+              "bowler": "T Lungameni",
+              "non_striker": "NR Welch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "T Lungameni",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "T Lungameni",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "T Lungameni",
+              "non_striker": "NR Welch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "T Lungameni",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "T Lungameni",
+              "non_striker": "NR Welch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "NR Welch",
+              "bowler": "BM Scholtz",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "BM Scholtz",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "BM Scholtz",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "BM Scholtz",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "BM Scholtz",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "BM Scholtz",
+              "non_striker": "NR Welch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "NR Welch",
+              "bowler": "JJ Smit",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "JJ Smit",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "JJ Smit",
+              "non_striker": "NR Welch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "JJ Smit",
+              "non_striker": "NR Welch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "JJ Smit",
+              "non_striker": "NR Welch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Welch",
+              "bowler": "JJ Smit",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NR Welch",
+                  "fielders": [
+                    {
+                      "name": "ZE Green"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "I Kaia",
+              "bowler": "MG Erasmus",
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "MG Erasmus",
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "MG Erasmus",
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "MG Erasmus",
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Ervine",
+              "bowler": "MG Erasmus",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "MG Erasmus",
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "I Kaia",
+              "bowler": "JJ Smit",
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "JJ Smit",
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "JJ Smit",
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Ervine",
+              "bowler": "JJ Smit",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Ervine",
+              "bowler": "JJ Smit",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CR Ervine",
+              "bowler": "JJ Smit",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "CR Ervine",
+              "bowler": "MG Erasmus",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "MG Erasmus",
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Ervine",
+              "bowler": "MG Erasmus",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Ervine",
+              "bowler": "MG Erasmus",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Ervine",
+              "bowler": "MG Erasmus",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Ervine",
+              "bowler": "MG Erasmus",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "CR Ervine",
+              "bowler": "JN Frylinck",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "JN Frylinck",
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "JN Frylinck",
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Ervine",
+              "bowler": "JN Frylinck",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CR Ervine",
+              "bowler": "JN Frylinck",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CR Ervine",
+                  "fielders": [
+                    {
+                      "name": "M van Lingen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "JN Frylinck",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "T Lungameni",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "T Lungameni",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "T Lungameni",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "T Lungameni",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "T Lungameni",
+              "non_striker": "I Kaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "T Lungameni",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "I Kaia",
+              "bowler": "JN Loftie-Eaton",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "JN Loftie-Eaton",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "JN Loftie-Eaton",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "JN Loftie-Eaton",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Kaia",
+              "bowler": "JN Loftie-Eaton",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Kaia",
+                  "fielders": [
+                    {
+                      "name": "M van Lingen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "JN Loftie-Eaton",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "BM Scholtz",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "BM Scholtz",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "BM Scholtz",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "BM Scholtz",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "BM Scholtz",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "BM Scholtz",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "RP Burl",
+              "bowler": "JN Frylinck",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "JN Frylinck",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "JN Frylinck",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "JN Frylinck",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "JN Frylinck",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "JN Frylinck",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "RP Burl",
+              "bowler": "MG Erasmus",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "MG Erasmus",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "MG Erasmus",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "MG Erasmus",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RP Burl",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "MG Erasmus",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "MG Erasmus",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "W Madhevere",
+              "bowler": "B Shikongo",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "B Shikongo",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "B Shikongo",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "B Shikongo",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "B Shikongo",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "B Shikongo",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "BM Scholtz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "BM Scholtz",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "BM Scholtz",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "BM Scholtz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "BM Scholtz",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "BM Scholtz",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "BM Scholtz",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "BM Scholtz",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "T Lungameni",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "T Lungameni",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "T Lungameni",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "T Lungameni",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "T Lungameni",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "T Lungameni",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 6,
+                "extras": 1,
+                "total": 7
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "T Lungameni",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "T Lungameni",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "T Lungameni",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "W Madhevere",
+              "bowler": "MG Erasmus",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "MG Erasmus",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "MG Erasmus",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Madhevere",
+                  "fielders": [
+                    {
+                      "name": "JJ Smit"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Madande",
+              "bowler": "MG Erasmus",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Madande",
+              "bowler": "MG Erasmus",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "MG Erasmus",
+              "non_striker": "C Madande",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "MG Erasmus",
+              "non_striker": "C Madande",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "C Madande",
+              "bowler": "JN Frylinck",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Madande",
+              "bowler": "JN Frylinck",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Madande",
+              "bowler": "JN Frylinck",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Madande",
+              "bowler": "JN Frylinck",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "JN Frylinck",
+              "non_striker": "C Madande",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "JN Frylinck",
+              "non_striker": "C Madande",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "T Lungameni",
+              "non_striker": "C Madande",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "T Lungameni",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Madande",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "T Lungameni",
+              "non_striker": "C Madande",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "T Lungameni",
+              "non_striker": "C Madande",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "T Lungameni",
+              "non_striker": "C Madande",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Madande",
+              "bowler": "T Lungameni",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "T Lungameni",
+              "non_striker": "C Madande",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 199
+      }
+    }
+  ]
+}

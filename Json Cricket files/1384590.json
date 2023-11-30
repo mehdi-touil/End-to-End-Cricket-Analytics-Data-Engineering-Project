@@ -1,0 +1,2764 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-07-13",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Marsa",
+    "dates": [
+      "2023-07-13"
+    ],
+    "event": {
+      "name": "Valletta Cup",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2134,
+    "officials": {
+      "match_referees": [
+        "S Gowda"
+      ],
+      "reserve_umpires": [
+        "S Harnal"
+      ],
+      "umpires": [
+        "S Fernando",
+        "Vinay Malhotra"
+      ]
+    },
+    "outcome": {
+      "winner": "Switzerland",
+      "by": {
+        "wickets": 6
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Faheem Nazir"
+    ],
+    "players": {
+      "Romania": [
+        "R Satheesan",
+        "Taranjeet Singh",
+        "S Nadigotla",
+        "V Saini",
+        "S Periyalwar",
+        "R Kumar",
+        "Abdul Shakoor",
+        "S Vashisht",
+        "M Koli",
+        "S Thakur",
+        "P Hingorani"
+      ],
+      "Switzerland": [
+        "Faheem Nazir",
+        "Osama Mahmood",
+        "Arjun Vinod",
+        "Ahmed Hassan",
+        "Izhar Hussain",
+        "Ali Nayyer",
+        "NK Aneesh Kumar",
+        "MK Gnanasekaram",
+        "K Fletcher",
+        "Ashwin Vinod",
+        "Asad Mahmood"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Abdul Shakoor": "d52b13a6",
+        "Ahmed Hassan": "c439461b",
+        "Ali Nayyer": "4ec0443d",
+        "Arjun Vinod": "033e9d59",
+        "Asad Mahmood": "5038c022",
+        "Ashwin Vinod": "8a99caa9",
+        "Faheem Nazir": "7e00711f",
+        "Izhar Hussain": "1bc71d98",
+        "K Fletcher": "443d1fd8",
+        "M Koli": "eb0f2802",
+        "MK Gnanasekaram": "24b3651c",
+        "NK Aneesh Kumar": "e23da78c",
+        "Osama Mahmood": "601544aa",
+        "P Hingorani": "ecfdfbad",
+        "R Kumar": "2df874e6",
+        "R Satheesan": "1125ebe4",
+        "S Fernando": "bbeb5b15",
+        "S Gowda": "52f6fb22",
+        "S Harnal": "756fe781",
+        "S Nadigotla": "b78b3ffd",
+        "S Periyalwar": "d207e4fb",
+        "S Thakur": "a073f2ff",
+        "S Vashisht": "20ac8219",
+        "Taranjeet Singh": "ec483176",
+        "V Saini": "0fa81719",
+        "Vinay Malhotra": "452837d1"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Romania",
+      "Switzerland"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Switzerland"
+    },
+    "venue": "Marsa Sports Club"
+  },
+  "innings": [
+    {
+      "team": "Romania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ashwin Vinod",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ashwin Vinod",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ali Nayyer",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "Ali Nayyer",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "Ali Nayyer",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ali Nayyer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ali Nayyer",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ali Nayyer",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ali Nayyer",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ali Nayyer",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "Ashwin Vinod",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ali Nayyer",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ali Nayyer",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ali Nayyer",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ali Nayyer",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ali Nayyer",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ali Nayyer",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "K Fletcher",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "K Fletcher",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "K Fletcher",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "K Fletcher",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "K Fletcher",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "K Fletcher",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Satheesan",
+                  "fielders": [
+                    {
+                      "name": "Ahmed Hassan"
+                    },
+                    {
+                      "name": "Ali Nayyer"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Nadigotla",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "K Fletcher",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Taranjeet Singh",
+                  "fielders": [
+                    {
+                      "name": "Ashwin Vinod"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "K Fletcher",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "K Fletcher",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "K Fletcher",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "K Fletcher",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "K Fletcher",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "K Fletcher",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "S Nadigotla",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "Faheem Nazir",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Faheem Nazir",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Faheem Nazir",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Faheem Nazir",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Faheem Nazir",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Faheem Nazir",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Arjun Vinod",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Arjun Vinod",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Arjun Vinod",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Arjun Vinod",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Arjun Vinod",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Arjun Vinod",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Nadigotla",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "Arjun Vinod",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Arjun Vinod",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Arjun Vinod",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Arjun Vinod",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Arjun Vinod",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Arjun Vinod",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Faheem Nazir",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Faheem Nazir",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Faheem Nazir",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Faheem Nazir",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Faheem Nazir",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Faheem Nazir",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Nadigotla",
+                  "fielders": [
+                    {
+                      "name": "MK Gnanasekaram"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "Ali Nayyer",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Ali Nayyer",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Ali Nayyer",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Ali Nayyer",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Ali Nayyer",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Ali Nayyer",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "Faheem Nazir",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Faheem Nazir",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Faheem Nazir",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Saini",
+                  "fielders": [
+                    {
+                      "name": "NK Aneesh Kumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Kumar",
+              "bowler": "Faheem Nazir",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Kumar",
+              "bowler": "Faheem Nazir",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Kumar",
+              "bowler": "Faheem Nazir",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "R Kumar",
+              "bowler": "K Fletcher",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Kumar",
+              "bowler": "K Fletcher",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "K Fletcher",
+              "non_striker": "R Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Kumar",
+              "bowler": "K Fletcher",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Kumar",
+              "bowler": "K Fletcher",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Kumar",
+              "bowler": "K Fletcher",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Ali Nayyer",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "R Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Kumar",
+              "bowler": "Ali Nayyer",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Kumar",
+              "bowler": "Ali Nayyer",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Ali Nayyer",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "R Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Kumar",
+              "bowler": "Ali Nayyer",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Ali Nayyer",
+              "non_striker": "R Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Kumar",
+                  "fielders": [
+                    {
+                      "name": "Ahmed Hassan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Switzerland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Vashisht",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Vashisht",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Vashisht",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Vashisht",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "S Vashisht",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "S Vashisht",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Koli",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "M Koli",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Koli",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Koli",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Koli",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "M Koli",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Vashisht",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "S Vashisht",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "S Vashisht",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "S Vashisht",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "S Vashisht",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "S Vashisht",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Koli",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Osama Mahmood",
+                  "fielders": [
+                    {
+                      "name": "S Vashisht"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "M Koli",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "M Koli",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "M Koli",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "M Koli",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "M Koli",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "S Vashisht",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "S Vashisht",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "S Vashisht",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Vashisht",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "S Vashisht",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "S Vashisht",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "M Koli",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Arjun Vinod",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "M Koli",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "M Koli",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "M Koli",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "M Koli",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "M Koli",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "R Kumar",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "R Kumar",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "R Kumar",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "R Kumar",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "R Kumar",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "R Kumar",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "V Saini",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "V Saini",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "V Saini",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "V Saini",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "V Saini",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "V Saini",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "S Thakur",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "S Thakur",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Thakur",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Thakur",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "S Thakur",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "S Thakur",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ahmed Hassan",
+                  "fielders": [
+                    {
+                      "name": "S Vashisht"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "V Saini",
+              "non_striker": "Izhar Hussain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "V Saini",
+              "non_striker": "Izhar Hussain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "V Saini",
+              "non_striker": "Izhar Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Izhar Hussain",
+              "bowler": "V Saini",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Izhar Hussain",
+              "bowler": "V Saini",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Izhar Hussain",
+              "bowler": "V Saini",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Izhar Hussain",
+              "bowler": "S Thakur",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Thakur",
+              "non_striker": "Izhar Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Izhar Hussain",
+              "bowler": "S Thakur",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Izhar Hussain",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Ali Nayyer",
+              "bowler": "S Thakur",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Nayyer",
+              "bowler": "S Thakur",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Thakur",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Ali Nayyer",
+              "bowler": "V Saini",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ali Nayyer",
+              "bowler": "V Saini",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "V Saini",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Nayyer",
+              "bowler": "V Saini",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "V Saini",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "V Saini",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Ali Nayyer",
+              "bowler": "S Thakur",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Thakur",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Nayyer",
+              "bowler": "S Thakur",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Nayyer",
+              "bowler": "S Thakur",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Thakur",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Thakur",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Nayyer",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ali Nayyer",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Nayyer",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Thakur",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Nayyer",
+              "bowler": "S Thakur",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Thakur",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Thakur",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Thakur",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "S Thakur",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Ali Nayyer",
+              "bowler": "M Koli",
+              "non_striker": "Faheem Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "M Koli",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "M Koli",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "M Koli",
+              "non_striker": "Ali Nayyer",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 135
+      }
+    }
+  ]
+}

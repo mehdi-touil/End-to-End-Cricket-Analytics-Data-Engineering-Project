@@ -1,0 +1,2622 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-10-27",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Ranchi",
+    "dates": [
+      "2023-10-25"
+    ],
+    "event": {
+      "name": "Syed Mushtaq Ali Trophy",
+      "group": "C"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "DS Manohar"
+      ],
+      "umpires": [
+        "PM Joshi",
+        "Vinod Seshan"
+      ]
+    },
+    "outcome": {
+      "winner": "Gujarat",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Railways": [
+        "Shivam Chaudhary",
+        "Pratham Singh",
+        "N Kushwah",
+        "Mohammad Saif",
+        "Upendra Yadav",
+        "Vivek Singh",
+        "Ashutosh Sharma",
+        "AR Pandey",
+        "KV Sharma",
+        "Yuvraj Singh",
+        "Akash Pandey",
+        "RA Sharma"
+      ],
+      "Gujarat": [
+        "Aarya Desai",
+        "Urvil Patel",
+        "UR Kumar",
+        "Saurav Chauhan",
+        "Chirag Gandhi",
+        "AR Patel",
+        "PP Chawla",
+        "Chintan Gaja",
+        "A Nagwaswalla",
+        "Ravi Bishnoi",
+        "SN Patel"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Nagwaswalla": "01ada0ed",
+        "AR Pandey": "dd73b2ff",
+        "AR Patel": "2e171977",
+        "Aarya Desai": "8053c798",
+        "Akash Pandey": "f691e227",
+        "Ashutosh Sharma": "84d9c311",
+        "Chintan Gaja": "63bfb5fc",
+        "Chirag Gandhi": "35eb75af",
+        "DS Manohar": "b35f3ac8",
+        "KV Sharma": "119678fd",
+        "Mohammad Saif": "2843d331",
+        "N Kushwah": "87b9786b",
+        "PM Joshi": "0dcc9a8c",
+        "PP Chawla": "98ae73b1",
+        "Pratham Singh": "f9f21866",
+        "RA Sharma": "691d15fb",
+        "Ravi Bishnoi": "df064e1a",
+        "SN Patel": "f0f0f668",
+        "Saurav Chauhan": "9e7225b0",
+        "Shivam Chaudhary": "e53af640",
+        "UR Kumar": "2fda74a2",
+        "Upendra Yadav": "80ffea17",
+        "Urvil Patel": "cf59b3f0",
+        "Vinod Seshan": "a3357a27",
+        "Vivek Singh": "a446c7be",
+        "Yuvraj Singh": "30829ea2"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "club",
+    "teams": [
+      "Railways",
+      "Gujarat"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Gujarat"
+    },
+    "venue": "JSCA International Stadium Complex, Ranchi"
+  },
+  "innings": [
+    {
+      "team": "Railways",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Shivam Chaudhary",
+              "bowler": "Chintan Gaja",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Pratham Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pratham Singh",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Shivam Chaudhary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pratham Singh",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Shivam Chaudhary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Pratham Singh",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Shivam Chaudhary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pratham Singh",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Shivam Chaudhary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pratham Singh",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Shivam Chaudhary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Pratham Singh",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Shivam Chaudhary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pratham Singh",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Shivam Chaudhary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pratham Singh",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Shivam Chaudhary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Pratham Singh",
+                  "fielders": [
+                    {
+                      "name": "Saurav Chauhan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Kushwah",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Shivam Chaudhary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kushwah",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Shivam Chaudhary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Kushwah",
+                  "fielders": [
+                    {
+                      "name": "Urvil Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Saif",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Shivam Chaudhary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Shivam Chaudhary",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Mohammad Saif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shivam Chaudhary",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Mohammad Saif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shivam Chaudhary",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Mohammad Saif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shivam Chaudhary",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Mohammad Saif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shivam Chaudhary",
+                  "fielders": [
+                    {
+                      "name": "SN Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Mohammad Saif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Mohammad Saif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Mohammad Saif",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Saif",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Saif",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Saif",
+                  "fielders": [
+                    {
+                      "name": "Urvil Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Vivek Singh",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Upendra Yadav",
+              "replacements": {
+                "match": [
+                  {
+                    "in": "Vivek Singh",
+                    "out": "Pratham Singh",
+                    "team": "Railways",
+                    "reason": "impact_player"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vivek Singh",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vivek Singh",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Vivek Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Vivek Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Vivek Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Vivek Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Vivek Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Vivek Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Vivek Singh",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Vivek Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Vivek Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Vivek Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vivek Singh",
+              "bowler": "A Nagwaswalla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vivek Singh",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vivek Singh",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Vivek Singh",
+                  "fielders": [
+                    {
+                      "name": "AR Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "SN Patel",
+              "non_striker": "Ashutosh Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashutosh Sharma",
+              "bowler": "SN Patel",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashutosh Sharma",
+              "bowler": "SN Patel",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ashutosh Sharma",
+              "bowler": "SN Patel",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ashutosh Sharma",
+              "bowler": "SN Patel",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ashutosh Sharma",
+              "bowler": "SN Patel",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Ashutosh Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashutosh Sharma",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ashutosh Sharma",
+                  "fielders": [
+                    {
+                      "name": "A Nagwaswalla"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "SN Patel",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "SN Patel",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "SN Patel",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "SN Patel",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "SN Patel",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "SN Patel",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "PP Chawla",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "PP Chawla",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "PP Chawla",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "PP Chawla",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "PP Chawla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "PP Chawla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "AR Patel",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "AR Patel",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "AR Patel",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "AR Patel",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "AR Patel",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "AR Patel",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AR Pandey",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AR Pandey",
+              "bowler": "AR Patel",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "AR Patel",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "AR Patel",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "AR Patel",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "AR Patel",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "AR Patel",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AR Pandey",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Chintan Gaja",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "PP Chawla",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "PP Chawla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "PP Chawla",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Pandey",
+              "bowler": "PP Chawla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "PP Chawla",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "PP Chawla",
+              "non_striker": "AR Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AR Pandey",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Pandey",
+                  "fielders": [
+                    {
+                      "name": "AR Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KV Sharma",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KV Sharma",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "KV Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KV Sharma",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KV Sharma",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "KV Sharma",
+              "bowler": "PP Chawla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KV Sharma",
+              "bowler": "PP Chawla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KV Sharma",
+              "bowler": "PP Chawla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KV Sharma",
+              "bowler": "PP Chawla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KV Sharma",
+              "bowler": "PP Chawla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KV Sharma",
+              "bowler": "PP Chawla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "KV Sharma",
+              "bowler": "SN Patel",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "SN Patel",
+              "non_striker": "KV Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "SN Patel",
+              "non_striker": "KV Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "SN Patel",
+              "non_striker": "KV Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "SN Patel",
+              "non_striker": "KV Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "SN Patel",
+              "non_striker": "KV Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "KV Sharma",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KV Sharma",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KV Sharma",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Upendra Yadav",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "KV Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Upendra Yadav",
+                  "fielders": [
+                    {
+                      "name": "PP Chawla"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "KV Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yuvraj Singh",
+                  "fielders": [
+                    {
+                      "name": "Saurav Chauhan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Akash Pandey",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "KV Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Akash Pandey",
+                  "fielders": [
+                    {
+                      "name": "Urvil Patel"
+                    },
+                    {
+                      "name": "Saurav Chauhan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Gujarat",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Aarya Desai",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "Urvil Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "Urvil Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "Urvil Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "Urvil Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "Urvil Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "Urvil Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Aarya Desai",
+              "bowler": "AR Pandey",
+              "non_striker": "Urvil Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Urvil Patel",
+              "bowler": "AR Pandey",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Urvil Patel",
+              "bowler": "AR Pandey",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "AR Pandey",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Urvil Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "AR Pandey",
+              "non_striker": "Urvil Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Urvil Patel",
+              "bowler": "AR Pandey",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Urvil Patel",
+              "bowler": "AR Pandey",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Urvil Patel",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Urvil Patel",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Urvil Patel",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Urvil Patel",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Urvil Patel",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Urvil Patel",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Aarya Desai",
+              "bowler": "RA Sharma",
+              "non_striker": "Urvil Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "RA Sharma",
+              "non_striker": "Urvil Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "RA Sharma",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Urvil Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Urvil Patel",
+              "bowler": "RA Sharma",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Urvil Patel",
+              "bowler": "RA Sharma",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Urvil Patel",
+                  "fielders": [
+                    {
+                      "name": "Upendra Yadav"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "RA Sharma",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Aarya Desai",
+              "bowler": "AR Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "AR Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "AR Pandey",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "AR Pandey",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "AR Pandey",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "AR Pandey",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "UR Kumar",
+              "bowler": "RA Sharma",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "RA Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "RA Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "RA Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "RA Sharma",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "RA Sharma",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "UR Kumar",
+              "bowler": "Shivam Chaudhary",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "Shivam Chaudhary",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "Shivam Chaudhary",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "Shivam Chaudhary",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "Shivam Chaudhary",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "Shivam Chaudhary",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Aarya Desai",
+              "bowler": "KV Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "KV Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "KV Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "KV Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "KV Sharma",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "KV Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "UR Kumar",
+              "bowler": "Akash Pandey",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "Akash Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "Akash Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "Akash Pandey",
+              "non_striker": "Aarya Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "Akash Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "Akash Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Aarya Desai",
+              "bowler": "KV Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aarya Desai",
+              "bowler": "KV Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aarya Desai",
+                  "fielders": [
+                    {
+                      "name": "N Kushwah"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "KV Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "KV Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "KV Sharma",
+              "non_striker": "Saurav Chauhan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "KV Sharma",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "Saurav Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "Shivam Chaudhary",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "Shivam Chaudhary",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "Shivam Chaudhary",
+              "non_striker": "Saurav Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "Shivam Chaudhary",
+              "non_striker": "Saurav Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "Shivam Chaudhary",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "Shivam Chaudhary",
+              "non_striker": "Saurav Chauhan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "KV Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "KV Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "KV Sharma",
+              "non_striker": "Saurav Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "KV Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "KV Sharma",
+              "non_striker": "Saurav Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "KV Sharma",
+              "non_striker": "Saurav Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "UR Kumar",
+              "bowler": "RA Sharma",
+              "non_striker": "Saurav Chauhan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "RA Sharma",
+              "non_striker": "Saurav Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "RA Sharma",
+              "non_striker": "Saurav Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "RA Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "RA Sharma",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UR Kumar",
+              "bowler": "RA Sharma",
+              "non_striker": "Saurav Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "Akash Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "Akash Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "Akash Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "Akash Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "Akash Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "Akash Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "UR Kumar",
+              "bowler": "AR Pandey",
+              "non_striker": "Saurav Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "AR Pandey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "AR Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "AR Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "AR Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "AR Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "AR Pandey",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Saurav Chauhan",
+              "bowler": "Mohammad Saif",
+              "non_striker": "UR Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 150
+      }
+    }
+  ]
+}

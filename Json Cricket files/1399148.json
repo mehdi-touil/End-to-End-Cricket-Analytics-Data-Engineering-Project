@@ -1,0 +1,2950 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-10-07",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Doha",
+    "dates": [
+      "2023-10-05"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "match_number": 11
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2290,
+    "officials": {
+      "match_referees": [
+        "GS Lakshmi"
+      ],
+      "reserve_umpires": [
+        "Shivani Mishra"
+      ],
+      "umpires": [
+        "Bismillah Shinwari",
+        "Rahul Asher"
+      ]
+    },
+    "outcome": {
+      "winner": "Qatar",
+      "by": {
+        "runs": 42
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Muhammad Tanveer"
+    ],
+    "players": {
+      "Qatar": [
+        "Saqlain Arshad",
+        "I Liyanage",
+        "Mohammad Ahnaff",
+        "Muhammad Tanveer",
+        "Mohammed Irshad",
+        "Jassim Khan",
+        "Muhammad Murad",
+        "H Rathod",
+        "Muhammad Jabir",
+        "Bipin Kumar",
+        "Bukhar Illikkal"
+      ],
+      "Maldives": [
+        "Ibrahim Hassan",
+        "Umar Adam",
+        "Azyan Farhath",
+        "Shaof Hassan",
+        "Mohamed Rishwan",
+        "Ibrahim Nashath",
+        "Mohamed Azzam",
+        "Ameel Mauroof",
+        "Ibrahim Rizan",
+        "WJ Malinda",
+        "L Shafeeg"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Ameel Mauroof": "1579d497",
+        "Azyan Farhath": "3e06e7ac",
+        "Bipin Kumar": "c821e504",
+        "Bismillah Shinwari": "cae815a0",
+        "Bukhar Illikkal": "f4a2d087",
+        "GS Lakshmi": "ba8d5615",
+        "H Rathod": "1f943bef",
+        "I Liyanage": "826e1017",
+        "Ibrahim Hassan": "4add4c98",
+        "Ibrahim Nashath": "98514dce",
+        "Ibrahim Rizan": "7267e3cd",
+        "Jassim Khan": "67e36e53",
+        "L Shafeeg": "ed82d9a5",
+        "Mohamed Azzam": "e43c9818",
+        "Mohamed Rishwan": "7d15170b",
+        "Mohammad Ahnaff": "9b85a13a",
+        "Mohammed Irshad": "1a54d618",
+        "Muhammad Jabir": "b67af1c4",
+        "Muhammad Murad": "df3947f4",
+        "Muhammad Tanveer": "aef39fe4",
+        "Rahul Asher": "4956b0bf",
+        "Saqlain Arshad": "71ad618b",
+        "Shaof Hassan": "f6e160d7",
+        "Shivani Mishra": "2982a0c7",
+        "Umar Adam": "5d77a96a",
+        "WJ Malinda": "8f5313ce"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "international",
+    "teams": [
+      "Qatar",
+      "Maldives"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Maldives"
+    },
+    "venue": "West End Park International Cricket Stadium, Doha"
+  },
+  "innings": [
+    {
+      "team": "Qatar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "WJ Malinda",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "WJ Malinda",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "WJ Malinda",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "WJ Malinda",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "WJ Malinda",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "WJ Malinda",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "WJ Malinda",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "L Shafeeg",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "L Shafeeg",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "L Shafeeg",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "L Shafeeg",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "L Shafeeg",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "L Shafeeg",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "WJ Malinda",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "WJ Malinda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "WJ Malinda",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "WJ Malinda",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "WJ Malinda",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "WJ Malinda",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "WJ Malinda",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "L Shafeeg",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "L Shafeeg",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "L Shafeeg",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "L Shafeeg",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "L Shafeeg",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "L Shafeeg",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Umar Adam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Umar Adam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Umar Adam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Umar Adam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Umar Adam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Umar Adam",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ameel Mauroof",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Saqlain Arshad",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Saqlain Arshad",
+              "bowler": "Umar Adam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saqlain Arshad",
+                  "fielders": [
+                    {
+                      "name": "WJ Malinda"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Ahnaff",
+              "bowler": "Umar Adam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ahnaff",
+              "bowler": "Umar Adam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ahnaff",
+              "bowler": "Umar Adam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Umar Adam",
+              "non_striker": "Mohammad Ahnaff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ahnaff",
+              "bowler": "Umar Adam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Mohammad Ahnaff",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Mohammad Ahnaff",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Mohammad Ahnaff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ahnaff",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Mohammad Ahnaff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ahnaff",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ahnaff",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ahnaff",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Ahnaff",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "Mohammad Ahnaff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ahnaff",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ahnaff",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ahnaff",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "Mohammad Ahnaff",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "Mohammad Ahnaff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ahnaff",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "Mohammad Ahnaff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ahnaff",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ahnaff",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Ahnaff",
+                  "fielders": [
+                    {
+                      "name": "WJ Malinda"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Umar Adam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Umar Adam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Umar Adam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Umar Adam",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Umar Adam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Umar Adam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Umar Adam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Liyanage",
+                  "fielders": [
+                    {
+                      "name": "Ibrahim Hassan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammed Irshad",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Mohammed Irshad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Mohammed Irshad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Irshad",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Irshad",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Mohammed Irshad",
+              "bowler": "L Shafeeg",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "L Shafeeg",
+              "non_striker": "Mohammed Irshad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Irshad",
+              "bowler": "L Shafeeg",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammed Irshad",
+                  "fielders": [
+                    {
+                      "name": "WJ Malinda"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Jassim Khan",
+              "bowler": "L Shafeeg",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jassim Khan",
+              "bowler": "L Shafeeg",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "L Shafeeg",
+              "non_striker": "Jassim Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "L Shafeeg",
+              "non_striker": "Jassim Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Jassim Khan",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Jassim Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Jassim Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jassim Khan",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Jassim Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Jassim Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Muhammad Tanveer",
+              "bowler": "Umar Adam",
+              "non_striker": "Jassim Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Tanveer",
+                  "fielders": [
+                    {
+                      "name": "WJ Malinda"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Muhammad Murad",
+              "bowler": "Umar Adam",
+              "non_striker": "Jassim Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jassim Khan",
+              "bowler": "Umar Adam",
+              "non_striker": "Muhammad Murad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jassim Khan",
+              "bowler": "Umar Adam",
+              "non_striker": "Muhammad Murad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Jassim Khan",
+              "bowler": "Umar Adam",
+              "non_striker": "Muhammad Murad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Jassim Khan",
+              "bowler": "Umar Adam",
+              "non_striker": "Muhammad Murad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Jassim Khan",
+              "bowler": "Ibrahim Nashath",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Muhammad Murad",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jassim Khan",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "Muhammad Murad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jassim Khan",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "Muhammad Murad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Murad",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "Jassim Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Muhammad Murad",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "Jassim Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Murad",
+                  "fielders": [
+                    {
+                      "name": "WJ Malinda"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Rathod",
+              "bowler": "Ibrahim Nashath",
+              "non_striker": "Jassim Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "H Rathod",
+              "bowler": "L Shafeeg",
+              "non_striker": "Jassim Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Rathod",
+              "bowler": "L Shafeeg",
+              "non_striker": "Jassim Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jassim Khan",
+              "bowler": "L Shafeeg",
+              "non_striker": "H Rathod",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Jassim Khan",
+              "bowler": "L Shafeeg",
+              "non_striker": "H Rathod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Rathod",
+              "bowler": "L Shafeeg",
+              "non_striker": "Jassim Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jassim Khan",
+              "bowler": "L Shafeeg",
+              "non_striker": "H Rathod",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "player_out": "Jassim Khan",
+                  "fielders": [
+                    {
+                      "name": "WJ Malinda"
+                    },
+                    {
+                      "name": "L Shafeeg"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Maldives",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Hassan",
+              "bowler": "Muhammad Jabir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Hassan",
+              "bowler": "Muhammad Jabir",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Hassan",
+              "bowler": "Muhammad Jabir",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Hassan",
+              "bowler": "Muhammad Jabir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Hassan",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Hassan",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bipin Kumar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Hassan",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Hassan",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Hassan",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Hassan",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Hassan",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bukhar Illikkal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Hassan",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Umar Adam",
+              "bowler": "H Rathod",
+              "non_striker": "Ibrahim Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Hassan",
+              "bowler": "H Rathod",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ibrahim Hassan",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "H Rathod",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "H Rathod",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "H Rathod",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Umar Adam",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Shaof Hassan",
+              "bowler": "H Rathod",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Shaof Hassan",
+              "bowler": "Saqlain Arshad",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shaof Hassan",
+              "bowler": "Saqlain Arshad",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "Saqlain Arshad",
+              "non_striker": "Shaof Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "Saqlain Arshad",
+              "non_striker": "Shaof Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "Saqlain Arshad",
+              "non_striker": "Shaof Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaof Hassan",
+              "bowler": "Saqlain Arshad",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "H Rathod",
+              "non_striker": "Shaof Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaof Hassan",
+              "bowler": "H Rathod",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "H Rathod",
+              "non_striker": "Shaof Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaof Hassan",
+              "bowler": "H Rathod",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shaof Hassan",
+              "bowler": "H Rathod",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shaof Hassan",
+                  "fielders": [
+                    {
+                      "name": "I Liyanage"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "H Rathod",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "H Rathod",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "H Rathod",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "H Rathod",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "H Rathod",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "H Rathod",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "H Rathod",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "Muhammad Murad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "Muhammad Murad",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "Bipin Kumar",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Azyan Farhath",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Ibrahim Nashath",
+              "bowler": "Bukhar Illikkal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Nashath",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Nashath",
+              "bowler": "Bukhar Illikkal",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Ibrahim Nashath",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Ibrahim Nashath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohamed Rishwan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Mohamed Azzam",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Ibrahim Nashath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Nashath",
+              "bowler": "Muhammad Jabir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohamed Azzam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Nashath",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Mohamed Azzam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Nashath",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Mohamed Azzam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ibrahim Nashath",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Ahnaff"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ameel Mauroof",
+              "bowler": "Muhammad Jabir",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "Mohamed Azzam",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Ameel Mauroof",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "Mohamed Azzam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Mohamed Azzam",
+              "bowler": "H Rathod",
+              "non_striker": "Ameel Mauroof",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ameel Mauroof",
+              "bowler": "H Rathod",
+              "non_striker": "Mohamed Azzam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ameel Mauroof",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Ibrahim Rizan",
+              "bowler": "H Rathod",
+              "non_striker": "Mohamed Azzam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Ibrahim Rizan",
+                  "fielders": [
+                    {
+                      "name": "I Liyanage"
+                    },
+                    {
+                      "name": "H Rathod"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "WJ Malinda",
+              "bowler": "H Rathod",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohamed Azzam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WJ Malinda",
+              "bowler": "H Rathod",
+              "non_striker": "Mohamed Azzam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Azzam",
+              "bowler": "H Rathod",
+              "non_striker": "WJ Malinda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WJ Malinda",
+              "bowler": "H Rathod",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohamed Azzam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WJ Malinda",
+              "bowler": "H Rathod",
+              "non_striker": "Mohamed Azzam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Mohamed Azzam",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "WJ Malinda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohamed Azzam",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "WJ Malinda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohamed Azzam",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "L Shafeeg",
+              "bowler": "Muhammad Jabir",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "WJ Malinda",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WJ Malinda",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "L Shafeeg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Shafeeg",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "WJ Malinda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WJ Malinda",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "L Shafeeg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Shafeeg",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "WJ Malinda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "WJ Malinda",
+              "bowler": "Muhammad Murad",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "L Shafeeg",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WJ Malinda",
+              "bowler": "Muhammad Murad",
+              "non_striker": "L Shafeeg",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WJ Malinda",
+              "bowler": "Muhammad Murad",
+              "non_striker": "L Shafeeg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WJ Malinda",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 202
+      }
+    }
+  ]
+}

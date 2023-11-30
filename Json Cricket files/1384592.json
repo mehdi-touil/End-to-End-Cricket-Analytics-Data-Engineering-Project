@@ -1,0 +1,2775 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-07-14",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Marsa",
+    "dates": [
+      "2023-07-14"
+    ],
+    "event": {
+      "name": "Valletta Cup",
+      "match_number": 5
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2136,
+    "officials": {
+      "match_referees": [
+        "S Harnal"
+      ],
+      "reserve_umpires": [
+        "V Sridhar"
+      ],
+      "umpires": [
+        "S Gowda",
+        "Vinay Malhotra"
+      ]
+    },
+    "outcome": {
+      "winner": "Switzerland",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Osama Mahmood"
+    ],
+    "players": {
+      "Luxembourg": [
+        "TC Barker",
+        "SKS Gill",
+        "A Halbhavi",
+        "J Mees",
+        "J Barker",
+        "V Vijh",
+        "WJ Cope",
+        "E Jabarkhel",
+        "M Dixit",
+        "A Dhingra",
+        "A Nanda"
+      ],
+      "Switzerland": [
+        "Faheem Nazir",
+        "Osama Mahmood",
+        "Arjun Vinod",
+        "Ahmed Hassan",
+        "Izhar Hussain",
+        "Ali Nayyer",
+        "NK Aneesh Kumar",
+        "MK Gnanasekaram",
+        "K Fletcher",
+        "Ashwin Vinod",
+        "Abdullah Rana"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dhingra": "753ada66",
+        "A Halbhavi": "df1b4c8f",
+        "A Nanda": "704e0160",
+        "Abdullah Rana": "c4ab9b94",
+        "Ahmed Hassan": "c439461b",
+        "Ali Nayyer": "4ec0443d",
+        "Arjun Vinod": "033e9d59",
+        "Ashwin Vinod": "8a99caa9",
+        "E Jabarkhel": "21526a38",
+        "Faheem Nazir": "7e00711f",
+        "Izhar Hussain": "1bc71d98",
+        "J Barker": "c18cecbe",
+        "J Mees": "ab1445ea",
+        "K Fletcher": "443d1fd8",
+        "M Dixit": "d85d52c2",
+        "MK Gnanasekaram": "24b3651c",
+        "NK Aneesh Kumar": "e23da78c",
+        "Osama Mahmood": "601544aa",
+        "S Gowda": "52f6fb22",
+        "S Harnal": "756fe781",
+        "SKS Gill": "faef026c",
+        "TC Barker": "c31adb5c",
+        "V Sridhar": "42314166",
+        "V Vijh": "b857468a",
+        "Vinay Malhotra": "452837d1",
+        "WJ Cope": "fb34b0ec"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Luxembourg",
+      "Switzerland"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Switzerland"
+    },
+    "venue": "Marsa Sports Club"
+  },
+  "innings": [
+    {
+      "team": "Luxembourg",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "TC Barker",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TC Barker",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TC Barker",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TC Barker",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TC Barker",
+                  "fielders": [
+                    {
+                      "name": "MK Gnanasekaram"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ali Nayyer",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ali Nayyer",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ali Nayyer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ali Nayyer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ali Nayyer",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ali Nayyer",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ali Nayyer",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ali Nayyer",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ashwin Vinod",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ali Nayyer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ali Nayyer",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ali Nayyer",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ali Nayyer",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ali Nayyer",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ali Nayyer",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ali Nayyer",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ali Nayyer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ali Nayyer",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Halbhavi",
+              "bowler": "K Fletcher",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "K Fletcher",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "K Fletcher",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "K Fletcher",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "K Fletcher",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "K Fletcher",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "A Halbhavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Halbhavi",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "player_out": "A Halbhavi",
+                  "fielders": [
+                    {
+                      "name": "Osama Mahmood"
+                    },
+                    {
+                      "name": "Ahmed Hassan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "J Mees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ashwin Vinod",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Mees",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "J Mees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "J Mees",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mees",
+              "bowler": "Ashwin Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "J Mees",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Mees",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Mees",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Mees",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "J Barker",
+              "bowler": "Arjun Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "Arjun Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "Arjun Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "Arjun Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Arjun Vinod",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "Arjun Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SKS Gill",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "NK Aneesh Kumar",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SKS Gill",
+              "bowler": "Arjun Vinod",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Arjun Vinod",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "Arjun Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "Arjun Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Arjun Vinod",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "Arjun Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "J Barker",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "J Barker",
+              "bowler": "Arjun Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Arjun Vinod",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Arjun Vinod",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "Arjun Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Arjun Vinod",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "Arjun Vinod",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "J Barker",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "J Barker",
+              "bowler": "K Fletcher",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "K Fletcher",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "K Fletcher",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "K Fletcher",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "K Fletcher",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "K Fletcher",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "SKS Gill",
+              "bowler": "Abdullah Rana",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "Abdullah Rana",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Abdullah Rana",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "Abdullah Rana",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Abdullah Rana",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "Abdullah Rana",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "J Barker",
+              "bowler": "K Fletcher",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "K Fletcher",
+              "non_striker": "J Barker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Barker",
+              "bowler": "K Fletcher",
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Barker",
+                  "fielders": [
+                    {
+                      "name": "Ali Nayyer"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Vijh",
+              "bowler": "K Fletcher",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SKS Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKS Gill",
+              "bowler": "K Fletcher",
+              "non_striker": "V Vijh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SKS Gill",
+                  "fielders": [
+                    {
+                      "name": "Osama Mahmood"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "WJ Cope",
+              "bowler": "K Fletcher",
+              "non_striker": "V Vijh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "V Vijh",
+              "bowler": "Abdullah Rana",
+              "non_striker": "WJ Cope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WJ Cope",
+              "bowler": "Abdullah Rana",
+              "non_striker": "V Vijh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WJ Cope",
+                  "fielders": [
+                    {
+                      "name": "Ahmed Hassan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "E Jabarkhel",
+              "bowler": "Abdullah Rana",
+              "non_striker": "V Vijh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Vijh",
+              "bowler": "Abdullah Rana",
+              "non_striker": "E Jabarkhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Jabarkhel",
+              "bowler": "Abdullah Rana",
+              "non_striker": "V Vijh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Vijh",
+              "bowler": "Abdullah Rana",
+              "non_striker": "E Jabarkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Vijh",
+                  "fielders": [
+                    {
+                      "name": "Arjun Vinod"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "E Jabarkhel",
+              "bowler": "K Fletcher",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Dixit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Jabarkhel",
+              "bowler": "K Fletcher",
+              "non_striker": "M Dixit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Jabarkhel",
+              "bowler": "K Fletcher",
+              "non_striker": "M Dixit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Dixit",
+              "bowler": "K Fletcher",
+              "non_striker": "E Jabarkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Dixit",
+              "bowler": "K Fletcher",
+              "non_striker": "E Jabarkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Dixit",
+              "bowler": "K Fletcher",
+              "non_striker": "E Jabarkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Dixit",
+              "bowler": "K Fletcher",
+              "non_striker": "E Jabarkhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "M Dixit",
+              "bowler": "Abdullah Rana",
+              "non_striker": "E Jabarkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Dixit",
+              "bowler": "Abdullah Rana",
+              "non_striker": "E Jabarkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Dixit",
+              "bowler": "Abdullah Rana",
+              "non_striker": "E Jabarkhel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Dixit",
+              "bowler": "Abdullah Rana",
+              "non_striker": "E Jabarkhel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Dixit",
+              "bowler": "Abdullah Rana",
+              "non_striker": "E Jabarkhel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Dixit",
+              "bowler": "Abdullah Rana",
+              "non_striker": "E Jabarkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Dixit",
+                  "fielders": [
+                    {
+                      "name": "Ali Nayyer"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Switzerland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "A Nanda",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "A Nanda",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "A Nanda",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "A Nanda",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Nazir",
+              "bowler": "A Nanda",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Faheem Nazir",
+                  "fielders": [
+                    {
+                      "name": "J Mees"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Nanda",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "A Nanda",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "A Nanda",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "A Nanda",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "A Nanda",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "A Nanda",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "A Nanda",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Dixit",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Dixit",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Dixit",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Dixit",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Dixit",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Dixit",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Dixit",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "E Jabarkhel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "M Dixit",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "M Dixit",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "M Dixit",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "M Dixit",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Dixit",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Dixit",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Dixit",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "V Vijh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "V Vijh",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "V Vijh",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "V Vijh",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "V Vijh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "V Vijh",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Dhingra",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Dhingra",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Dhingra",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Dhingra",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Dhingra",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Dhingra",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "V Vijh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "V Vijh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "V Vijh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "V Vijh",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "V Vijh",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "V Vijh",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "A Dhingra",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Dhingra",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Dhingra",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "A Dhingra",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "A Dhingra",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Dhingra",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "M Dixit",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Dixit",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "M Dixit",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "M Dixit",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "M Dixit",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "M Dixit",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "A Dhingra",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Dhingra",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "A Dhingra",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Dhingra",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Dhingra",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Arjun Vinod",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "A Dhingra",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "E Jabarkhel",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "E Jabarkhel",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "A Nanda",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "A Nanda",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "A Nanda",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "A Nanda",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "A Nanda",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "A Nanda",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "V Vijh",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "V Vijh",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "V Vijh",
+              "non_striker": "Osama Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "V Vijh",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Osama Mahmood",
+              "bowler": "V Vijh",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 119
+      }
+    }
+  ]
+}

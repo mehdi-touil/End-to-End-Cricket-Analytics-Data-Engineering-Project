@@ -1,0 +1,2945 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-08-14",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Deventer",
+    "dates": [
+      "2023-08-14"
+    ],
+    "event": {
+      "name": "Germany tour of Netherlands",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2196,
+    "officials": {
+      "match_referees": [
+        "Adriaan van den Dries"
+      ],
+      "reserve_umpires": [
+        "M Prabhudesa"
+      ],
+      "umpires": [
+        "AM Deshpande",
+        "M Hancock"
+      ]
+    },
+    "outcome": {
+      "winner": "Guernsey",
+      "by": {
+        "wickets": 5
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "MWR Stokes"
+    ],
+    "players": {
+      "Germany": [
+        "V Ganesan",
+        "Shahid Afridi",
+        "Talha Khan",
+        "H Singh",
+        "Faisal Mubashir",
+        "Sahir Naqash",
+        "Fayaz Khan",
+        "Muslim Yar",
+        "SVE Bharathi",
+        "Sachin Mandy",
+        "Ghulam Ahmadi"
+      ],
+      "Guernsey": [
+        "GH Smit",
+        "J Butler",
+        "T Nightingale",
+        "MWR Stokes",
+        "OB Nightingale",
+        "LB Ferbrache",
+        "A Martel",
+        "LT Bichard",
+        "DR Hooper",
+        "A Bushell",
+        "D Mullen"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Bushell": "2d645c00",
+        "A Martel": "65cd62a9",
+        "AM Deshpande": "2622742a",
+        "Adriaan van den Dries": "94b5ec3b",
+        "D Mullen": "61da7440",
+        "DR Hooper": "0ac067e8",
+        "Faisal Mubashir": "ad5342dc",
+        "Fayaz Khan": "373954ca",
+        "GH Smit": "24776ac5",
+        "Ghulam Ahmadi": "2dfe0612",
+        "H Singh": "8209da53",
+        "J Butler": "efcb778e",
+        "LB Ferbrache": "0f72f582",
+        "LT Bichard": "dfcdb11e",
+        "M Hancock": "deb8c9a5",
+        "M Prabhudesa": "c36bcd1e",
+        "MWR Stokes": "c573d173",
+        "Muslim Yar": "37d8d19a",
+        "OB Nightingale": "1deb4c0c",
+        "SVE Bharathi": "6a63c29c",
+        "Sachin Mandy": "501fca0d",
+        "Sahir Naqash": "352e589f",
+        "Shahid Afridi": "5b2acc3f",
+        "T Nightingale": "51a125b3",
+        "Talha Khan": "8e5a1a7a",
+        "V Ganesan": "baa7dd37"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Germany",
+      "Guernsey"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Germany"
+    },
+    "venue": "Sportpark Het Schootsveld, Deventer"
+  },
+  "innings": [
+    {
+      "team": "Germany",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "V Ganesan",
+              "bowler": "T Nightingale",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "T Nightingale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "T Nightingale",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "T Nightingale",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "T Nightingale",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "T Nightingale",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "T Nightingale",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "LT Bichard",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "LT Bichard",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "LT Bichard",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "LT Bichard",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "V Ganesan",
+              "bowler": "D Mullen",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "D Mullen",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "D Mullen",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "D Mullen",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "D Mullen",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "D Mullen",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shahid Afridi",
+                  "fielders": [
+                    {
+                      "name": "A Bushell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Ganesan",
+                  "fielders": [
+                    {
+                      "name": "A Bushell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Talha Khan",
+              "bowler": "D Mullen",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "D Mullen",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Talha Khan",
+              "bowler": "D Mullen",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "D Mullen",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "D Mullen",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "D Mullen",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Talha Khan",
+              "bowler": "T Nightingale",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Talha Khan",
+              "bowler": "T Nightingale",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Talha Khan",
+              "bowler": "T Nightingale",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "T Nightingale",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "T Nightingale",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Talha Khan",
+              "bowler": "T Nightingale",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "H Singh",
+              "bowler": "MWR Stokes",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "MWR Stokes",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Talha Khan",
+              "bowler": "MWR Stokes",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "MWR Stokes",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Talha Khan",
+              "bowler": "MWR Stokes",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "MWR Stokes",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Talha Khan",
+              "bowler": "A Martel",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Talha Khan",
+              "bowler": "A Martel",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Talha Khan",
+              "bowler": "A Martel",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "A Martel",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Talha Khan",
+              "bowler": "A Martel",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Talha Khan",
+              "bowler": "A Martel",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Talha Khan",
+                  "fielders": [
+                    {
+                      "name": "A Bushell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "H Singh",
+              "bowler": "MWR Stokes",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "MWR Stokes",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "MWR Stokes",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "MWR Stokes",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "MWR Stokes",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "MWR Stokes",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "A Martel",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "A Martel",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "A Martel",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "A Martel",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "A Martel",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "A Martel",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "MWR Stokes",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "MWR Stokes",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "MWR Stokes",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "MWR Stokes",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Singh",
+              "bowler": "MWR Stokes",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Singh",
+                  "fielders": [
+                    {
+                      "name": "T Nightingale"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "MWR Stokes",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "A Martel",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "A Martel",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "A Martel",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "A Martel",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "A Martel",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "A Martel",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "MWR Stokes",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "MWR Stokes",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "MWR Stokes",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "MWR Stokes",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "MWR Stokes",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "MWR Stokes",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "A Martel",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "A Martel",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "A Martel",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "A Martel",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "A Martel",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "A Martel",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "T Nightingale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "T Nightingale",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "T Nightingale",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "T Nightingale",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "T Nightingale",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "T Nightingale",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "T Nightingale",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "D Mullen",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "D Mullen",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "D Mullen",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "D Mullen",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "D Mullen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "D Mullen",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "D Mullen",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "T Nightingale",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "T Nightingale",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "T Nightingale",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "T Nightingale",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "T Nightingale",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "T Nightingale",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Faisal Mubashir",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "LT Bichard",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fayaz Khan",
+              "bowler": "LT Bichard",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fayaz Khan",
+              "bowler": "LT Bichard",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "LT Bichard",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "LT Bichard",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fayaz Khan",
+              "bowler": "LT Bichard",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Fayaz Khan",
+              "bowler": "D Mullen",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fayaz Khan",
+              "bowler": "D Mullen",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fayaz Khan",
+              "bowler": "D Mullen",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "D Mullen",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fayaz Khan",
+              "bowler": "D Mullen",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fayaz Khan",
+              "bowler": "D Mullen",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "LT Bichard",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fayaz Khan",
+              "bowler": "LT Bichard",
+              "non_striker": "Sahir Naqash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "LT Bichard",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "LT Bichard",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "LT Bichard",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sahir Naqash",
+              "bowler": "LT Bichard",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Guernsey",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GH Smit",
+                  "fielders": [
+                    {
+                      "name": "Sachin Mandy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "T Nightingale",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Fayaz Khan",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Fayaz Khan",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "T Nightingale",
+              "bowler": "Muslim Yar",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "T Nightingale",
+              "bowler": "Sahir Naqash",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Sahir Naqash",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Sahir Naqash",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Sahir Naqash",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "Sahir Naqash",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Sahir Naqash",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "T Nightingale",
+              "bowler": "Muslim Yar",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "Muslim Yar",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "SVE Bharathi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "SVE Bharathi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "T Nightingale",
+              "bowler": "Shahid Afridi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Shahid Afridi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Shahid Afridi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Shahid Afridi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "Shahid Afridi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "Shahid Afridi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "SVE Bharathi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "Muslim Yar",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Nightingale",
+                  "fielders": [
+                    {
+                      "name": "V Ganesan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Muslim Yar",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Muslim Yar",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MWR Stokes",
+              "bowler": "SVE Bharathi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "SVE Bharathi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "SVE Bharathi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Muslim Yar",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Muslim Yar",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Butler",
+                  "fielders": [
+                    {
+                      "name": "Sachin Mandy"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "OB Nightingale",
+              "bowler": "Muslim Yar",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Muslim Yar",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MWR Stokes",
+              "bowler": "SVE Bharathi",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "SVE Bharathi",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OB Nightingale",
+              "bowler": "SVE Bharathi",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OB Nightingale",
+              "bowler": "SVE Bharathi",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "SVE Bharathi",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "SVE Bharathi",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Sahir Naqash",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Sahir Naqash",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OB Nightingale",
+              "bowler": "Sahir Naqash",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OB Nightingale",
+              "bowler": "Sahir Naqash",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OB Nightingale",
+              "bowler": "Sahir Naqash",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Sahir Naqash",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "OB Nightingale",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OB Nightingale",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "OB Nightingale",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Fayaz Khan",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Fayaz Khan",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OB Nightingale",
+              "bowler": "Fayaz Khan",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OB Nightingale",
+              "bowler": "Fayaz Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OB Nightingale",
+              "bowler": "Fayaz Khan",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OB Nightingale",
+              "bowler": "Fayaz Khan",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OB Nightingale",
+              "bowler": "Fayaz Khan",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "OB Nightingale",
+                  "fielders": [
+                    {
+                      "name": "SVE Bharathi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Sahir Naqash",
+              "non_striker": "LB Ferbrache",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LB Ferbrache",
+              "bowler": "Sahir Naqash",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LB Ferbrache",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Martel",
+              "bowler": "Sahir Naqash",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Sahir Naqash",
+              "non_striker": "A Martel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Sahir Naqash",
+              "non_striker": "A Martel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Martel",
+              "bowler": "Sahir Naqash",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Fayaz Khan",
+              "non_striker": "A Martel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Martel",
+              "bowler": "Fayaz Khan",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Fayaz Khan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Martel",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Martel",
+              "bowler": "Fayaz Khan",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Fayaz Khan",
+              "non_striker": "A Martel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Fayaz Khan",
+              "non_striker": "A Martel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Fayaz Khan",
+              "non_striker": "A Martel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Sahir Naqash",
+              "non_striker": "A Martel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Sahir Naqash",
+              "non_striker": "A Martel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Martel",
+              "bowler": "Sahir Naqash",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Martel",
+              "bowler": "Sahir Naqash",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Sahir Naqash",
+              "non_striker": "A Martel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Martel",
+              "bowler": "Sahir Naqash",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 165
+      }
+    }
+  ]
+}

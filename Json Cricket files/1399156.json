@@ -1,0 +1,2451 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-10-07",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Hamilton",
+    "dates": [
+      "2023-10-04"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Americas Region Final",
+      "match_number": 7
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2287,
+    "officials": {
+      "match_referees": [
+        "Reon King"
+      ],
+      "reserve_umpires": [
+        "JM Williams"
+      ],
+      "umpires": [
+        "Emmerson Carrington",
+        "Jermaine Lindo"
+      ]
+    },
+    "outcome": {
+      "winner": "Canada",
+      "by": {
+        "runs": 166
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Pargat Singh"
+    ],
+    "players": {
+      "Canada": [
+        "A Johnson",
+        "NS Dhaliwal",
+        "Pargat Singh",
+        "H Thaker",
+        "NR Kirton",
+        "D Heyliger",
+        "N Dutta",
+        "Saad Bin Zafar",
+        "Kaleem Sana",
+        "SA Wijeratne",
+        "Shahid Ahmadzai"
+      ],
+      "Cayman Islands": [
+        "AR Naidoo",
+        "P Heron",
+        "RA Sealy",
+        "OR Willis",
+        "BKB Corbin",
+        "ROC Dunka",
+        "AF Ifill",
+        "C Wright",
+        "A Morris",
+        "M Manivannan",
+        "KA Bazil"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Johnson": "a28a7fba",
+        "A Morris": "04cf2e94",
+        "AF Ifill": "0e6c2f00",
+        "AR Naidoo": "68886c16",
+        "BKB Corbin": "036b8660",
+        "C Wright": "d465c6d7",
+        "D Heyliger": "f8c72766",
+        "Emmerson Carrington": "a428109a",
+        "H Thaker": "c01d7726",
+        "JM Williams": "b61d9d70",
+        "Jermaine Lindo": "1154bf4f",
+        "KA Bazil": "d22287a8",
+        "Kaleem Sana": "14810ee7",
+        "M Manivannan": "e5b16284",
+        "N Dutta": "e258a603",
+        "NR Kirton": "6b75c2b1",
+        "NS Dhaliwal": "cbabd6ad",
+        "OR Willis": "819574ef",
+        "P Heron": "30b902a3",
+        "Pargat Singh": "d2e67105",
+        "RA Sealy": "1e98804a",
+        "ROC Dunka": "762f43b7",
+        "Reon King": "20fbf68c",
+        "SA Wijeratne": "5fbd0632",
+        "Saad Bin Zafar": "f28a60e0",
+        "Shahid Ahmadzai": "3fb56752"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "international",
+    "teams": [
+      "Canada",
+      "Cayman Islands"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Canada"
+    },
+    "venue": "National Stadium, Hamilton"
+  },
+  "innings": [
+    {
+      "team": "Canada",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Johnson",
+              "bowler": "C Wright",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Johnson",
+              "bowler": "C Wright",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "C Wright",
+              "non_striker": "A Johnson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Johnson",
+              "bowler": "C Wright",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Johnson",
+              "bowler": "C Wright",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Johnson",
+                  "fielders": [
+                    {
+                      "name": "P Heron"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "C Wright",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Pargat Singh",
+              "bowler": "M Manivannan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "M Manivannan",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "M Manivannan",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "M Manivannan",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "M Manivannan",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "M Manivannan",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "M Manivannan",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "C Wright",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "C Wright",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "C Wright",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "C Wright",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "C Wright",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "C Wright",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "M Manivannan",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "M Manivannan",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "M Manivannan",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "M Manivannan",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "M Manivannan",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "M Manivannan",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Pargat Singh",
+              "bowler": "A Morris",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "A Morris",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "A Morris",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "A Morris",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "A Morris",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "A Morris",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Pargat Singh",
+              "bowler": "ROC Dunka",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "ROC Dunka",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "ROC Dunka",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "ROC Dunka",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "ROC Dunka",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "ROC Dunka",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "A Morris",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "A Morris",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "A Morris",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "A Morris",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "A Morris",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "A Morris",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "ROC Dunka",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "ROC Dunka",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "ROC Dunka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "ROC Dunka",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "ROC Dunka",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "ROC Dunka",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "ROC Dunka",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Pargat Singh",
+              "bowler": "KA Bazil",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "KA Bazil",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "KA Bazil",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "KA Bazil",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "KA Bazil",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "KA Bazil",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "AF Ifill",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "AF Ifill",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "AF Ifill",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "AF Ifill",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "AF Ifill",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "AF Ifill",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "KA Bazil",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "KA Bazil",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "KA Bazil",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "KA Bazil",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "KA Bazil",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "KA Bazil",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Pargat Singh",
+              "bowler": "AF Ifill",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "AF Ifill",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Dhaliwal",
+              "bowler": "AF Ifill",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NS Dhaliwal",
+                  "fielders": [
+                    {
+                      "name": "C Wright"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Thaker",
+              "bowler": "AF Ifill",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Thaker",
+              "bowler": "AF Ifill",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Thaker",
+              "bowler": "AF Ifill",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Pargat Singh",
+              "bowler": "A Morris",
+              "non_striker": "H Thaker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Thaker",
+              "bowler": "A Morris",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Thaker",
+              "bowler": "A Morris",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Thaker",
+              "bowler": "A Morris",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "A Morris",
+              "non_striker": "H Thaker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "A Morris",
+              "non_striker": "H Thaker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "H Thaker",
+              "bowler": "AF Ifill",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Thaker",
+                  "fielders": [
+                    {
+                      "name": "C Wright"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "AF Ifill",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "AF Ifill",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "AF Ifill",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "AF Ifill",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "AF Ifill",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "NR Kirton",
+              "bowler": "KA Bazil",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "KA Bazil",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "KA Bazil",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "KA Bazil",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "KA Bazil",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "KA Bazil",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Pargat Singh",
+              "bowler": "ROC Dunka",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "ROC Dunka",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "ROC Dunka",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "ROC Dunka",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "ROC Dunka",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "ROC Dunka",
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Pargat Singh",
+              "bowler": "C Wright",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "C Wright",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Pargat Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "C Wright",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "C Wright",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "C Wright",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Pargat Singh",
+              "bowler": "C Wright",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Pargat Singh",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "NR Kirton",
+              "bowler": "M Manivannan",
+              "non_striker": "D Heyliger",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "M Manivannan",
+              "non_striker": "D Heyliger",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "M Manivannan",
+              "non_striker": "D Heyliger",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "M Manivannan",
+              "non_striker": "D Heyliger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Heyliger",
+              "bowler": "M Manivannan",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Heyliger",
+              "bowler": "M Manivannan",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "NR Kirton",
+              "bowler": "C Wright",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Heyliger",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "C Wright",
+              "non_striker": "D Heyliger",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "C Wright",
+              "non_striker": "D Heyliger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Heyliger",
+              "bowler": "C Wright",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "C Wright",
+              "non_striker": "D Heyliger",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "C Wright",
+              "non_striker": "D Heyliger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Heyliger",
+              "bowler": "C Wright",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Heyliger",
+              "bowler": "C Wright",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "NR Kirton",
+              "bowler": "ROC Dunka",
+              "non_striker": "D Heyliger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NR Kirton",
+                  "fielders": [
+                    {
+                      "name": "AR Naidoo"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Dutta",
+              "bowler": "ROC Dunka",
+              "non_striker": "D Heyliger",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Dutta",
+              "bowler": "ROC Dunka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Heyliger",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Dutta",
+              "bowler": "ROC Dunka",
+              "non_striker": "D Heyliger",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Dutta",
+              "bowler": "ROC Dunka",
+              "non_striker": "D Heyliger",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Dutta",
+              "bowler": "ROC Dunka",
+              "non_striker": "D Heyliger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Heyliger",
+              "bowler": "ROC Dunka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "miscounted_overs": {
+        "9": {
+          "balls": "5"
+        }
+      }
+    },
+    {
+      "team": "Cayman Islands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Kaleem Sana",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Kaleem Sana",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Kaleem Sana",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Kaleem Sana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Kaleem Sana",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Kaleem Sana",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Naidoo",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "Kaleem Sana",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "Kaleem Sana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "Kaleem Sana",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "P Heron",
+              "bowler": "H Thaker",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "H Thaker",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "H Thaker",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "H Thaker",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "H Thaker",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "H Thaker",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RA Sealy",
+              "bowler": "Kaleem Sana",
+              "non_striker": "P Heron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "Kaleem Sana",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "Kaleem Sana",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "Kaleem Sana",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Heron",
+              "bowler": "Kaleem Sana",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Heron",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "OR Willis",
+              "bowler": "Kaleem Sana",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "RA Sealy",
+              "bowler": "H Thaker",
+              "non_striker": "OR Willis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "H Thaker",
+              "non_striker": "OR Willis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "H Thaker",
+              "non_striker": "OR Willis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "H Thaker",
+              "non_striker": "OR Willis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "H Thaker",
+              "non_striker": "OR Willis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "H Thaker",
+              "non_striker": "OR Willis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RA Sealy",
+                  "fielders": [
+                    {
+                      "name": "A Johnson"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "OR Willis",
+              "bowler": "Kaleem Sana",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OR Willis",
+              "bowler": "Kaleem Sana",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OR Willis",
+              "bowler": "Kaleem Sana",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "OR Willis",
+              "bowler": "Kaleem Sana",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OR Willis",
+              "bowler": "Kaleem Sana",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "OR Willis",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "ROC Dunka",
+              "bowler": "Kaleem Sana",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ROC Dunka",
+              "bowler": "Kaleem Sana",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "BKB Corbin",
+              "bowler": "H Thaker",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "H Thaker",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "H Thaker",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BKB Corbin",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AF Ifill",
+              "bowler": "H Thaker",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AF Ifill",
+              "bowler": "H Thaker",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AF Ifill",
+              "bowler": "H Thaker",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "ROC Dunka",
+              "bowler": "D Heyliger",
+              "non_striker": "AF Ifill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ROC Dunka",
+              "bowler": "D Heyliger",
+              "non_striker": "AF Ifill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ROC Dunka",
+              "bowler": "D Heyliger",
+              "non_striker": "AF Ifill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AF Ifill",
+              "bowler": "D Heyliger",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AF Ifill",
+              "bowler": "D Heyliger",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AF Ifill",
+              "bowler": "D Heyliger",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AF Ifill",
+                  "fielders": [
+                    {
+                      "name": "NS Dhaliwal"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "C Wright",
+              "bowler": "H Thaker",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Wright",
+              "bowler": "H Thaker",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Wright",
+              "bowler": "H Thaker",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Wright",
+              "bowler": "H Thaker",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Wright",
+              "bowler": "H Thaker",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Wright",
+              "bowler": "H Thaker",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "C Wright",
+              "bowler": "D Heyliger",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Wright",
+              "bowler": "D Heyliger",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Wright",
+              "bowler": "D Heyliger",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Wright",
+              "bowler": "D Heyliger",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Wright",
+              "bowler": "D Heyliger",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ROC Dunka",
+              "bowler": "D Heyliger",
+              "non_striker": "C Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "ROC Dunka",
+              "bowler": "N Dutta",
+              "non_striker": "C Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ROC Dunka",
+                  "fielders": [
+                    {
+                      "name": "Saad Bin Zafar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Morris",
+              "bowler": "N Dutta",
+              "non_striker": "C Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Morris",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "M Manivannan",
+              "bowler": "N Dutta",
+              "non_striker": "C Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Manivannan",
+              "bowler": "N Dutta",
+              "non_striker": "C Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Manivannan",
+              "bowler": "N Dutta",
+              "non_striker": "C Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Manivannan",
+              "bowler": "N Dutta",
+              "non_striker": "C Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "C Wright",
+              "bowler": "Kaleem Sana",
+              "non_striker": "M Manivannan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Wright",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "KA Bazil",
+              "bowler": "Kaleem Sana",
+              "non_striker": "M Manivannan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Bazil",
+              "bowler": "Kaleem Sana",
+              "non_striker": "M Manivannan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Manivannan",
+              "bowler": "Kaleem Sana",
+              "non_striker": "KA Bazil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Manivannan",
+              "bowler": "Kaleem Sana",
+              "non_striker": "KA Bazil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Manivannan",
+              "bowler": "Kaleem Sana",
+              "non_striker": "KA Bazil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "KA Bazil",
+              "bowler": "N Dutta",
+              "non_striker": "M Manivannan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Bazil",
+              "bowler": "N Dutta",
+              "non_striker": "M Manivannan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Bazil",
+              "bowler": "N Dutta",
+              "non_striker": "M Manivannan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KA Bazil",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 197
+      }
+    }
+  ]
+}

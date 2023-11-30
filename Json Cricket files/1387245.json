@@ -1,0 +1,3067 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-08-15",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Deventer",
+    "dates": [
+      "2023-08-15"
+    ],
+    "event": {
+      "name": "Germany tour of Netherlands",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2197,
+    "officials": {
+      "match_referees": [
+        "Adriaan van den Dries"
+      ],
+      "reserve_umpires": [
+        "BV Arya"
+      ],
+      "umpires": [
+        "M Hancock",
+        "M Prabhudesa"
+      ]
+    },
+    "outcome": {
+      "winner": "Guernsey",
+      "by": {
+        "runs": 10
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "J Butler"
+    ],
+    "players": {
+      "Guernsey": [
+        "J Butler",
+        "GH Smit",
+        "MWR Stokes",
+        "T Nightingale",
+        "A Martel",
+        "LT Bichard",
+        "A Bushell",
+        "LB Ferbrache",
+        "DR Hooper",
+        "D Mullen",
+        "OB Nightingale"
+      ],
+      "Germany": [
+        "V Ganesan",
+        "Shahid Afridi",
+        "Talha Khan",
+        "Faisal Mubashir",
+        "Ahmed Wardak",
+        "Sachin Mandy",
+        "Fayaz Khan",
+        "Muslim Yar",
+        "Zahid Zadran",
+        "Ghulam Ahmadi",
+        "SVE Bharathi"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Bushell": "2d645c00",
+        "A Martel": "65cd62a9",
+        "Adriaan van den Dries": "94b5ec3b",
+        "Ahmed Wardak": "3daaabaa",
+        "BV Arya": "0bf06c6d",
+        "D Mullen": "61da7440",
+        "DR Hooper": "0ac067e8",
+        "Faisal Mubashir": "ad5342dc",
+        "Fayaz Khan": "373954ca",
+        "GH Smit": "24776ac5",
+        "Ghulam Ahmadi": "2dfe0612",
+        "J Butler": "efcb778e",
+        "LB Ferbrache": "0f72f582",
+        "LT Bichard": "dfcdb11e",
+        "M Hancock": "deb8c9a5",
+        "M Prabhudesa": "c36bcd1e",
+        "MWR Stokes": "c573d173",
+        "Muslim Yar": "37d8d19a",
+        "OB Nightingale": "1deb4c0c",
+        "SVE Bharathi": "6a63c29c",
+        "Sachin Mandy": "501fca0d",
+        "Shahid Afridi": "5b2acc3f",
+        "T Nightingale": "51a125b3",
+        "Talha Khan": "8e5a1a7a",
+        "V Ganesan": "baa7dd37",
+        "Zahid Zadran": "a819f6c8"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Guernsey",
+      "Germany"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Guernsey"
+    },
+    "venue": "Sportpark Het Schootsveld, Deventer"
+  },
+  "innings": [
+    {
+      "team": "Guernsey",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Fayaz Khan",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Fayaz Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Fayaz Khan",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Fayaz Khan",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Fayaz Khan",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Fayaz Khan",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Fayaz Khan",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Zahid Zadran",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Fayaz Khan",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Fayaz Khan",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Zahid Zadran",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Muslim Yar",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Muslim Yar",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Zahid Zadran",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Zahid Zadran",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Zahid Zadran",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Zahid Zadran",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Muslim Yar",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Muslim Yar",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "SVE Bharathi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Muslim Yar",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Muslim Yar",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Muslim Yar",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "GH Smit",
+              "bowler": "SVE Bharathi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "SVE Bharathi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "SVE Bharathi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "SVE Bharathi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "SVE Bharathi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "SVE Bharathi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "GH Smit",
+              "bowler": "Ahmed Wardak",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ahmed Wardak",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ahmed Wardak",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Ahmed Wardak",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Ahmed Wardak",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Ahmed Wardak",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "SVE Bharathi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "SVE Bharathi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "SVE Bharathi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "SVE Bharathi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Fayaz Khan",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Fayaz Khan",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Fayaz Khan",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "GH Smit",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Fayaz Khan",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Fayaz Khan",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Butler",
+                  "fielders": [
+                    {
+                      "name": "Muslim Yar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "GH Smit",
+              "bowler": "Zahid Zadran",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Zahid Zadran",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Zahid Zadran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Zahid Zadran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Zahid Zadran",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Zahid Zadran",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "MWR Stokes",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "GH Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Smit",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GH Smit",
+                  "fielders": [
+                    {
+                      "name": "Zahid Zadran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "Ghulam Ahmadi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Nightingale",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Nightingale",
+                  "fielders": [
+                    {
+                      "name": "Zahid Zadran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Martel",
+              "bowler": "Ghulam Ahmadi",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Martel",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Germany",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "V Ganesan",
+              "bowler": "T Nightingale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "T Nightingale",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "T Nightingale",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "T Nightingale",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "T Nightingale",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "T Nightingale",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "T Nightingale",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "LT Bichard",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "LT Bichard",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "LT Bichard",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "V Ganesan",
+              "bowler": "D Mullen",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "D Mullen",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "D Mullen",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "D Mullen",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "D Mullen",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "D Mullen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Shahid Afridi",
+                  "fielders": [
+                    {
+                      "name": "A Bushell"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Talha Khan",
+              "bowler": "D Mullen",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Talha Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Talha Khan",
+              "bowler": "LT Bichard",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Talha Khan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "LT Bichard",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "V Ganesan",
+              "bowler": "D Mullen",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "D Mullen",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "D Mullen",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "D Mullen",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "D Mullen",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "D Mullen",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "LT Bichard",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "LT Bichard",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "LT Bichard",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "LT Bichard",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "DR Hooper",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "DR Hooper",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "DR Hooper",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "DR Hooper",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "DR Hooper",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "DR Hooper",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "DR Hooper",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "A Martel",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "A Martel",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "A Martel",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "A Martel",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "A Martel",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "A Martel",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "V Ganesan",
+              "bowler": "DR Hooper",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "DR Hooper",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "DR Hooper",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "DR Hooper",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "DR Hooper",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "DR Hooper",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "A Martel",
+              "non_striker": "V Ganesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "A Martel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "A Martel",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Ganesan",
+              "bowler": "A Martel",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Ganesan",
+                  "fielders": [
+                    {
+                      "name": "J Butler"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "A Martel",
+              "non_striker": "Faisal Mubashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faisal Mubashir",
+              "bowler": "A Martel",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Faisal Mubashir",
+                  "fielders": [
+                    {
+                      "name": "J Butler"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sachin Mandy",
+              "bowler": "A Martel",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "T Nightingale",
+              "non_striker": "Sachin Mandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sachin Mandy",
+              "bowler": "T Nightingale",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Sachin Mandy",
+                  "fielders": [
+                    {
+                      "name": "A Bushell"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Fayaz Khan",
+              "bowler": "T Nightingale",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Fayaz Khan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "T Nightingale",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "T Nightingale",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "T Nightingale",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "A Martel",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "A Martel",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "A Martel",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "A Martel",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "A Martel",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "A Martel",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Muslim Yar",
+              "bowler": "T Nightingale",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "T Nightingale",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "T Nightingale",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "T Nightingale",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "T Nightingale",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "T Nightingale",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Muslim Yar",
+              "bowler": "A Martel",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "A Martel",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "A Martel",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "A Martel",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "A Martel",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "A Martel",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Muslim Yar",
+              "bowler": "D Mullen",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "D Mullen",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "D Mullen",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "D Mullen",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "D Mullen",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "D Mullen",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "DR Hooper",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "DR Hooper",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "DR Hooper",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "DR Hooper",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "DR Hooper",
+              "non_striker": "Ahmed Wardak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "DR Hooper",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "T Nightingale",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "T Nightingale",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Wardak",
+              "bowler": "T Nightingale",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ahmed Wardak",
+                  "fielders": [
+                    {
+                      "name": "LB Ferbrache"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Zahid Zadran",
+              "bowler": "T Nightingale",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zahid Zadran",
+              "bowler": "T Nightingale",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "T Nightingale",
+              "non_striker": "Zahid Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Muslim Yar",
+              "bowler": "LT Bichard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zahid Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "LT Bichard",
+              "non_striker": "Zahid Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahid Zadran",
+              "bowler": "LT Bichard",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "LT Bichard",
+              "non_striker": "Zahid Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahid Zadran",
+              "bowler": "LT Bichard",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zahid Zadran",
+                  "fielders": [
+                    {
+                      "name": "T Nightingale"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ghulam Ahmadi",
+              "bowler": "LT Bichard",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "LT Bichard",
+              "non_striker": "Ghulam Ahmadi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Ghulam Ahmadi",
+              "bowler": "DR Hooper",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muslim Yar",
+              "bowler": "DR Hooper",
+              "non_striker": "Ghulam Ahmadi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muslim Yar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SVE Bharathi",
+              "bowler": "DR Hooper",
+              "non_striker": "Ghulam Ahmadi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SVE Bharathi",
+              "bowler": "DR Hooper",
+              "non_striker": "Ghulam Ahmadi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ghulam Ahmadi",
+              "bowler": "DR Hooper",
+              "non_striker": "SVE Bharathi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ghulam Ahmadi",
+              "bowler": "DR Hooper",
+              "non_striker": "SVE Bharathi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Ghulam Ahmadi",
+              "bowler": "D Mullen",
+              "non_striker": "SVE Bharathi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ghulam Ahmadi",
+              "bowler": "D Mullen",
+              "non_striker": "SVE Bharathi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SVE Bharathi",
+              "bowler": "D Mullen",
+              "non_striker": "Ghulam Ahmadi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SVE Bharathi",
+              "bowler": "D Mullen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ghulam Ahmadi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SVE Bharathi",
+              "bowler": "D Mullen",
+              "non_striker": "Ghulam Ahmadi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ghulam Ahmadi",
+              "bowler": "D Mullen",
+              "non_striker": "SVE Bharathi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ghulam Ahmadi",
+              "bowler": "D Mullen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SVE Bharathi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ghulam Ahmadi",
+              "bowler": "D Mullen",
+              "non_striker": "SVE Bharathi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 173
+      }
+    }
+  ]
+}
